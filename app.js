@@ -11,17 +11,19 @@
   const hasCode=o=>o.code&&String(o.code).trim()&&!/^(-|ingen|none|n\/a|null)$/i.test(String(o.code).trim());
 
   const CATCH_RULES=[
-    ['Kort krävs',/kort|card|betalkort|kreditkort|betaluppgift|payment/i],
-    ['Bindningstid',/bind|binding|uppsägning|commit/i],
-    ['Endast nya kunder',/ny(a)? kund|new (customer|user|subscriber)|nya användare|första gång|first/i],
-    ['Förnyas automatiskt',/auto|förnya|renew|övergår|fortsätter|löpande/i],
-    ['Begränsad tid',/t\.?o\.?m|tom |until|begräns|limited|slutar|gäller till/i],
-    ['Ord. pris efteråt',/ordinarie|därefter|sedan|then|kr\/mån|kr\/vecka|\/month|per månad/i],
+    ['Kort/betaluppgifter krävs',/kort krävs|ev\.? kort|kortuppgift|betalkort|kreditkort|betaluppgift|card required|payment/i],
+    ['Bindningstid',t=>/bindning|binding|bindande/i.test(t)&&!/ingen bindning|utan bindning|no commitment/i.test(t)],
+    ['Endast nya kunder',/ny(a)? (kund|medlem)|new (customer|user)|aldrig haft|ej om (tidigare|du haft|provträning)|inte om du haft|tidigare .*provperiod|1 per hushåll/i],
+    ['Förnyas automatiskt',/auto-?förny|förnyas|auto-renew|övergår/i],
+    ['Begränsad tid',/t\.?o\.?m\.?|gäller \d|kampanj|until|begränsad/i],
+    ['Kostar efteråt',/sedan \d|därefter|kr\/mån|kr\/vecka|\/month/i],
+    ['Kräver registrering',/registrer|anmälan krävs|teckna|reception/i],
+    ['Avboka i tid',/avboka|avsluta|säg upp|ändra senast/i],
   ];
   function catchTypes(o){
     const t=String(o.catch||'');const out=[];
-    CATCH_RULES.forEach(([n,re])=>{if(re.test(t))out.push(n)});
-    if(!out.length&&t.trim()&&!/^(ingen|inga|none|-)$/i.test(t.trim()))out.push('Annat');
+    CATCH_RULES.forEach(([n,re])=>{if(typeof re==='function'?re(t):re.test(t))out.push(n)});
+    if(!out.length&&t.trim()&&!/^(ingen|inga|none|-|gratis\.?|fri entré.*)$/i.test(t.trim()))out.push('Annat');
     return out;
   }
 
@@ -79,14 +81,20 @@
   }
 
   // Lokalt: pull out address/date (explicit fields or found in offer/catch text)
+  const ADDR_RE=/((?:S:t |St\.? |Sankt )?(?:(?!(?:Vid|På|Nära|Mot|Hos|I|Gratis)\s)[A-ZÅÄÖ][a-zåäöé]+\s){0,3}(?:[A-ZÅÄÖ][a-zåäöé]*|[a-zåäöé]*)(?:gatan|vägen|torget|torg|platsen|plats|gränd|allén|stråket|bron|kajen|parken)(?:\s\d+(?:\s?[–-]\s?\d+)?[A-Za-z]?)?)/;
+  const DAY='(?:mån|tis|ons|tors|fre|lör|sön)(?:dag(?:en|ar)?)?(?![a-zåäö])';
+  const MON='(?:jan|feb|mar|apr|maj|jun|jul|aug|sep|okt|nov|dec)[a-z]*\\.?';
+  const TIME='\\d{1,2}(?:[:.]\\d{2})?\\s?[–-]\\s?\\d{1,2}(?:[:.]\\d{2})?|kl\\.?\\s?\\d{1,2}[:.]\\d{2}';
+  const DATE_RE=new RegExp(`(?:^|[\\s,(·])(${DAY}(?:\\s?[–-]\\s?${DAY})?(?:\\s\\d{1,2}\\s${MON})?(?:\\s(?:${TIME}))?|(?<!\\d)\\d{1,2}\\s${MON}(?:\\s(?:${TIME}))?|\\d{4}-\\d{2}-\\d{2}(?:\\s(?:${TIME}))?)`,'i');
+  // Lokalt: pull out address/date (explicit fields or found in offer/catch text)
   function localInfo(o){
-    const t=[o.offer,o.catch].join(' ');
+    const t=[o.offer,o.catch].join(' · ');
     let addr=o.address||o.adress||o.location||'';
-    if(!addr){const m=t.match(/((?:(?!(?:Vid|På|Nära|Mot|Hos|I)\s)[A-ZÅÄÖ][a-zåäöé]+\s){0,3}(?:[A-ZÅÄÖ][a-zåäöé]*|[a-zåäöé]*)(?:gatan|vägen|torget|torg|platsen|plats|gränd|allén|stråket)(?:\s\d+[A-Za-z]?)?)/);if(m)addr=m[1]}
+    if(!addr){const m=t.match(ADDR_RE);if(m)addr=m[1].trim()}
     let when=o.date||o.datum||o.when||'';
-    if(!when){const m=t.match(/(\d{4}-\d{2}-\d{2}(?:\s?(?:kl\.?\s?)?\d{1,2}[:.]\d{2})?|\d{1,2}\s(?:jan|feb|mar|apr|maj|jun|jul|aug|sep|okt|nov|dec)[a-z]*\.?(?:\s(?:kl\.?\s?)?\d{1,2}[:.]\d{2})?|(?:mån|tis|ons|tors|fre|lör|sön)dag(?:ar)?(?:\s(?:kl\.?\s?)?\d{1,2}[:.]\d{2}(?:[–-]\d{1,2}[:.]\d{2})?)?)/i);if(m)when=m[1]}
+    if(!when){const m=String(o.offer||'').match(DATE_RE);if(m)when=m[1].trim()}
     if(!addr&&!when)return '';
-    const q=encodeURIComponent((addr||'Sankt Knuts torg')+', Malmö');
+    const q=encodeURIComponent(addr+', Malmö');
     return `<div class="loc">${addr?`📍 <a href="https://www.google.com/maps/search/?api=1&query=${q}" target="_blank" rel="noopener">${esc(addr)}</a>`:''}${when?` <span class="when">🗓 ${esc(when)}</span>`:''}</div>`;
   }
 
@@ -103,7 +111,9 @@
       return String(x).localeCompare(String(y),'sv')*state.dir});
     $('#tbl tbody').innerHTML=rows.map(o=>{
       const c=o.category||'Övrigt';
-      const code=hasCode(o)?`<span class="code">${esc(o.code)}</span><button class="copy" data-code="${esc(o.code)}" title="Kopiera kod">Kopiera</button>`:'<span class="muted">–</span>';
+      let code='<span class="muted">–</span>';
+      if(hasCode(o)){const raw=String(o.code).trim();const tok=raw.split(/[\s(]/)[0];const note=raw.slice(tok.length).trim().replace(/^\((.*)\)$/,'$1');
+        code=`<span class="code">${esc(tok)}</span><button class="copy" data-code="${esc(tok)}" title="Kopiera kod">Kopiera</button>${note?`<div class="muted" style="font-size:12px">${esc(note)}</div>`:''}`}
       const d=day(o.first_seen)||esc(o.first_seen||'');
       const link=o.link?`<a class="go" href="${esc(o.link)}" target="_blank" rel="noopener">Till erbjudandet →</a>`:'';
       return `<tr>
