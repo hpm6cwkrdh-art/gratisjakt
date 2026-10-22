@@ -1,6 +1,6 @@
 (function(){
-  const CAT_COLORS={Matkassar:'#4ade80',AI:'#60a5fa',Lokalt:'#f472b6','Övrigt':'#a1a1aa'};
-  const CAT_ORDER=['Matkassar','AI','Lokalt','Övrigt'];
+  const CAT_COLORS={Matkassar:'#4ade80',Matkuponger:'#fbbf24',AI:'#60a5fa',Lokalt:'#f472b6','Övrigt':'#a1a1aa'};
+  const CAT_ORDER=['Matkassar','Matkuponger','AI','Lokalt','Övrigt'];
   const catSort=(a,b)=>{const i=CAT_ORDER.indexOf(a),j=CAT_ORDER.indexOf(b);return (i<0?99:i)-(j<0?99:j)||a.localeCompare(b,'sv')};
   const state={all:[],cat:'Alla',q:'',key:'first_seen',dir:-1};
   const $=s=>document.querySelector(s);
