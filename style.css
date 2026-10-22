@@ -49,6 +49,7 @@ td.offer{min-width:240px}
 .cat{display:inline-block;border-radius:6px;padding:2px 8px;font-size:12px;background:#1e293b}
 .cat.Matkassar{background:#14532d;color:#bbf7d0}
 .cat.AI{background:#1e3a8a;color:#bfdbfe}
+.cat.Matkuponger{background:#78350f;color:#fde68a}
 .cat.Lokalt{background:#831843;color:#fbcfe8}
 .loc{margin-top:4px;font-size:12px;color:var(--muted)}
 .loc a{color:#f9a8d4}
