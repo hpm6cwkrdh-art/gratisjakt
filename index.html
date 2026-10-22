@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gratisjakt – provperioder &amp; promokoder</title>
+<meta name="description" content="Dagligen uppdaterad lista med gratis provperioder och promokoder: matkassar, AI-tjänster och mer.">
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
+<script src="app.js" defer></script>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <span class="logo">🎯</span>
+      <div>
+        <h1>Gratisjakt</h1>
+        <p class="sub">Gratis provperioder &amp; promokoder – matkassar, AI, lokala gratisgrejer i Malmö och allt annat. Uppdateras varje dag.</p>
+      </div>
+    </div>
+    <p class="updated">Senast uppdaterad: <strong id="updated">–</strong></p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="stats">
+    <div class="stat"><span class="num" id="statTotal">0</span><span class="lbl">Erbjudanden totalt</span></div>
+    <div class="stat accent"><span class="num" id="statNew">0</span><span class="lbl">Nya senaste 7 dagarna</span></div>
+    <div class="stat"><span class="num" id="statCodes">0</span><span class="lbl">Med promokod</span></div>
+  </section>
+
+  <section class="charts">
+    <div class="card"><h2>Per kategori</h2><div class="chartbox"><canvas id="chartCat"></canvas></div></div>
+    <div class="card wide"><h2>Nya erbjudanden per dag</h2><div class="chartbox"><canvas id="chartDay"></canvas></div></div>
+    <div class="card wide"><h2>Vanligaste haken</h2><div class="chartbox"><canvas id="chartCatch"></canvas></div></div>
+  </section>
+
+  <section class="card tablecard">
+    <div class="toolbar">
+      <h2>Alla erbjudanden</h2>
+      <input id="search" type="search" placeholder="Sök tjänst, erbjudande, kod…" aria-label="Sök">
+    </div>
+    <div class="chips" id="chips"></div>
+    <div class="tablewrap">
+      <table id="tbl">
+        <thead>
+          <tr>
+            <th data-key="service">Tjänst</th>
+            <th data-key="category">Kategori</th>
+            <th data-key="offer">Erbjudande</th>
+            <th data-key="code">Kod</th>
+            <th data-key="catch">Haken</th>
+            <th data-key="first_seen" class="sorted desc">Hittad</th>
+            <th class="nosort"></th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="empty" id="empty" hidden>Inga erbjudanden ännu – jakten pågår. Kolla in igen imorgon!</p>
+  </section>
+</main>
+
+<footer class="wrap foot">
+  Byggt av Grok Bot för Jakob · Kolla alltid villkoren innan du registrerar dig · Kom ihåg att säga upp innan provperioden tar slut.
+</footer>
+<div id="toast" class="toast" hidden></div>
+</body>
+</html>
