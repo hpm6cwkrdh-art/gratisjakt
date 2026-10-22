@@ -1,1 +1,218 @@
-[]
+[
+  {
+    "service": "HelloFresh",
+    "category": "Matkassar",
+    "offer": "Upp till 819 kr rabatt på första 5 kassarna + fri frakt första kassen + Peugeot salt/pepparkvarn i kasse 3",
+    "code": "",
+    "link": "https://www.hellofresh.se/",
+    "catch": "Nya kunder (eller >52 v sedan). Ingen bindning, men första kassen avbokas bara via kundtjänst. Kampanj t.o.m. 8 nov 2026 21:59.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Linas Matkasse",
+    "category": "Matkassar",
+    "offer": "30 % på kasse 1, 20 % på kasse 2, 10 % på kasse 3 (upp till 1 026 kr)",
+    "code": "MATGLÄDJE2026 (partnerkod via matkassen.nu, ej verifierad hos Linas)",
+    "link": "https://www.linasmatkasse.se/",
+    "catch": "Nya kunder, 1 per hushåll, gäller 8 v. Ingen bindning, ändra senast tis 23:59.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "BetterFeast",
+    "category": "Matkassar",
+    "offer": "25 % rabatt på första Familjelådan (färdiglagat), fri frakt",
+    "code": "",
+    "link": "https://www.betterfeast.se/bestalla/",
+    "catch": "Nya kunder, 1 per hushåll. Ingen bindning men avboka minst 13 dagar före nästa leverans.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Google AI Pro (Gemini)",
+    "category": "AI",
+    "offer": "Gratis provperiod (ca 1 mån) för förstagångsprenumeranter",
+    "code": "",
+    "link": "https://gemini.google/se/subscriptions/",
+    "catch": "Kort krävs, auto-förnyas. Längden visas i kassan. Inte om du haft Google One AI Premium/AI Pro tidigare.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Microsoft 365 Premium (Copilot)",
+    "category": "AI",
+    "offer": "1 månad gratis inkl. Copilot",
+    "code": "",
+    "link": "https://www.microsoft.com/sv-se/microsoft-365/try",
+    "catch": "Kort krävs, auto-förnyas. Personal/Family har också 1 mån.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Google Cloud",
+    "category": "AI",
+    "offer": "300 USD gratis kredit i 90 dagar + free tier",
+    "code": "",
+    "link": "https://cloud.google.com/free",
+    "catch": "Nya kunder, kort krävs för verifiering.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Anthropic API (Claude)",
+    "category": "AI",
+    "offer": "5 USD startkredit för nya konton, inget kort",
+    "code": "",
+    "link": "https://platform.claude.com/",
+    "catch": "Enligt felloai (okt 2026), ej bekräftat på Anthropics sida.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Foodora",
+    "category": "Lokalt",
+    "offer": "70 % rabatt + fri leverans på första beställningen (dras automatiskt)",
+    "code": "",
+    "link": "https://www.foodora.se/",
+    "catch": "Bara nya kunder; RO 1 okt 2026: nykundsrabatter visas inte för alla, kolla appen.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "STC",
+    "category": "Lokalt",
+    "offer": "Gratis provträning 1 vecka, gym + gruppträning",
+    "code": "",
+    "link": "https://www.stc.se/faq/524-provtraning-rabatter-and-presentkort/499-jag-vill-provtrana-kan-jag-det",
+    "catch": "1 gång/halvår, teckna online, startar samma dag. STC-gym i Malmö.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Nordic Wellness",
+    "category": "Lokalt",
+    "offer": "Gratis provträning 1 vecka (gym, grupp)",
+    "code": "",
+    "link": "https://nordicwellness.se/traning/provtrana/",
+    "catch": "1 gång/kalenderår, bemannade tider, ev. kort 100 kr/armband 199 kr.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Friskis&Svettis Malmö",
+    "category": "Lokalt",
+    "offer": "2 veckor gratis, 5 gym + all gruppträning (närmast: Parkmöllan, Barkgatan 24)",
+    "code": "",
+    "link": "https://www.friskis.com/sv-se/malmo/2-veckor-prova-pa",
+    "catch": "Ej om provträning/kort under 2026. Registreras i reception.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Möllevångstorget Halloween-temamarknad",
+    "category": "Lokalt",
+    "offer": "Gratis temamarknad lör 31 okt 09–15, Möllevångstorget",
+    "code": "",
+    "link": "https://malmo.se/Stadsutveckling/Sa-utvecklar-vi-staden/Stadsmiljo/Pilotprojekt-Mollevangstorget.html",
+    "catch": "Fri entré, du betalar för det du köper.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Malmö Konsthall Helgverkstad",
+    "category": "Lokalt",
+    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30, S:t Johannesgatan 7",
+    "code": "",
+    "link": "https://malmokonsthall.se/evenemangs/helgverkstad-9/2026-10-24/",
+    "catch": "Fri entré, ingen anmälan.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Omarchy Malmö Meetup 001",
+    "category": "Lokalt",
+    "offer": "Gratis Linux-meetup + pizza tors 12 nov 18–20:30, Skeppsbron 2 (Coact, plan 3)",
+    "code": "",
+    "link": "https://luma.com/774wosun",
+    "catch": "Registrering på Luma.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "ABF: Mannen bakom basker blå",
+    "category": "Lokalt",
+    "offer": "Gratis föreläsning lör 24 okt 13–14:30, ABF Mosaiken, Porslinsgatan 3–5",
+    "code": "",
+    "link": "https://www.abf.se/malmo-sydvast/kurs/forelasning-mannen-bakom-basker-bla-3956729/",
+    "catch": "Gratis.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Kaféteatern (MAF)",
+    "category": "Lokalt",
+    "offer": "Gratis kaféteater sön 25 okt 16–18, MAF Spångatan 20",
+    "code": "",
+    "link": "https://www.abf.se/malmo-sydvast/kurs/kafeteatern-3956238/",
+    "catch": "Gratis.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Podme",
+    "category": "Övrigt",
+    "offer": "60 dagar gratis Premium/Premium Total (poddar + ljudböcker)",
+    "code": "OKT60",
+    "link": "https://podme.com/se/campaign/okt60/",
+    "catch": "Gäller 19–31 okt 2026, nya/återvändande (ej abonnemang senaste 90 d). Starta via webben. Sedan 99/189 kr/mån.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Spotify Premium",
+    "category": "Övrigt",
+    "offer": "1 månad för 0 kr",
+    "code": "",
+    "link": "https://www.spotify.com/se/premium/",
+    "catch": "Bara om du aldrig haft Premium-provperiod. Sedan 149 kr/mån.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "BookBeat",
+    "category": "Övrigt",
+    "offer": "30 dagar gratis (20 h lyssning)",
+    "code": "",
+    "link": "https://www.bookbeat.com/se",
+    "catch": "Kort krävs, auto-förnyas från 99 kr/mån.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Nextory",
+    "category": "Övrigt",
+    "offer": "14 dagar gratis (30 h)",
+    "code": "",
+    "link": "https://nextory.com/se",
+    "catch": "Betaluppgifter krävs, avsluta dagen före. Coop-medlemmar kan få 60 d via Extrabonus.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "YouTube Premium",
+    "category": "Övrigt",
+    "offer": "1 månad gratis",
+    "code": "",
+    "link": "https://www.youtube.com/premium",
+    "catch": "Bara nya medlemmar, kort krävs.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Deezer Premium",
+    "category": "Övrigt",
+    "offer": "1 månad gratis",
+    "code": "",
+    "link": "https://www.deezer.com/se/offers",
+    "catch": "Ej om tidigare Deezer-provperiod.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Apple TV",
+    "category": "Övrigt",
+    "offer": "7 dagar gratis",
+    "code": "",
+    "link": "https://tv.apple.com/se",
+    "catch": "Sedan 119 kr/mån.",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Dropbox",
+    "category": "Övrigt",
+    "offer": "30 dagar gratis provperiod på betalplaner",
+    "code": "",
+    "link": "https://www.dropbox.com/plans",
+    "catch": "Kort krävs, auto-förnyas.",
+    "first_seen": "2026-10-23"
+  }
+]
