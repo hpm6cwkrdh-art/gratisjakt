@@ -214,5 +214,104 @@
     "link": "https://www.dropbox.com/plans",
     "catch": "Kort krävs, auto-förnyas.",
     "first_seen": "2026-10-23"
+  },
+  {
+    "service": "ICA:s matkasse",
+    "category": "Matkassar",
+    "offer": "30% rabatt på dina 3 första kassar (t.ex. Familjens Favoriter 482 kr i st.f. 689 kr)",
+    "code": "",
+    "link": "https://icastig.se/icas-matkasse/",
+    "catch": "Från-pris, bara i utvalda ICA-butiker med matkasse; ingen bindningstid. Kampanjsidan gick inte att ladda helt, bekräfta i kassan",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Mathem",
+    "category": "Matkuponger",
+    "offer": "Fri leverans i 98 dagar för nya kunder (levererar i Malmö)",
+    "code": "",
+    "link": "https://www.mathem.se/se/about/gratis-leverans/",
+    "catch": "Kräver order ≥800 kr minst var 14:e dag; gäller ej samma-dag-leverans",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Coop medlemskap",
+    "category": "Matkuponger",
+    "offer": "Välkomstgåva: ett paket Coop-kaffe + poäng/medlemspriser",
+    "code": "",
+    "link": "https://kundservice.coop.se/hc/sv/articles/360013574139-Bli-medlem",
+    "catch": "100 kr insats (återbetalas om du går ur); gåvan aktiveras via mejl",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "McDonald's app (MyMcDonald's Rewards)",
+    "category": "Matkuponger",
+    "offer": "350 gratis poäng vid första köpet i appen (250 p räcker för en belöning)",
+    "code": "",
+    "link": "https://www.mcdonalds.com/se/sv-se/mer-pa-mcds/appen/mymcdonalds-rewards.html",
+    "catch": "Måste beställa/skanna i appen; poäng gäller 12 mån",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "7-Eleven app (The Corner Club)",
+    "category": "Matkuponger",
+    "offer": "En gratis kopp kaffe när du laddar ner appen och registrerar dig",
+    "code": "",
+    "link": "https://7-eleven.se/ladda-ner-appen/",
+    "catch": "En gång per användare",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Pressbyrån Kompis (app)",
+    "category": "Matkuponger",
+    "offer": "Värva en kompis: båda får en gratis varm dryck. Plus 50% på fika tisdagar 15–16",
+    "code": "",
+    "link": "https://www.pressbyran.se/handla-hos-oss/pressbyransapp/",
+    "catch": "Värvningskod krävs för den gratis drycken; minst 16 år",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Espresso House Fika Club",
+    "category": "Matkuponger",
+    "offer": "Gratis dryck på födelsedagen + poäng mot gratis dryck",
+    "code": "",
+    "link": "https://www.espressohouse.se/medlemmar",
+    "catch": "Kräver medlemskap i appen; födelsedagsdrycken kommer på födelsedagen",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Klubb Hemköp",
+    "category": "Matkuponger",
+    "offer": "2 500 välkomstpoäng = 1 bonuscheck direkt som ny medlem",
+    "code": "",
+    "link": "https://www.hemkop.se/registrera/privat/identifiera",
+    "catch": "Gratis medlemskap; närmaste Hemköp i Malmö krävs för att lösa in",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Lidl Plus",
+    "category": "Matkuponger",
+    "offer": "Gratis produkter när du handlar för 500/1000/1500 kr per månad, 40 kr rabatt vid 3000 kr",
+    "code": "",
+    "link": "https://www.lidl.se/c/lidl-plus-bonus/s10017055",
+    "catch": "Inte ett välkomsterbjudande; kräver att du skannar appen vid varje köp",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Wolt+",
+    "category": "Matkuponger",
+    "offer": "30 dagar gratis Wolt+ (fri leverans på många restauranger/butiker)",
+    "code": "",
+    "link": "https://life.wolt.com/en/swe/howto/wolt-promo-codes",
+    "catch": "Blir betald prenumeration efter 30 dagar – avsluta i tid; minsta ordervärde gäller för fri leverans",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "MyLunch – Eatery Västra Hamnen",
+    "category": "Lokalt",
+    "offer": "Matsvinnslåda till halva priset, 68 kr (Jungmansgatan 12)",
+    "code": "",
+    "link": "https://www.mylunch.se/matsvinn-lunch/malmo/",
+    "catch": "Inte gratis; vardagar 14:00–14:15, så långt lagret räcker",
+    "first_seen": "2026-10-23"
   }
 ]
