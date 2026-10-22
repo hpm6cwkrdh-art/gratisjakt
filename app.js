@@ -69,7 +69,7 @@
     let labels=[];
     if(days.length){let d=new Date(days[0]);const end=new Date(Math.max(new Date(days[days.length-1]),new Date(new Date().toISOString().slice(0,10))));
       while(d<=end){labels.push(d.toISOString().slice(0,10));d=new Date(d.getTime()+864e5)}}
-    const ds=cl.map(c=>({label:c,backgroundColor:CAT_COLORS[c]||'#f472b6',borderRadius:4,
+    const ds=cl.map(c=>({label:c,backgroundColor:CAT_COLORS[c]||'#f472b6',borderRadius:4,maxBarThickness:70,
       data:labels.map(l=>state.all.filter(o=>(o.category||'Övrigt')===c&&day(o.first_seen)===l).length)}));
     new Chart($('#chartDay'),{type:'bar',data:{labels,datasets:ds},
       options:{maintainAspectRatio:false,scales:{x:{stacked:true,grid:{display:false}},y:{stacked:true,beginAtZero:true,ticks:{precision:0}}},plugins:{legend:{position:'bottom'}}}});
@@ -119,7 +119,7 @@
       return `<tr>
         <td class="svc" data-l="Tjänst">${esc(o.service)}${isNew(o)?'<span class="badge">Nytt</span>':''}</td>
         <td data-l="Kategori"><span class="cat ${esc(c)}">${esc(c)}</span></td>
-        <td data-l="Erbjudande">${esc(o.offer)}${c==='Lokalt'?localInfo(o):''}</td>
+        <td data-l="Erbjudande" class="offer">${esc(o.offer)}${c==='Lokalt'?localInfo(o):''}</td>
         <td data-l="Kod">${code}</td>
         <td data-l="Haken" class="catch">${esc(o.catch||'–')}</td>
         <td data-l="Hittad" class="muted">${d}</td>
