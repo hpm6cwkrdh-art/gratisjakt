@@ -1,0 +1,770 @@
+{
+ "date": "2026-10-23",
+ "generated": "2026-10-23T02:08:22+02:00",
+ "location": "Sankt Knuts torg, Malmö (214 21)",
+ "method": "Ordinarie pris, billigaste jämförbara variant (egna märken ok). '(jmf)' = normaliserat via jämförpris till angiven mängd. Kampanjpriser ej medräknade i totalsumman.",
+ "basket": [
+  {
+   "id": "mjolk",
+   "name": "Mellanmjölk 1,5 l"
+  },
+  {
+   "id": "bregott",
+   "name": "Bregott normalsaltat 500 g"
+  },
+  {
+   "id": "agg",
+   "name": "Ägg 12 st (jmf/st)"
+  },
+  {
+   "id": "ost",
+   "name": "Hushållsost 1 kg (jmf/kg)"
+  },
+  {
+   "id": "yoghurt",
+   "name": "Naturell yoghurt 1 kg (jmf)"
+  },
+  {
+   "id": "rostbrod",
+   "name": "Rostbröd 450 g (jmf)"
+  },
+  {
+   "id": "pasta",
+   "name": "Pasta 1 kg"
+  },
+  {
+   "id": "ris",
+   "name": "Ris 1 kg (jmf)"
+  },
+  {
+   "id": "krossade",
+   "name": "Krossade tomater 500 g (jmf)"
+  },
+  {
+   "id": "kyckling",
+   "name": "Kycklingfilé fryst 1 kg (jmf)"
+  },
+  {
+   "id": "notfars",
+   "name": "Nötfärs 500 g"
+  },
+  {
+   "id": "falukorv",
+   "name": "Falukorv 800 g"
+  },
+  {
+   "id": "potatis",
+   "name": "Potatis 2 kg"
+  },
+  {
+   "id": "lok",
+   "name": "Gul lök 1 kg"
+  },
+  {
+   "id": "banan",
+   "name": "Bananer 1 kg"
+  },
+  {
+   "id": "apple",
+   "name": "Äpplen 1 kg"
+  },
+  {
+   "id": "gurka",
+   "name": "Gurka 1 st"
+  },
+  {
+   "id": "tomat",
+   "name": "Tomater 500 g"
+  },
+  {
+   "id": "kaffe",
+   "name": "Bryggkaffe 450 g (jmf)"
+  },
+  {
+   "id": "toapapper",
+   "name": "Toalettpapper 8-p"
+  }
+ ],
+ "stores": [
+  {
+   "id": "willys",
+   "name": "Willys Malmö Mobilia",
+   "chain": "Willys",
+   "address": "Trelleborgsvägen 7, 214 32 Malmö",
+   "store_id": "2253",
+   "source": "willys.se /search (Axfood JSON) med butik aktiverad",
+   "fees": {
+    "home_delivery": 158,
+    "home_delivery_note": "plock 59 + leverans 99",
+    "pickup": 59,
+    "pickup_note": "plockavgift",
+    "free_delivery_threshold": null,
+    "min_order": null
+   },
+   "first_order": "Ingen välkomstkod hittad; Willys Plus-medlemspriser"
+  },
+  {
+   "id": "hemkop",
+   "name": "Hemköp Malmö Triangeln",
+   "chain": "Hemköp",
+   "address": null,
+   "store_id": "4247",
+   "source": "hemkop.se /search (Axfood JSON) med butik aktiverad",
+   "fees": {
+    "home_delivery": 138,
+    "home_delivery_note": "plock 59 + leverans 79",
+    "pickup": 59,
+    "pickup_note": "plockavgift",
+    "free_delivery_threshold": 2000,
+    "min_order": null
+   },
+   "first_order": "Klubb Hemköp: 2 500 välkomstpoäng = 1 bonuscheck"
+  },
+  {
+   "id": "ica_mobilia",
+   "name": "ICA Kvantum Malmborgs Mobilia",
+   "chain": "ICA",
+   "address": "Mobilia, Malmö",
+   "store_id": "1004037",
+   "source": "handlaprivatkund.ica.se search (__INITIAL_STATE__)",
+   "fees": {
+    "home_delivery": null,
+    "home_delivery_note": "visas först vid tidsbokning (annan ICA visar 'från 139 kr', ej verifierat)",
+    "pickup": 59,
+    "pickup_note": "plockavgift 59 kr enligt butikens text",
+    "free_delivery_threshold": null,
+    "min_order": 100
+   },
+   "first_order": "Ingen välkomstkod hittad"
+  },
+  {
+   "id": "ica_maxi",
+   "name": "Maxi ICA Stormarknad Malmö",
+   "chain": "ICA",
+   "address": null,
+   "store_id": "1004492",
+   "source": "handlaprivatkund.ica.se search (__INITIAL_STATE__)",
+   "fees": {
+    "home_delivery": null,
+    "home_delivery_note": "visas först vid tidsbokning",
+    "pickup": null,
+    "pickup_note": "ej synlig utan tidsbokning",
+    "free_delivery_threshold": null,
+    "min_order": null
+   },
+   "first_order": "Ingen välkomstkod hittad"
+  },
+  {
+   "id": "coop",
+   "name": "Coop online Malmö (prisnivå Stora Coop Stadion)",
+   "chain": "Coop",
+   "address": "proxy för Coop Syd online; Coop Norra Parkgatan saknar webbsortiment",
+   "store_id": "105860",
+   "source": "coop.se publika sök-API (personalization/search/products, store=105860)",
+   "fees": {
+    "home_delivery": 49,
+    "home_delivery_note": "från 49 kr, varierar med tidsfönster",
+    "pickup": null,
+    "pickup_note": "ej kontrollerat",
+    "free_delivery_threshold": 2000,
+    "min_order": null,
+    "min_order_note": "ev. 500 kr i Skåne (ej verifierat)"
+   },
+   "first_order": "Coop-medlemsbonus; ingen välkomstkod hittad"
+  },
+  {
+   "id": "mathem",
+   "name": "Mathem",
+   "chain": "Mathem",
+   "address": "Hemleverans (Axfood-ägt, säljer Garant/Eldorado)",
+   "store_id": null,
+   "source": "mathem.se/se/search/products (SSR-HTML), utan postnummer = standardsortiment",
+   "fees": {
+    "home_delivery": null,
+    "home_delivery_note": "0 kr i 98 dagar för nya kunder vid order ≥800 kr minst var 14:e dag; ordinarie avgift ej kontrollerad",
+    "pickup": null,
+    "pickup_note": null,
+    "free_delivery_threshold": 800,
+    "min_order": null
+   },
+   "first_order": "Fri leverans i 98 dagar (nya kunder, ≥800 kr)"
+  }
+ ],
+ "prices": {
+  "mjolk": {
+   "willys": {
+    "price": 16.5
+   },
+   "hemkop": {
+    "price": 17.88
+   },
+   "ica_mobilia": {
+    "price": 18.98
+   },
+   "ica_maxi": {
+    "price": 16.5
+   },
+   "coop": {
+    "price": 19.5
+   },
+   "mathem": {
+    "price": 16.5,
+    "product": "Garant längre hållb."
+   }
+  },
+  "bregott": {
+   "willys": {
+    "price": 49.9,
+    "note": "kampanj just nu 34,90"
+   },
+   "hemkop": {
+    "price": 51.05
+   },
+   "ica_mobilia": {
+    "price": 52.19
+   },
+   "ica_maxi": {
+    "price": 40.0,
+    "note": "Bregott (kan vara tillfälligt pris)"
+   },
+   "coop": {
+    "price": 53.29,
+    "note": "Bregott eko 600 g, omräknat"
+   },
+   "mathem": {
+    "price": 49.95,
+    "product": "Bregott (extrapris 39,00)",
+    "note": "Bregott (extrapris 39,00)"
+   }
+  },
+  "agg": {
+   "willys": {
+    "price": 31.92
+   },
+   "hemkop": {
+    "price": 31.96
+   },
+   "ica_mobilia": {
+    "price": 35.98
+   },
+   "ica_maxi": {
+    "price": 32.28
+   },
+   "coop": {
+    "price": 35.16
+   },
+   "mathem": {
+    "price": 33.48,
+    "product": "Kronägg 20-p"
+   }
+  },
+  "ost": {
+   "willys": {
+    "price": 94.9
+   },
+   "hemkop": {
+    "price": 99.0
+   },
+   "ica_mobilia": {
+    "price": 79.0
+   },
+   "ica_maxi": {
+    "price": 84.9
+   },
+   "coop": {
+    "price": 97.0
+   },
+   "mathem": {
+    "price": 99.95,
+    "product": "Garant ~1 kg"
+   }
+  },
+  "yoghurt": {
+   "willys": {
+    "price": 14.9
+   },
+   "hemkop": {
+    "price": 15.95
+   },
+   "ica_mobilia": {
+    "price": 13.86
+   },
+   "ica_maxi": {
+    "price": 12.9
+   },
+   "coop": {
+    "price": 15.97
+   },
+   "mathem": {
+    "price": 14.63,
+    "product": "Garant 1,5 kg"
+   }
+  },
+  "rostbrod": {
+   "willys": {
+    "price": 15.9
+   },
+   "hemkop": {
+    "price": 17.93
+   },
+   "ica_mobilia": {
+    "price": 18.98
+   },
+   "ica_maxi": {
+    "price": 18.15
+   },
+   "coop": {
+    "price": 13.47
+   },
+   "mathem": {
+    "price": 12.13,
+    "product": "Skogaholm Originalrost 1 kg"
+   }
+  },
+  "pasta": {
+   "willys": {
+    "price": 15.8
+   },
+   "hemkop": {
+    "price": 18.82
+   },
+   "ica_mobilia": {
+    "price": 16.94
+   },
+   "ica_maxi": {
+    "price": 15.8
+   },
+   "coop": {
+    "price": 15.5
+   },
+   "mathem": {
+    "price": 29.9,
+    "product": "Garant 500 g ×2 (inget 1 kg-paket/Eldorado i topp 8)",
+    "note": "Garant 500 g ×2 (inget 1 kg-paket/Eldorado i topp 8)"
+   }
+  },
+  "ris": {
+   "willys": {
+    "price": 19.9
+   },
+   "hemkop": {
+    "price": 21.95
+   },
+   "ica_mobilia": {
+    "price": 15.77
+   },
+   "ica_maxi": {
+    "price": 14.95
+   },
+   "coop": {
+    "price": 20.75
+   },
+   "mathem": {
+    "price": 22.75,
+    "product": "Eldorado jasmin 2 kg"
+   }
+  },
+  "krossade": {
+   "willys": {
+    "price": 7.9
+   },
+   "hemkop": {
+    "price": 10.36
+   },
+   "ica_mobilia": {
+    "price": 9.41
+   },
+   "ica_maxi": {
+    "price": 7.9
+   },
+   "coop": {
+    "price": 12.44
+   },
+   "mathem": {
+    "price": 9.95,
+    "product": "Eldorado"
+   }
+  },
+  "kyckling": {
+   "willys": {
+    "price": 76.55
+   },
+   "hemkop": {
+    "price": 84.07
+   },
+   "ica_mobilia": {
+    "price": 77.72
+   },
+   "ica_maxi": {
+    "price": 77.67
+   },
+   "coop": {
+    "price": 77.72
+   },
+   "mathem": {
+    "price": 82.78,
+    "product": "Eldorado 900 g"
+   }
+  },
+  "notfars": {
+   "willys": {
+    "price": 78.9
+   },
+   "hemkop": {
+    "price": 85.95
+   },
+   "ica_mobilia": {
+    "price": 92.98
+   },
+   "ica_maxi": {
+    "price": 79.3
+   },
+   "coop": {
+    "price": 62.95,
+    "note": "Coop Naturbeteskött (fetthalt ej angiven)"
+   },
+   "mathem": {
+    "price": 80.0,
+    "product": "Garant 12% ~1 kg, omräknat",
+    "note": "Garant 12% ~1 kg, omräknat"
+   }
+  },
+  "falukorv": {
+   "willys": {
+    "price": 32.5
+   },
+   "hemkop": {
+    "price": 33.95
+   },
+   "ica_mobilia": {
+    "price": 33.98
+   },
+   "ica_maxi": {
+    "price": 32.6
+   },
+   "coop": {
+    "price": 37.5
+   },
+   "mathem": {
+    "price": 36.95,
+    "product": "Scan"
+   }
+  },
+  "potatis": {
+   "willys": {
+    "price": 25.8
+   },
+   "hemkop": {
+    "price": 31.9
+   },
+   "ica_mobilia": {
+    "price": 27.9
+   },
+   "ica_maxi": {
+    "price": 27.9
+   },
+   "coop": {
+    "price": 29.9
+   },
+   "mathem": {
+    "price": 22.7,
+    "product": "fast klass 2 5 kg, omräknat",
+    "note": "fast klass 2 5 kg, omräknat"
+   }
+  },
+  "lok": {
+   "willys": {
+    "price": 9.9
+   },
+   "hemkop": {
+    "price": 10.45
+   },
+   "ica_mobilia": {
+    "price": 9.9
+   },
+   "ica_maxi": {
+    "price": 9.9
+   },
+   "coop": {
+    "price": 23.95
+   },
+   "mathem": {
+    "price": 15.5,
+    "product": "påse 1 kg"
+   }
+  },
+  "banan": {
+   "willys": {
+    "price": 19.9
+   },
+   "hemkop": {
+    "price": 23.95,
+    "note": "eko (enda)"
+   },
+   "ica_mobilia": {
+    "price": 23.95,
+    "note": "eko (enda)"
+   },
+   "ica_maxi": {
+    "price": 19.9
+   },
+   "coop": {
+    "price": 28.95,
+    "note": "eko (enda)"
+   },
+   "mathem": {
+    "price": 21.63,
+    "product": "klase 1,2 kg"
+   }
+  },
+  "apple": {
+   "willys": {
+    "price": 19.9,
+    "note": "kampanj just nu 9,90"
+   },
+   "hemkop": {
+    "price": 21.22
+   },
+   "ica_mobilia": {
+    "price": 15.95,
+    "note": "klass 2"
+   },
+   "ica_maxi": {
+    "price": 15.9
+   },
+   "coop": {
+    "price": 29.95
+   },
+   "mathem": {
+    "price": 13.95,
+    "product": "Polen 1 kg"
+   }
+  },
+  "gurka": {
+   "willys": {
+    "price": 14.9,
+    "note": "kampanj just nu 9,90"
+   },
+   "hemkop": {
+    "price": 15.95
+   },
+   "ica_mobilia": {
+    "price": 14.9
+   },
+   "ica_maxi": {
+    "price": 14.9
+   },
+   "coop": {
+    "price": 14.95
+   },
+   "mathem": {
+    "price": 17.95,
+    "product": "svensk"
+   }
+  },
+  "tomat": {
+   "willys": {
+    "price": 19.95
+   },
+   "hemkop": {
+    "price": 24.48
+   },
+   "ica_mobilia": {
+    "price": 23.95
+   },
+   "ica_maxi": {
+    "price": 22.45
+   },
+   "coop": {
+    "price": 22.48,
+    "note": "kvist"
+   },
+   "mathem": {
+    "price": 32.95,
+    "product": "5-pack Sverige"
+   }
+  },
+  "kaffe": {
+   "willys": {
+    "price": 53.9
+   },
+   "hemkop": {
+    "price": 59.57
+   },
+   "ica_mobilia": {
+    "price": 43.18
+   },
+   "ica_maxi": {
+    "price": 40.05
+   },
+   "coop": {
+    "price": 34.16,
+    "note": "Xtra"
+   },
+   "mathem": {
+    "price": 53.95,
+    "product": "Garant 450 g"
+   }
+  },
+  "toapapper": {
+   "willys": {
+    "price": 22.9
+   },
+   "hemkop": {
+    "price": 25.95
+   },
+   "ica_mobilia": {
+    "price": 21.95
+   },
+   "ica_maxi": {
+    "price": 20.95
+   },
+   "coop": {
+    "price": 54.95,
+    "note": "Änglamark – inget billigt eget märke hittat"
+   },
+   "mathem": {
+    "price": 44.95,
+    "product": "Fixa Natur"
+   }
+  }
+ },
+ "totals": {
+  "willys": {
+   "goods": 642.72,
+   "with_pickup": 701.72,
+   "with_delivery": 800.72
+  },
+  "hemkop": {
+   "goods": 702.34,
+   "with_pickup": 761.34,
+   "with_delivery": 840.34
+  },
+  "ica_mobilia": {
+   "goods": 647.47,
+   "with_pickup": 706.47,
+   "with_delivery": null
+  },
+  "ica_maxi": {
+   "goods": 604.9,
+   "with_pickup": null,
+   "with_delivery": null
+  },
+  "coop": {
+   "goods": 700.54,
+   "with_pickup": null,
+   "with_delivery": 749.54
+  },
+  "mathem": {
+   "goods": 712.55,
+   "with_pickup": null,
+   "with_delivery": null
+  }
+ },
+ "cheapest": {
+  "goods": "ica_maxi",
+  "with_pickup": "willys"
+ },
+ "campaign_note": "Willys kampanjer just nu (Bregott 34,90, äpplen 9,90, gurka 9,90) ger korg 612,72 kr.",
+ "meal_kits": [
+  {
+   "id": "hellofresh",
+   "name": "HelloFresh",
+   "plan": "2 pers × 3 middagar",
+   "weekly_price": 556,
+   "delivery": 49,
+   "per_portion_ordinary": 100.83,
+   "per_portion_first_box": null,
+   "per_portion_intro_avg": 73.53,
+   "intro_note": "upp till 819 kr rabatt på 5 första kassarna (t.o.m. 8 nov); fördelning per kasse okänd",
+   "source": "matkassedirekt.se 2026-10-18"
+  },
+  {
+   "id": "linas",
+   "name": "Linas Matkasse",
+   "plan": "2 pers × 3 middagar",
+   "weekly_price": 670,
+   "delivery": 46,
+   "per_portion_ordinary": 119.33,
+   "per_portion_first_box": 85.83,
+   "per_portion_intro_avg": 105.93,
+   "intro_note": "30/20/10 % på 3 första; kod MATGLÄDJE2026 (upp till 1 026 kr, ej bekräftad) ger ca 85 kr snitt",
+   "source": "bästamatkasse.se 2026-10-14, matkassedirekt.se"
+  },
+  {
+   "id": "betterfeast",
+   "name": "BetterFeast Familjelådan (färdiglagad)",
+   "plan": "2 pers × 3 dagar",
+   "weekly_price": 659,
+   "delivery": 0,
+   "per_portion_ordinary": 109.83,
+   "per_portion_first_box": 82.38,
+   "per_portion_intro_avg": 104.34,
+   "intro_note": "25 % på första leveransen, fri frakt",
+   "source": "bästamatkasse.se 2026-10-13, matnjutning.se"
+  },
+  {
+   "id": "ica_matkasse",
+   "name": "ICA:s matkasse",
+   "plan": "–",
+   "weekly_price": null,
+   "delivery": null,
+   "per_portion_ordinary": null,
+   "per_portion_first_box": null,
+   "per_portion_intro_avg": null,
+   "intro_note": "Numera recept + ingredienser i ICA e-handel (= butikspris + ICA-avgifter). seen.json: 30 % på 3 kassar (482 i st.f. 689 kr), storlek okänd",
+   "source": "ica.se/icas-matkasse"
+  },
+  {
+   "id": "hypo70",
+   "name": "Tänkt kasse med 70 % rabatt",
+   "plan": "HelloFresh 2×3, 70 % på maten + 49 kr frakt",
+   "weekly_price": 166.8,
+   "delivery": 49,
+   "per_portion_ordinary": null,
+   "per_portion_first_box": 35.97,
+   "per_portion_intro_avg": null,
+   "intro_note": "räkneexempel, bara en vecka",
+   "source": "beräkning"
+  }
+ ],
+ "cook_yourself": [
+  {
+   "id": "self_shared",
+   "name": "Laga själv (Willys/Maxi), frakt delad på veckohandeln",
+   "per_portion": 32.5,
+   "range": [
+    30,
+    35
+   ]
+  },
+  {
+   "id": "self_pickup",
+   "name": "Laga själv, Hämta 59 kr bara på middagarna",
+   "per_portion": 39
+  },
+  {
+   "id": "self_delivery",
+   "name": "Laga själv, Willys hemleverans 158 kr bara på middagarna",
+   "per_portion": 55
+  },
+  {
+   "id": "foodora70",
+   "name": "Foodora 70 %, en gång (restaurang, uppskattning)",
+   "per_portion": 52.5,
+   "range": [
+    45,
+    60
+   ]
+  }
+ ],
+ "cook_yourself_basis": "Kyckling+ris+sallad ca 21 kr, köttfärssås+pasta ca 24 kr, falukorv+potatis ca 17 kr per portion (Willys-priser) + 8–10 kr basvaror.",
+ "verdict": "Laga själv vinner: ca 30–55 kr/portion mot 74–106 kr i intro-snitt och 101–119 kr ordinarie för matkassar. En kasse med 70 % rabatt (~36 kr) når bara butiksnivå första veckan.",
+ "notes": [
+  "Coop: Möllevångstorget finns inte i Coops butiksregister; närmast är Coop Norra Parkgatan som saknar webbsortiment. Coop Syd säljer online till Stora Coop-prisnivå, därför används Stora Coop Stadion (105860) som proxy.",
+  "ICA: frakt och avgift för Hämta syns först vid tidsbokning; ICA Supermarket Möllevången har ingen e-handel.",
+  "Mathem: priser utan postnummer (standardsortiment); kan skilja för Malmö. Fri leverans 98 dagar kräver order ≥800 kr – korgen ligger under.",
+  "Maxis Bregott 40,00 kan vara tillfälligt pris.",
+  "Matkassepriser från jämförelsesajter som läst av leverantörernas kassor 12–18 okt 2026."
+ ]
+}
