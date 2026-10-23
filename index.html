@@ -3,11 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Gratisjakt – provperioder &amp; promokoder</title>
+<title>Gratisjakt – provperioder, promokoder &amp; matpriser</title>
 <meta name="description" content="Dagligen uppdaterad lista med gratis provperioder och promokoder: matkassar, matkuponger, AI-tjänster och mer.">
 <link rel="stylesheet" href="style.css">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
 <script src="app.js" defer></script>
+<script src="prices.js" defer></script>
 </head>
 <body>
 <header class="top">
@@ -23,7 +24,13 @@
   </div>
 </header>
 
+<nav class="tabs wrap" role="tablist">
+  <a href="#erbjudanden" class="tab on" role="tab" data-tab="erbjudanden">🎁 Erbjudanden</a>
+  <a href="#matpriser" class="tab" role="tab" data-tab="matpriser">🛒 Matpriser</a>
+</nav>
+
 <main class="wrap">
+<div class="tabpanel" id="tab-erbjudanden">
   <section class="stats">
     <div class="stat"><span class="num" id="statTotal">0</span><span class="lbl">Erbjudanden totalt</span></div>
     <div class="stat accent"><span class="num" id="statNew">0</span><span class="lbl">Nya senaste 7 dagarna</span></div>
@@ -60,6 +67,42 @@
     </div>
     <p class="empty" id="empty" hidden>Inga erbjudanden ännu – jakten pågår. Kolla in igen imorgon!</p>
   </section>
+</div>
+
+<div class="tabpanel" id="tab-matpriser" hidden>
+  <p class="updated pupdated">Matpriser senast uppdaterade: <strong id="pUpdated">–</strong> · <span id="pLocation" class="muted"></span></p>
+  <section class="card verdict" id="pVerdict">
+    <h2>Laga själv eller matkasse?</h2>
+    <p class="vtext" id="pVerdictText">Laddar…</p>
+    <div class="vstats" id="pVerdictStats"></div>
+  </section>
+
+  <section class="charts pcharts">
+    <div class="card wide2"><h2>Samma korg med 20 varor – total per butik (kr)</h2><div class="chartbox"><canvas id="chartBasket"></canvas></div>
+      <p class="note" id="pBasketNote"></p></div>
+    <div class="card wide2"><h2>Kostnad per portion (kr) – 2 pers, 3 middagar</h2><div class="chartbox"><canvas id="chartPortion"></canvas></div>
+      <p class="note" id="pPortionNote"></p></div>
+  </section>
+
+  <section class="card tablecard">
+    <div class="toolbar"><h2>Varor och butiker</h2><span class="muted small">Grönt = billigast för varan · ordinarie pris · (jmf) = räknat på jämförpris</span></div>
+    <div class="tablewrap">
+      <table class="ptable" id="ptbl"><thead></thead><tbody></tbody><tfoot></tfoot></table>
+    </div>
+    <ol class="footnotes" id="pFoot"></ol>
+  </section>
+
+  <section class="charts pcharts">
+    <div class="card wide2"><h2>Prishistorik – korgens total per butik (kr)</h2><div class="chartbox"><canvas id="chartHistory"></canvas></div>
+      <p class="note">Uppdateras varje vecka. En punkt per mätning.</p></div>
+    <div class="card wide2"><h2>Matkassar i detalj</h2><div class="tablewrap"><table class="ptable" id="pkits"><thead></thead><tbody></tbody></table></div></div>
+  </section>
+
+  <section class="card">
+    <h2>Viktigt att veta</h2>
+    <ul class="pnotes" id="pNotes"></ul>
+  </section>
+</div>
 </main>
 
 <footer class="wrap foot">
