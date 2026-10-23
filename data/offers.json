@@ -313,5 +313,41 @@
     "link": "https://www.mylunch.se/matsvinn-lunch/malmo/",
     "catch": "Inte gratis; vardagar 14:00–14:15, så långt lagret räcker",
     "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Storytel",
+    "category": "Övrigt",
+    "offer": "60 dagar gratis Premium (max 10 h), sedan 84,50 kr/30 dgr i 3 mån",
+    "code": "",
+    "link": "https://www.storytel.com/se",
+    "catch": "Nya kunder eller ej kund senaste 6 mån, kort krävs, avsluta innan debitering",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Wolt Malmö",
+    "category": "Matkuponger",
+    "offer": "50 kr rabatt vid köp över 150 kr på många Malmö-restauranger (McDonald's, MAX, Burger King m.fl.)",
+    "code": "",
+    "link": "https://wolt.com/en/swe/malmo/promotions-near-you",
+    "catch": "Tidsbegränsade restaurangkampanjer, gäller listade ställen",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Marley Spoon",
+    "category": "Matkassar",
+    "offer": "Totalt 600 kr rabatt: 100 kr på kasse 1–2, 200 kr på kasse 3–4",
+    "code": "",
+    "link": "https://www.rabattkungen.se/butik/marley-spoon/",
+    "catch": "Från rabattsajt, ej bekräftad på officiell sida; prenumeration, nya kunder",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "service": "Skräckveckan Folkets Park",
+    "category": "Lokalt",
+    "offer": "Gratis höstlovsprogram 26–31 okt kl 11–16 (+ eldshow 30–31 okt 19:00, rullskridskodisco lör 31 okt)",
+    "code": "",
+    "link": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.e99dd2f1a08fc27cf97e91",
+    "catch": "Främst familj; ingen förbokning, kö kan uppstå. Folkets Park ca 1,5 km från Sankt Knuts torg",
+    "first_seen": "2026-10-23"
   }
 ]
