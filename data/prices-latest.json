@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated": "2026-10-23T02:08:22+02:00",
+ "generated": "2026-10-23T02:10:09+02:00",
  "location": "Sankt Knuts torg, Malmö (214 21)",
  "method": "Ordinarie pris, billigaste jämförbara variant (egna märken ok). '(jmf)' = normaliserat via jämförpris till angiven mängd. Kampanjpriser ej medräknade i totalsumman.",
  "basket": [
@@ -731,7 +731,7 @@
  "cook_yourself": [
   {
    "id": "self_shared",
-   "name": "Laga själv (Willys/Maxi), frakt delad på veckohandeln",
+   "name": "Laga själv – frakt delad på veckohandeln",
    "per_portion": 32.5,
    "range": [
     30,
@@ -740,12 +740,12 @@
   },
   {
    "id": "self_pickup",
-   "name": "Laga själv, Hämta 59 kr bara på middagarna",
+   "name": "Laga själv – Hämta 59 kr på middagarna",
    "per_portion": 39
   },
   {
    "id": "self_delivery",
-   "name": "Laga själv, Willys hemleverans 158 kr bara på middagarna",
+   "name": "Laga själv – hemleverans 158 kr på middagarna",
    "per_portion": 55
   },
   {
