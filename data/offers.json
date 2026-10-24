@@ -92,7 +92,7 @@
   {
     "service": "Friskis&Svettis Malmö",
     "category": "Lokalt",
-    "offer": "2 veckor gratis, 5 gym + all gruppträning (närmast: Parkmöllan, Barkgatan 24)",
+    "offer": "2 veckor gratis, 5 gym (6 från 31 okt när Hyllie öppnar) + all gruppträning (närmast: Parkmöllan, Barkgatan 24)",
     "code": "",
     "link": "https://www.friskis.com/sv-se/malmo/2-veckor-prova-pa",
     "catch": "Ej om provträning/kort under 2026. Registreras i reception.",
@@ -333,15 +333,6 @@
     "first_seen": "2026-10-23"
   },
   {
-    "service": "Marley Spoon",
-    "category": "Matkassar",
-    "offer": "Totalt 600 kr rabatt: 100 kr på kasse 1–2, 200 kr på kasse 3–4",
-    "code": "",
-    "link": "https://www.rabattkungen.se/butik/marley-spoon/",
-    "catch": "Från rabattsajt, ej bekräftad på officiell sida; prenumeration, nya kunder",
-    "first_seen": "2026-10-23"
-  },
-  {
     "service": "Skräckveckan Folkets Park",
     "category": "Lokalt",
     "offer": "Gratis höstlovsprogram 26–31 okt kl 11–16 (+ eldshow 30–31 okt 19:00, rullskridskodisco lör 31 okt)",
@@ -349,5 +340,86 @@
     "link": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.e99dd2f1a08fc27cf97e91",
     "catch": "Främst familj; ingen förbokning, kö kan uppstå. Folkets Park ca 1,5 km från Sankt Knuts torg",
     "first_seen": "2026-10-23"
+  },
+  {
+    "service": "MAX Rewards (app)",
+    "category": "Matkuponger",
+    "offer": "Gratis cheeseburgare på första köpet i appen",
+    "code": "",
+    "link": "https://www.max.se/om-max/max-rewards/",
+    "catch": "Nya medlemmar eller befintliga som inte gjort ett registrerat köp; kupongen visas överst vid beställning. Källa: Fru Kupong/Pepperdeals sep 2026, inget slutdatum angivet.",
+    "first_seen": "2026-10-24"
+  },
+  {
+    "service": "Matsmart (Motatos)",
+    "category": "Matkuponger",
+    "offer": "15 % rabatt på första köpet över 499 kr",
+    "code": "Gratisprinsessan_15",
+    "link": "https://www.matsmart.se/",
+    "catch": "Nya kunder, partnerkod via Gratisprinsessan (17 okt 2026). Brukar ej gälla Dagens Deal/specialdeals. Levererar till Malmö.",
+    "first_seen": "2026-10-24"
+  },
+  {
+    "service": "Groq API",
+    "category": "AI",
+    "offer": "Gratis API-nivå utan kort (Llama, Qwen m.fl. med rate limits)",
+    "code": "",
+    "link": "https://console.groq.com/docs/rate-limits",
+    "catch": "Inte kredit utan permanent free tier med begränsningar per modell (anrop/tokens per min/dag).",
+    "first_seen": "2026-10-24"
+  },
+  {
+    "service": "Audible",
+    "category": "Övrigt",
+    "offer": "30 dagar gratis Standard (79 kr/mån) eller Premium (109 kr/mån, 1 kredit att behålla)",
+    "code": "",
+    "link": "https://www.audible.de/sv_SE/",
+    "catch": "Nya medlemmar, auto-förnyas. Prime-medlemmar kan få längre provperiod. Kreditköpt bok behåller du.",
+    "first_seen": "2026-10-24"
+  },
+  {
+    "service": "Amazon Prime",
+    "category": "Övrigt",
+    "offer": "30 dagar gratis Prime (fri frakt, Prime Video)",
+    "code": "",
+    "link": "https://www.amazon.se/prime",
+    "catch": "Kort krävs, ej om du haft Prime nyligen. Kan sägas upp direkt och gäller ändå 30 dagar.",
+    "first_seen": "2026-10-24"
+  },
+  {
+    "service": "Friskis Hyllie premiär",
+    "category": "Lokalt",
+    "offer": "Gratis öppningsfest lör 31 okt 10–15: prova gruppträning + nya gymmet, DJ; goodie bag till de 100 första",
+    "code": "",
+    "link": "https://www.friskis.com/sv-se/malmo/nyheter/hyllie",
+    "catch": "Hyllie, ca 5 km från Sankt Knuts torg (tåg/buss). 25 % på årskort t.o.m. 15 nov.",
+    "first_seen": "2026-10-24"
+  },
+  {
+    "service": "Malmö Saluhall bokrelease",
+    "category": "Lokalt",
+    "offer": "Gratis bokrelease med smakprover ons 11 nov 17–20, Malmö Saluhall, Gibraltargatan 6",
+    "code": "",
+    "link": "https://kulturcentralen.com/evenemang/bokreleasetdigigenomboken",
+    "catch": "Fri entré, ingen biljett krävs. Smakprover på plan 2, rätter på handlarnas menyer kostar. Ca 1,5 km från Sankt Knuts torg.",
+    "first_seen": "2026-10-24"
+  },
+  {
+    "service": "Malmö Tehus teprovning",
+    "category": "Lokalt",
+    "offer": "Gratis teprovning söndagar (förmiddag, butiken öppen 10–15), Mariedalsvägen 29",
+    "code": "",
+    "link": "https://www.malmotehus.se/",
+    "catch": "Exakt tid ej angiven, ring 040-57 90 01. Ca 2 km från Sankt Knuts torg.",
+    "first_seen": "2026-10-24"
+  },
+  {
+    "service": "Fackelvandring Bokskogen (Torup)",
+    "category": "Lokalt",
+    "offer": "Gratis fackelvandring tors 29 okt 17–19:30 genom Bokskogen",
+    "code": "",
+    "link": "https://hurbra.se/hostlov-malmo-2026/",
+    "catch": "Ingen förbokning; facklor säljs separat (18+). Torup ca 15 km från centrum, kräver bil/buss.",
+    "first_seen": "2026-10-24"
   }
 ]
