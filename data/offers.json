@@ -2,11 +2,11 @@
   {
     "service": "HelloFresh",
     "category": "Matkassar",
-    "offer": "Upp till 819 kr rabatt på första 5 kassarna + fri frakt första kassen + Peugeot salt/pepparkvarn i kasse 3",
-    "code": "",
+    "offer": "Upp till 1 099 kr rabatt på första kassarna + gratis snacks i 3 månader",
+    "code": "HELLOAFFB2S",
     "link": "https://www.hellofresh.se/",
-    "catch": "Nya kunder (eller >52 v sedan). Ingen bindning, men första kassen avbokas bara via kundtjänst. Kampanj t.o.m. 8 nov 2026 21:59.",
-    "first_seen": "2026-10-23"
+    "catch": "Gäller nya kunder; prenumeration som måste pausas/avslutas. Kod via Gratisprinsessan 24 okt.",
+    "first_seen": "2026-10-25"
   },
   {
     "service": "Linas Matkasse",
@@ -123,15 +123,6 @@
     "code": "",
     "link": "https://luma.com/774wosun",
     "catch": "Registrering på Luma.",
-    "first_seen": "2026-10-23"
-  },
-  {
-    "service": "ABF: Mannen bakom basker blå",
-    "category": "Lokalt",
-    "offer": "Gratis föreläsning lör 24 okt 13–14:30, ABF Mosaiken, Porslinsgatan 3–5",
-    "code": "",
-    "link": "https://www.abf.se/malmo-sydvast/kurs/forelasning-mannen-bakom-basker-bla-3956729/",
-    "catch": "Gratis.",
     "first_seen": "2026-10-23"
   },
   {
@@ -421,5 +412,50 @@
     "link": "https://hurbra.se/hostlov-malmo-2026/",
     "catch": "Ingen förbokning; facklor säljs separat (18+). Torup ca 15 km från centrum, kräver bil/buss.",
     "first_seen": "2026-10-24"
+  },
+  {
+    "service": "Trippel (Viaplay + Storytel + Podme)",
+    "category": "Övrigt",
+    "offer": "30 dagar gratis: Viaplay Film & Serier + Storytel Flex (20 h/mån) + Podme Premium",
+    "code": "",
+    "link": "https://trippel.se/",
+    "catch": "En gång per kund, boende i Sverige. Sedan 183,50 kr/mån (50 % livet ut), ingen bindning. Avsluta före dag 30.",
+    "first_seen": "2026-10-25"
+  },
+  {
+    "service": "BytePlus ModelArk",
+    "category": "AI",
+    "offer": "Gratis kvot för nya användare: 200 bilder (Seedream 4.5), 2M videotokens (Seedance), 500K tokens per LLM (DeepSeek, Kimi K2, GPT-OSS), TTS/ASR",
+    "code": "",
+    "link": "https://www.byteplus.com/en/activity/free",
+    "catch": "Kvoten går inte ut men kan ändras; kräver BytePlus-konto.",
+    "first_seen": "2026-10-25"
+  },
+  {
+    "service": "Malmö Stadsteater – Teaterdag för familjen",
+    "category": "Lokalt",
+    "offer": "Gratis öppet hus lör 14 nov 12–14 (skattjakt, ansiktsmålning, smygtitt på I Skymningslandet)",
+    "code": "",
+    "link": "https://www.malmostadsteater.se/teaterdag-familjen",
+    "catch": "Fri entré, ingen anmälan. Östra Rönneholmsvägen 20, ca 600 m från Sankt Knuts torg. Mest för barnfamiljer.",
+    "first_seen": "2026-10-25"
+  },
+  {
+    "service": "Zymologi – Beaujolais Nouveau",
+    "category": "Lokalt",
+    "offer": "Fri entré Beaujolais Nouveau-kväll tors 19 nov, Friisgatan 10",
+    "code": "",
+    "link": "https://www.zymologi.se/events",
+    "catch": "Ingen bokning; vinet kostar. Ca 1,5 km från Sankt Knuts torg (Möllan).",
+    "first_seen": "2026-10-25"
+  },
+  {
+    "service": "Rabble – Bus eller Kaka",
+    "category": "Matkuponger",
+    "offer": "Spela i Rabble-appen: över 4000 poäng = 100 % cashback på Ballerina",
+    "code": "",
+    "link": "https://gratisprinsessan.se/2026/10/spela-bus-eller-kaka-i-rabble-och-vinn-gratis-ballerina/",
+    "catch": "T.o.m. 31 okt; en vinst per konto; köp i butik och skanna kvitto.",
+    "first_seen": "2026-10-25"
   }
 ]
