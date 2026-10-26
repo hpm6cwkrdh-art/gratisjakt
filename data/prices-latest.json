@@ -1,6 +1,6 @@
 {
- "date": "2026-10-23",
- "generated": "2026-10-23T02:10:09+02:00",
+ "date": "2026-10-26",
+ "generated": "2026-10-26T08:08:29+01:00",
  "location": "Sankt Knuts torg, Malmö (214 21)",
  "method": "Ordinarie pris, billigaste jämförbara variant (egna märken ok). '(jmf)' = normaliserat via jämförpris till angiven mängd. Kampanjpriser ej medräknade i totalsumman.",
  "basket": [
@@ -209,13 +209,13 @@
    },
    "mathem": {
     "price": 16.5,
-    "product": "Garant längre hållb."
+    "product": "Garant längre hållb. (kampanj 2 för 29)"
    }
   },
   "bregott": {
    "willys": {
     "price": 49.9,
-    "note": "kampanj just nu 34,90"
+    "note": "Bregott (förra veckans kampanj slut)"
    },
    "hemkop": {
     "price": 51.05
@@ -224,8 +224,8 @@
     "price": 52.19
    },
    "ica_maxi": {
-    "price": 40.0,
-    "note": "Bregott (kan vara tillfälligt pris)"
+    "price": 49.9,
+    "note": "Bregott (förra veckans 40,00 var tillfälligt)"
    },
    "coop": {
     "price": 53.29,
@@ -233,8 +233,8 @@
    },
    "mathem": {
     "price": 49.95,
-    "product": "Bregott (extrapris 39,00)",
-    "note": "Bregott (extrapris 39,00)"
+    "product": "Bregott",
+    "note": "Bregott"
    }
   },
   "agg": {
@@ -242,7 +242,7 @@
     "price": 31.92
    },
    "hemkop": {
-    "price": 31.96
+    "price": 31.92
    },
    "ica_mobilia": {
     "price": 35.98
@@ -254,22 +254,25 @@
     "price": 35.16
    },
    "mathem": {
-    "price": 33.48,
+    "price": 33.47,
     "product": "Kronägg 20-p"
    }
   },
   "ost": {
    "willys": {
-    "price": 94.9
+    "price": 94.9,
+    "note": "Garant mild (Goda Ostar 69,90/kg billigare)"
    },
    "hemkop": {
     "price": 99.0
    },
    "ica_mobilia": {
-    "price": 79.0
+    "price": 114.0,
+    "note": "Arla mild 1,1 kg (upp från 79)"
    },
    "ica_maxi": {
-    "price": 84.9
+    "price": 99.1,
+    "note": "ICA mild 1,1 kg (2,2 kg 90,45/kg)"
    },
    "coop": {
     "price": 97.0
@@ -290,7 +293,7 @@
     "price": 13.86
    },
    "ica_maxi": {
-    "price": 12.9
+    "price": 15.05
    },
    "coop": {
     "price": 15.97
@@ -338,9 +341,9 @@
     "price": 15.5
    },
    "mathem": {
-    "price": 29.9,
-    "product": "Garant 500 g ×2 (inget 1 kg-paket/Eldorado i topp 8)",
-    "note": "Garant 500 g ×2 (inget 1 kg-paket/Eldorado i topp 8)"
+    "price": 18.5,
+    "product": "Garant spaghetti 1 kg",
+    "note": "Garant spaghetti 1 kg"
    }
   },
   "ris": {
@@ -399,7 +402,8 @@
     "price": 77.67
    },
    "coop": {
-    "price": 77.72
+    "price": 77.72,
+    "note": "Xtra 900 g (2 kg 72,00/kg)"
    },
    "mathem": {
     "price": 82.78,
@@ -520,7 +524,7 @@
   "apple": {
    "willys": {
     "price": 19.9,
-    "note": "kampanj just nu 9,90"
+    "note": "Jonagold (kampanj 9,90 slut)"
    },
    "hemkop": {
     "price": 21.22
@@ -543,7 +547,7 @@
   "gurka": {
    "willys": {
     "price": 14.9,
-    "note": "kampanj just nu 9,90"
+    "note": "kampanj 9,90 slut"
    },
    "hemkop": {
     "price": 15.95
@@ -567,13 +571,14 @@
     "price": 19.95
    },
    "hemkop": {
-    "price": 24.48
+    "price": 21.48
    },
    "ica_mobilia": {
-    "price": 23.95
+    "price": 23.95,
+    "note": "rund (plommon 500 g 20,00)"
    },
    "ica_maxi": {
-    "price": 22.45
+    "price": 19.95
    },
    "coop": {
     "price": 22.48,
@@ -599,7 +604,7 @@
    },
    "coop": {
     "price": 34.16,
-    "note": "Xtra"
+    "note": "Xtra 500 g"
    },
    "mathem": {
     "price": 53.95,
@@ -636,17 +641,17 @@
    "with_delivery": 800.72
   },
   "hemkop": {
-   "goods": 702.34,
-   "with_pickup": 761.34,
-   "with_delivery": 840.34
+   "goods": 699.3,
+   "with_pickup": 758.3,
+   "with_delivery": 837.3
   },
   "ica_mobilia": {
-   "goods": 647.47,
-   "with_pickup": 706.47,
+   "goods": 682.47,
+   "with_pickup": 741.47,
    "with_delivery": null
   },
   "ica_maxi": {
-   "goods": 604.9,
+   "goods": 628.65,
    "with_pickup": null,
    "with_delivery": null
   },
@@ -656,7 +661,7 @@
    "with_delivery": 749.54
   },
   "mathem": {
-   "goods": 712.55,
+   "goods": 701.14,
    "with_pickup": null,
    "with_delivery": null
   }
@@ -665,7 +670,7 @@
   "goods": "ica_maxi",
   "with_pickup": "willys"
  },
- "campaign_note": "Willys kampanjer just nu (Bregott 34,90, äpplen 9,90, gurka 9,90) ger korg 612,72 kr.",
+ "campaign_note": "Vecka 44: förra veckans Willys-kampanjer (Bregott, äpplen, gurka) är slut. Nu: Willys Scan falukorv 32,90, Garant plommontomater 24,90; Hemköp Löfbergs kaffe 49,95, Garant kaffe 2 för 110; Mathem mjölk 2 för 29, Kronfågel kyckling 89,00, Arvid Nordquist kaffe 59,00, Kronägg 10 st 29,00.",
  "meal_kits": [
   {
    "id": "hellofresh",
@@ -764,7 +769,8 @@
   "Coop: Möllevångstorget finns inte i Coops butiksregister; närmast är Coop Norra Parkgatan som saknar webbsortiment. Coop Syd säljer online till Stora Coop-prisnivå, därför används Stora Coop Stadion (105860) som proxy.",
   "ICA: frakt och avgift för Hämta syns först vid tidsbokning; ICA Supermarket Möllevången har ingen e-handel.",
   "Mathem: priser utan postnummer (standardsortiment); kan skilja för Malmö. Fri leverans 98 dagar kräver order ≥800 kr – korgen ligger under.",
-  "Maxis Bregott 40,00 kan vara tillfälligt pris.",
-  "Matkassepriser från jämförelsesajter som läst av leverantörernas kassor 12–18 okt 2026."
+  "Maxis Bregott 40,00 förra veckan var tillfälligt; nu 49,90.",
+  "ICA Mobilia hushållsost 79 → 114 kr/kg; Maxi 84,90 → 99,10 (billigaste ~1 kg).",
+  "Matkassepriser ej uppdaterade sedan jämförelsesajternas kontroll 12–18 okt 2026 (inga nyare uppgifter 26 okt)."
  ]
 }
