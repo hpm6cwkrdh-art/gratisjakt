@@ -126,15 +126,6 @@
     "first_seen": "2026-10-23"
   },
   {
-    "service": "Kaféteatern (MAF)",
-    "category": "Lokalt",
-    "offer": "Gratis kaféteater sön 25 okt 16–18, MAF Spångatan 20",
-    "code": "",
-    "link": "https://www.abf.se/malmo-sydvast/kurs/kafeteatern-3956238/",
-    "catch": "Gratis.",
-    "first_seen": "2026-10-23"
-  },
-  {
     "service": "Podme",
     "category": "Övrigt",
     "offer": "60 dagar gratis Premium/Premium Total (poddar + ljudböcker)",
@@ -457,5 +448,41 @@
     "link": "https://gratisprinsessan.se/2026/10/spela-bus-eller-kaka-i-rabble-och-vinn-gratis-ballerina/",
     "catch": "T.o.m. 31 okt; en vinst per konto; köp i butik och skanna kvitto.",
     "first_seen": "2026-10-25"
+  },
+  {
+    "service": "Uber Eats",
+    "category": "Matkuponger",
+    "offer": "Nya kunder: 2 × 100 kr eller 2 × 20 % rabatt på de två första beställningarna",
+    "code": "",
+    "link": "https://rabatt.se/butiker/uber-eats",
+    "catch": "Bara nya kunder; kod läggs in under Kampanjer i appen före beställning; minsta ordervärde kan gälla. Kolla appen för Malmö.",
+    "first_seen": "2026-10-26"
+  },
+  {
+    "service": "Mistral API",
+    "category": "AI",
+    "offer": "Gratis API-läge (Free mode) utan kort, månadskvot på Limits-sidan",
+    "code": "",
+    "link": "https://console.mistral.ai/",
+    "catch": "Rate limits; data kan användas för träning om du inte stänger av det.",
+    "first_seen": "2026-10-26"
+  },
+  {
+    "service": "OpenRouter",
+    "category": "AI",
+    "offer": "Gratis :free-modeller utan kort (50 anrop/dag, 20/min)",
+    "code": "",
+    "link": "https://openrouter.ai/models?q=free",
+    "catch": "Låga gränser för obetalda konton; höjs till 1000/dag efter 10 USD insättning.",
+    "first_seen": "2026-10-26"
+  },
+  {
+    "service": "Tech4All Malmö – Grand Opening",
+    "category": "Lokalt",
+    "offer": "Gratis tech-dag lör 14 nov 10–13:30 (keynote + workshop om AI, utveckling, säkerhet)",
+    "code": "",
+    "link": "https://forms.foreningssupport.se/event/1500030F-DF06-48B5-8A92-A67D67BF614D/malmoaf",
+    "catch": "Anmälan krävs. ABF Malmö Sydväst, Spånehusvägen 47, ca 3 km från Sankt Knuts torg. På engelska.",
+    "first_seen": "2026-10-26"
   }
 ]
