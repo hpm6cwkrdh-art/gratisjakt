@@ -484,5 +484,68 @@
     "link": "https://forms.foreningssupport.se/event/1500030F-DF06-48B5-8A92-A67D67BF614D/malmoaf",
     "catch": "Anmälan krävs. ABF Malmö Sydväst, Spånehusvägen 47, ca 3 km från Sankt Knuts torg. På engelska.",
     "first_seen": "2026-10-26"
+  },
+  {
+    "service": "Factor (färdiga matlådor)",
+    "category": "Matkassar",
+    "offer": "30 % + fri frakt på första boxen, sedan 20 % på box 2–5 (sparar ca 1 105 kr)",
+    "code": "GENERIC30",
+    "link": "https://www.factormeals.se/",
+    "catch": "Nya hushåll, prenumeration; 5 boxar inom 9 veckor, frakt 49 kr från box 2. Levererar till Malmö. Villkor kollade 6 okt (fardigamatlador.se).",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "service": "AWS Free Tier",
+    "category": "AI",
+    "offer": "100 USD kredit direkt + upp till 100 USD till via uppgifter (Bedrock, SageMaker m.m.)",
+    "code": "",
+    "link": "https://aws.amazon.com/free/",
+    "catch": "Nya kunder, inget kort för de flesta; gäller 6 mån eller tills krediten tar slut.",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "service": "Qoder – DeepSeek-Flash",
+    "category": "AI",
+    "offer": "Gratis daglig kvot för DeepSeek-V4.1-Flash i kodassistenten Qoder",
+    "code": "",
+    "link": "https://docs.qoder.com/events/deepseek-flash-free",
+    "catch": "Gäller t.o.m. 31 okt 2026, även gratiskonton; välj modellen, inget att lösa in.",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "service": "Lightning AI",
+    "category": "AI",
+    "offer": "Upp till 30 gratis krediter (~80 GPU-timmar interruptible) + 1 gratis Studio",
+    "code": "",
+    "link": "https://lightning.ai/",
+    "catch": "Inget kort, telefonnummer krävs. Verifierat 26 okt (perq.sh).",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "service": "Stads up! – gratis stand-up",
+    "category": "Lokalt",
+    "offer": "Gratis stand-up måndagar 9, 16, 23 & 30 nov, insläpp 19:00, scen 19:30, Malmö Stadsteaters innergård",
+    "code": "",
+    "link": "https://www.malmostadsteater.se/stads",
+    "catch": "Kostnadsfritt; dryck/snacks kostar. Östra Rönneholmsvägen 20, ca 600 m från Sankt Knuts torg.",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "service": "Moderna Museet Malmö – broderikväll",
+    "category": "Lokalt",
+    "offer": "Gratis broderiworkshop tors 12 nov 16:30–18:30, material finns",
+    "code": "",
+    "link": "https://www.modernamuseet.se/sv/malmo/program/broderi-i-vart-kafe/",
+    "catch": "Fri entré, ingen anmälan. Ola Billgrens plats 2–4, ca 1 km från Sankt Knuts torg.",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "service": "Tycho Brahe-observatoriet – drop in",
+    "category": "Lokalt",
+    "offer": "Gratis öppet hus måndagar 18–20 (2 nov–14 dec), teleskoptitt vid klart väder",
+    "code": "",
+    "link": "https://malmo.se/Kul-i-Malmo/Aktivitet.html?id=5.437d186119ed4baa59678c2",
+    "catch": "Ingen anmälan; för alla från 6 år. Oxie, ca 9 km från Sankt Knuts torg (buss).",
+    "first_seen": "2026-10-27"
   }
 ]
