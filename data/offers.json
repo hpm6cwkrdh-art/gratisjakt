@@ -547,5 +547,68 @@
     "link": "https://malmo.se/Kul-i-Malmo/Aktivitet.html?id=5.437d186119ed4baa59678c2",
     "catch": "Ingen anmälan; för alla från 6 år. Oxie, ca 9 km från Sankt Knuts torg (buss).",
     "first_seen": "2026-10-27"
+  },
+  {
+    "service": "You.com API",
+    "category": "AI",
+    "offer": "100 USD gratis API-kredit för nya konton (Search, Answer, Research, Inference Router) + 100 gratis sökningar/dag via MCP",
+    "code": "",
+    "link": "https://you.com/platform",
+    "catch": "Utvecklar-API, inte chattapp; inget kort; ingen publicerad utgångstid. Verifierat i You.com docs 28 okt.",
+    "first_seen": "2026-10-28"
+  },
+  {
+    "service": "DigitalOcean Managed Agents",
+    "category": "AI",
+    "offer": "5 USD gratis kredit utan kort för att testa inferens (Kimi K3, GLM 5.3, DeepSeek V4 Flash)",
+    "code": "",
+    "link": "https://www.digitalocean.com/",
+    "catch": "Endast nya kunder; Public Preview; krediten dras även för runtime/lagring.",
+    "first_seen": "2026-10-28"
+  },
+  {
+    "service": "AMD Developer Cloud",
+    "category": "AI",
+    "offer": "100 USD i AMD Developer Cloud-krediter (GPU) via gratis AMD AI Developer Program",
+    "code": "",
+    "link": "https://www.amd.com/en/developer/ai-dev-program.html",
+    "catch": "Kräver AMD-konto och anmälan till programmet. Källa: perq.sh 27 okt.",
+    "first_seen": "2026-10-28"
+  },
+  {
+    "service": "Inception API",
+    "category": "AI",
+    "offer": "100 miljoner gratis tokens per nytt konto, inga betaluppgifter",
+    "code": "",
+    "link": "https://www.inceptionlabs.ai/",
+    "catch": "Engångsgrant; betalpris därefter. Källa: aifree.dev okt 2026.",
+    "first_seen": "2026-10-28"
+  },
+  {
+    "service": "Railway",
+    "category": "Övrigt",
+    "offer": "30 dagars gratis provperiod med 5 USD kredit utan kort, sedan 1 USD/mån gratis",
+    "code": "",
+    "link": "https://railway.com/",
+    "catch": "Nya konton; krediten räcker till små tjänster.",
+    "first_seen": "2026-10-28"
+  },
+  {
+    "service": "Palladium – lunchkonsert",
+    "category": "Lokalt",
+    "offer": "Gratis lunchkonsert med Musikhögskolans gitarrklass tis 3 nov 12:15–13:00 (salongen öppnar 12:00)",
+    "code": "",
+    "link": "https://palladium.nu/evenemang/lunchkonsert-med-musikhogskolan-i-malmos-gitarrklass",
+    "catch": "Fri entré (0 kr-biljett via Nortic). Södra Förstadsgatan, ca 700 m från Sankt Knuts torg.",
+    "first_seen": "2026-10-28"
+  },
+  {
+    "service": "Bokens dag – Öppen förscen, Malmö Live",
+    "category": "Lokalt",
+    "offer": "Gratis samtal med Nicolas Lunabba lör 21 nov 12:00–12:45, Kanalscenen, Dag Hammarskjölds torg 4",
+    "code": "",
+    "link": "https://www.abf.se/malmo-sydvast/kurs/bokens-dag-oppen-forscen-3957036/",
+    "catch": "Gratis, öppet för alla. Ca 1,5 km från Sankt Knuts torg.",
+    "first_seen": "2026-10-28"
   }
 ]
