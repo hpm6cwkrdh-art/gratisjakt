@@ -5,7 +5,7 @@
     "offer": "Upp till 1 099 kr rabatt på första kassarna + gratis snacks i 3 månader",
     "code": "HELLOAFFB2S",
     "link": "https://www.hellofresh.se/",
-    "catch": "Gäller nya kunder; prenumeration som måste pausas/avslutas. Kod via Gratisprinsessan 24 okt.",
+    "catch": "Gäller nya kunder; prenumeration som måste pausas/avslutas. Kod via Gratisprinsessan 24 okt. Aktuell kampanj 5 okt–8 nov 2026: 369 kr + fri frakt på kasse 1, totalt 819 kr på 5 kassar + Peugeot-kvarnset i kasse 3.",
     "first_seen": "2026-10-25"
   },
   {
@@ -610,5 +610,32 @@
     "link": "https://www.abf.se/malmo-sydvast/kurs/bokens-dag-oppen-forscen-3957036/",
     "catch": "Gratis, öppet för alla. Ca 1,5 km från Sankt Knuts torg.",
     "first_seen": "2026-10-28"
+  },
+  {
+    "service": "River AI (River Inference)",
+    "category": "AI",
+    "offer": "25 USD gratis API-kredit för nya konton (DeepSeek V4.1 Flash, GLM-5.3 Flash, Kimi K3 m.fl., OpenAI-kompatibelt)",
+    "code": "",
+    "link": "https://console.river.ai/",
+    "catch": "Inget kort. Krediten syns under Billing efter registrering, står inte på hemsidan; ingen publicerad giltighetstid. Docs: docs.river.ai",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "service": "Flonno Qwen API",
+    "category": "AI",
+    "offer": "5 USD gratis API-kredit efter e-postverifiering (Qwen3.8 Flash 27B)",
+    "code": "",
+    "link": "https://www.flonno.com/blog/free-qwen-api-credits-no-credit-card",
+    "catch": "Inget kort, ingen automatisk debitering. Liten okänd leverantör, kvantiserad modell.",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "service": "NVIDIA Build (NIM)",
+    "category": "AI",
+    "offer": "Gratis inferens-API utan tokenkvot: Kimi K3, DeepSeek V4.1 Flash, GLM 5.3, Nemotron (ca 40 anrop/min)",
+    "code": "",
+    "link": "https://build.nvidia.com/",
+    "catch": "Kräver NVIDIA Developer-konto + SMS-verifiering. Endast prototyp/test, ej produktion.",
+    "first_seen": "2026-10-29"
   }
 ]
