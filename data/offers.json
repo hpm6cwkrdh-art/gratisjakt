@@ -396,15 +396,6 @@
     "first_seen": "2026-10-24"
   },
   {
-    "service": "Fackelvandring Bokskogen (Torup)",
-    "category": "Lokalt",
-    "offer": "Gratis fackelvandring tors 29 okt 17–19:30 genom Bokskogen",
-    "code": "",
-    "link": "https://hurbra.se/hostlov-malmo-2026/",
-    "catch": "Ingen förbokning; facklor säljs separat (18+). Torup ca 15 km från centrum, kräver bil/buss.",
-    "first_seen": "2026-10-24"
-  },
-  {
     "service": "Trippel (Viaplay + Storytel + Podme)",
     "category": "Övrigt",
     "offer": "30 dagar gratis: Viaplay Film & Serier + Storytel Flex (20 h/mån) + Podme Premium",
@@ -637,5 +628,23 @@
     "link": "https://build.nvidia.com/",
     "catch": "Kräver NVIDIA Developer-konto + SMS-verifiering. Endast prototyp/test, ej produktion.",
     "first_seen": "2026-10-29"
+  },
+  {
+    "service": "Torups slott – Allhelgonahelgen",
+    "category": "Lokalt",
+    "offer": "Fri entré till Torups slott fre 30 okt–sön 1 nov: visningar med mörka berättelser 11–13 och 13:45–16 (sista insläpp 15:45)",
+    "code": "",
+    "link": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.e99dd2f1a08fc27cf990bd",
+    "catch": "Ingen förbokning, kösystem. Torupsvägen 515, ca 14 km från Sankt Knuts torg (bil/buss).",
+    "first_seen": "2026-10-30"
+  },
+  {
+    "service": "Vercel AI Gateway – Nemotron 3.5 Lightning",
+    "category": "AI",
+    "offer": "Gratis NVIDIA Nemotron 3.5 Lightning (1M kontext, tool calling) via modell-ID nvidia/nemotron-3.5-lightning-free",
+    "code": "",
+    "link": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
+    "catch": "Kräver Vercel-konto + AI Gateway-nyckel. Leverantören kan spara prompts för modellträning.",
+    "first_seen": "2026-10-30"
   }
 ]
