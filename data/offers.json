@@ -646,5 +646,32 @@
     "link": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
     "catch": "Kräver Vercel-konto + AI Gateway-nyckel. Leverantören kan spara prompts för modellträning.",
     "first_seen": "2026-10-30"
+  },
+  {
+    "service": "Deepgram",
+    "category": "AI",
+    "offer": "200 USD gratis kredit (ca 43 000 min tal-till-text, även TTS och röstagent), går inte ut",
+    "code": "",
+    "link": "https://deepgram.com/pricing",
+    "catch": "Inget kort krävs; en gång per nytt konto",
+    "first_seen": "2026-10-31"
+  },
+  {
+    "service": "AssemblyAI",
+    "category": "AI",
+    "offer": "50 USD gratis kredit (transkribering, ny TTS, LLM Gateway med Claude/GPT/Gemini)",
+    "code": "",
+    "link": "https://www.assemblyai.com/pricing",
+    "catch": "Inget kort; free tier har lägre samtidighet (5 strömmar/min)",
+    "first_seen": "2026-10-31"
+  },
+  {
+    "service": "Mango Inference",
+    "category": "AI",
+    "offer": "10 USD gratis API-kredit + 30 % rabatt på alla modeller (GLM 5.3, Kimi K3, DeepSeek V4, MiniMax M3)",
+    "code": "",
+    "link": "https://www.mangoboost.io/platform/mango-inference",
+    "catch": "30 %-rabatten gäller t.o.m. 11 nov 2026; krediten har begränsad giltighetstid, en per konto",
+    "first_seen": "2026-10-31"
   }
 ]
