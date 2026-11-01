@@ -99,15 +99,6 @@
     "first_seen": "2026-10-23"
   },
   {
-    "service": "Möllevångstorget Halloween-temamarknad",
-    "category": "Lokalt",
-    "offer": "Gratis temamarknad lör 31 okt 09–15, Möllevångstorget",
-    "code": "",
-    "link": "https://malmo.se/Stadsutveckling/Sa-utvecklar-vi-staden/Stadsmiljo/Pilotprojekt-Mollevangstorget.html",
-    "catch": "Fri entré, du betalar för det du köper.",
-    "first_seen": "2026-10-23"
-  },
-  {
     "service": "Malmö Konsthall Helgverkstad",
     "category": "Lokalt",
     "offer": "Gratis workshop + familjevisning lör–sön 13–16:30, S:t Johannesgatan 7",
@@ -315,15 +306,6 @@
     "first_seen": "2026-10-23"
   },
   {
-    "service": "Skräckveckan Folkets Park",
-    "category": "Lokalt",
-    "offer": "Gratis höstlovsprogram 26–31 okt kl 11–16 (+ eldshow 30–31 okt 19:00, rullskridskodisco lör 31 okt)",
-    "code": "",
-    "link": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.e99dd2f1a08fc27cf97e91",
-    "catch": "Främst familj; ingen förbokning, kö kan uppstå. Folkets Park ca 1,5 km från Sankt Knuts torg",
-    "first_seen": "2026-10-23"
-  },
-  {
     "service": "MAX Rewards (app)",
     "category": "Matkuponger",
     "offer": "Gratis cheeseburgare på första köpet i appen",
@@ -366,15 +348,6 @@
     "code": "",
     "link": "https://www.amazon.se/prime",
     "catch": "Kort krävs, ej om du haft Prime nyligen. Kan sägas upp direkt och gäller ändå 30 dagar.",
-    "first_seen": "2026-10-24"
-  },
-  {
-    "service": "Friskis Hyllie premiär",
-    "category": "Lokalt",
-    "offer": "Gratis öppningsfest lör 31 okt 10–15: prova gruppträning + nya gymmet, DJ; goodie bag till de 100 första",
-    "code": "",
-    "link": "https://www.friskis.com/sv-se/malmo/nyheter/hyllie",
-    "catch": "Hyllie, ca 5 km från Sankt Knuts torg (tåg/buss). 25 % på årskort t.o.m. 15 nov.",
     "first_seen": "2026-10-24"
   },
   {
@@ -673,5 +646,41 @@
     "link": "https://www.mangoboost.io/platform/mango-inference",
     "catch": "30 %-rabatten gäller t.o.m. 11 nov 2026; krediten har begränsad giltighetstid, en per konto",
     "first_seen": "2026-10-31"
+  },
+  {
+    "service": "Bokus Play",
+    "category": "Övrigt",
+    "offer": "30 dagar gratis med 30 h lyssning/läsning (ljud- och e-böcker)",
+    "code": "",
+    "link": "https://www.bokus.com/play/prova-fritt",
+    "catch": "Övergår till från 79 kr/mån, ingen bindningstid – avsluta före provperiodens slut.",
+    "first_seen": "2026-11-01"
+  },
+  {
+    "service": "OpenCode Zen – gratis modeller",
+    "category": "AI",
+    "offer": "12 modeller gratis en begränsad tid (GLM-5.3-Flash, DeepSeek V4.1 Flash, MiMo-V2.6-Flash, Nemotron 3 Ultra m.fl.) + Beam Free",
+    "code": "",
+    "link": "https://opencode.ai/docs/zen/",
+    "catch": "Kräver OpenCode-konto; inget slutdatum angivet. Vissa modeller (Big Pickle, MiMo, Exo, Flint) får använda din data för träning.",
+    "first_seen": "2026-11-01"
+  },
+  {
+    "service": "Vercel AI Gateway – Ling 3.1 Flash",
+    "category": "AI",
+    "offer": "Ling 3.1 Flash 1019 (1M kontext, kodning/agenter) gratis via AI Gateway",
+    "code": "",
+    "link": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
+    "catch": "Gratis bara t.o.m. 3 nov 2026, därefter ordinarie pris. Kräver Vercel-konto.",
+    "first_seen": "2026-11-01"
+  },
+  {
+    "service": "Moderna Museet Malmö – Drink & Draw",
+    "category": "Lokalt",
+    "offer": "Gratis teckningskväll tors 5 nov 16:30–18:00 i Kafé Verket (även 3 dec)",
+    "code": "",
+    "link": "https://www.modernamuseet.se/sv/malmo/program/",
+    "catch": "Ta med block och pennor, visst material att låna; dryck köps själv. Ola Billgrens plats 2, ca 1,5 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-01"
   }
 ]
