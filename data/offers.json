@@ -2,10 +2,10 @@
   {
     "service": "HelloFresh",
     "category": "Matkassar",
-    "offer": "Upp till 1 099 kr rabatt på första kassarna + gratis snacks i 3 månader",
+    "offer": "Upp till 819 kr rabatt på 5 första kassarna, fri leverans på kasse 1 + Peugeot salt- och pepparkvarnset i kasse 3",
     "code": "HELLOAFFB2S",
-    "link": "https://www.hellofresh.se/",
-    "catch": "Gäller nya kunder; prenumeration som måste pausas/avslutas. Kod via Gratisprinsessan 24 okt. Aktuell kampanj 5 okt–8 nov 2026: 369 kr + fri frakt på kasse 1, totalt 819 kr på 5 kassar + Peugeot-kvarnset i kasse 3.",
+    "link": "https://www.hellofresh.se/matkasse/rabattkoder",
+    "catch": "Kampanjen gäller t.o.m. 8 nov kl 21:59. 369 kr av rabatten på kasse 1; resten kräver 5 kassar inom 9 veckor. Veckoabonnemang, nya kunder/ej kund senaste 52 v.",
     "first_seen": "2026-10-25"
   },
   {
@@ -603,15 +603,6 @@
     "first_seen": "2026-10-29"
   },
   {
-    "service": "Torups slott – Allhelgonahelgen",
-    "category": "Lokalt",
-    "offer": "Fri entré till Torups slott fre 30 okt–sön 1 nov: visningar med mörka berättelser 11–13 och 13:45–16 (sista insläpp 15:45)",
-    "code": "",
-    "link": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.e99dd2f1a08fc27cf990bd",
-    "catch": "Ingen förbokning, kösystem. Torupsvägen 515, ca 14 km från Sankt Knuts torg (bil/buss).",
-    "first_seen": "2026-10-30"
-  },
-  {
     "service": "Vercel AI Gateway – Nemotron 3.5 Lightning",
     "category": "AI",
     "offer": "Gratis NVIDIA Nemotron 3.5 Lightning (1M kontext, tool calling) via modell-ID nvidia/nemotron-3.5-lightning-free",
@@ -650,11 +641,11 @@
   {
     "service": "Bokus Play",
     "category": "Övrigt",
-    "offer": "30 dagar gratis med 30 h lyssning/läsning (ljud- och e-böcker)",
+    "offer": "60 dagar gratis med 30 h lyssning (ljud- och e-böcker)",
     "code": "",
-    "link": "https://www.bokus.com/play/prova-fritt",
-    "catch": "Övergår till från 79 kr/mån, ingen bindningstid – avsluta före provperiodens slut.",
-    "first_seen": "2026-11-01"
+    "link": "https://www.gratisstart.se/bocker/7288/lyssna-pa-ljudbocker-gratis-i-60-dagar-med-bokus-play/",
+    "catch": "Kampanjen gäller t.o.m. 4 nov 2026, nya kunder. Sedan från 79 kr/mån, ingen bindningstid.",
+    "first_seen": "2026-11-02"
   },
   {
     "service": "OpenCode Zen – gratis modeller",
@@ -682,5 +673,50 @@
     "link": "https://www.modernamuseet.se/sv/malmo/program/",
     "catch": "Ta med block och pennor, visst material att låna; dryck köps själv. Ola Billgrens plats 2, ca 1,5 km från Sankt Knuts torg.",
     "first_seen": "2026-11-01"
+  },
+  {
+    "service": "SmarToken",
+    "category": "AI",
+    "offer": "5 USD gratis API-kredit (OpenAI-kompatibla modeller) för nya konton",
+    "code": "",
+    "link": "https://thesmartoken.com/campaign/free-credit",
+    "catch": "Kampanjen slutar 31 dec 2026. Registrering via Google, krediten kommer efter riskkontroll. Kan inte tas ut som pengar.",
+    "first_seen": "2026-11-02"
+  },
+  {
+    "service": "Token360 – MiniMax M3.1 Flash",
+    "category": "AI",
+    "offer": "Upp till 10 miljoner gratis tokens för MiniMax M3.1 Flash (API + Playground)",
+    "code": "",
+    "link": "https://www.token360.ai/en-US/promotions/minimax-m3-1-flash",
+    "catch": "Endast 2 nov 18:00 – 5 nov 18:00 svensk tid. Kräver verifierad e-post. 100M tokens med sparat kort – hoppa över det.",
+    "first_seen": "2026-11-02"
+  },
+  {
+    "service": "AI21 Labs",
+    "category": "AI",
+    "offer": "10 USD gratis kredit i 7 dagar, inget kort",
+    "code": "",
+    "link": "https://perq.sh/compare/llm-api-free-tiers",
+    "catch": "Endast nya AI21-konton; krediten gäller bara 7 dagar.",
+    "first_seen": "2026-11-02"
+  },
+  {
+    "service": "Jina AI",
+    "category": "AI",
+    "offer": "10 miljoner gratis tokens per ny API-nyckel (embeddings, reader, reranker)",
+    "code": "",
+    "link": "https://jina.ai/",
+    "catch": "Inget kort krävs enligt perq.sh (verifierat 1 nov).",
+    "first_seen": "2026-11-02"
+  },
+  {
+    "service": "Nespresso pop-up på Hansa",
+    "category": "Lokalt",
+    "offer": "Ny pop-up-butik öppnar fre 6 nov – provsmakning av kaffekapslar",
+    "code": "",
+    "link": "https://hansamalmo.se/project/nespresso-oppnar-pa-hansa/",
+    "catch": "Hansa (Stora Nygatan, östra huset nedre plan), ca 1,3 km från Sankt Knuts torg. Provsmakning i butiken, inget gratis-erbjudande utöver det angivet.",
+    "first_seen": "2026-11-02"
   }
 ]
