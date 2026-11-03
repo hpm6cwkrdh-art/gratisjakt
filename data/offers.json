@@ -117,15 +117,6 @@
     "first_seen": "2026-10-23"
   },
   {
-    "service": "Podme",
-    "category": "Övrigt",
-    "offer": "60 dagar gratis Premium/Premium Total (poddar + ljudböcker)",
-    "code": "OKT60",
-    "link": "https://podme.com/se/campaign/okt60/",
-    "catch": "Gäller 19–31 okt 2026, nya/återvändande (ej abonnemang senaste 90 d). Starta via webben. Sedan 99/189 kr/mån.",
-    "first_seen": "2026-10-23"
-  },
-  {
     "service": "Spotify Premium",
     "category": "Övrigt",
     "offer": "1 månad för 0 kr",
@@ -405,15 +396,6 @@
     "first_seen": "2026-10-25"
   },
   {
-    "service": "Rabble – Bus eller Kaka",
-    "category": "Matkuponger",
-    "offer": "Spela i Rabble-appen: över 4000 poäng = 100 % cashback på Ballerina",
-    "code": "",
-    "link": "https://gratisprinsessan.se/2026/10/spela-bus-eller-kaka-i-rabble-och-vinn-gratis-ballerina/",
-    "catch": "T.o.m. 31 okt; en vinst per konto; köp i butik och skanna kvitto.",
-    "first_seen": "2026-10-25"
-  },
-  {
     "service": "Uber Eats",
     "category": "Matkuponger",
     "offer": "Nya kunder: 2 × 100 kr eller 2 × 20 % rabatt på de två första beställningarna",
@@ -465,15 +447,6 @@
     "code": "",
     "link": "https://aws.amazon.com/free/",
     "catch": "Nya kunder, inget kort för de flesta; gäller 6 mån eller tills krediten tar slut.",
-    "first_seen": "2026-10-27"
-  },
-  {
-    "service": "Qoder – DeepSeek-Flash",
-    "category": "AI",
-    "offer": "Gratis daglig kvot för DeepSeek-V4.1-Flash i kodassistenten Qoder",
-    "code": "",
-    "link": "https://docs.qoder.com/events/deepseek-flash-free",
-    "catch": "Gäller t.o.m. 31 okt 2026, även gratiskonton; välj modellen, inget att lösa in.",
     "first_seen": "2026-10-27"
   },
   {
@@ -718,5 +691,50 @@
     "link": "https://hansamalmo.se/project/nespresso-oppnar-pa-hansa/",
     "catch": "Hansa (Stora Nygatan, östra huset nedre plan), ca 1,3 km från Sankt Knuts torg. Provsmakning i butiken, inget gratis-erbjudande utöver det angivet.",
     "first_seen": "2026-11-02"
+  },
+  {
+    "service": "Färdiga Maten (färdiga matlådor)",
+    "category": "Matkassar",
+    "offer": "30 % rabatt på första leveransen av färdiglagad husmanskost (glutenfri & laktosfri), levererar i Malmö",
+    "code": "HUSMAN30 (partnerkod, alt. Godmat25 = 25 % via fardigamaten.se)",
+    "link": "https://fardigamaten.se/",
+    "catch": "Gäller t.o.m. 31 dec 2026 enligt rabattkodsidor, ej bekräftad i kassan. Fast utkörningsavgift 100 kr, ingen fri frakt. Ingen bindningstid.",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "service": "LongCat-2.5 API (Meituan)",
+    "category": "AI",
+    "offer": "10 miljoner gratis tokens vid registrering (1,6T-modell, 1M kontext, OpenAI/Anthropic-kompatibelt API)",
+    "code": "",
+    "link": "https://longcat.chat/platform/docs/",
+    "catch": "Lanserad 2 nov 2026; gratistokens enligt Meituans X-tråd, står inte i API-dokumentationen. E-postregistrering möjlig utanför Kina; tidigare krävdes ID-verifiering för grant.",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "service": "Poetry Slam Grand Malmö",
+    "category": "Lokalt",
+    "offer": "Gratis poetry slam + öppen scen ons 18 nov 19–22, Grand öl & mat, Monbijougatan 17",
+    "code": "",
+    "link": "https://www.abf.se/malmo-sydvast/kurs/poetry-slam-grand-malmo-hosten-2026-3948373/",
+    "catch": "Fri entré, kom i god tid; mat/dryck kostar. Ca 500 m från Sankt Knuts torg. Även 16 dec.",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "service": "Historieverkstad – Stadsbiblioteket",
+    "category": "Lokalt",
+    "offer": "Gratis föreläsning \"Stulna och förlorade kulturarv i en digital tid\" tors 5 nov 18–20 + gratis kvällsfika",
+    "code": "",
+    "link": "https://historieverkstad.uni.mau.se/tag/malmo-stadsbibliotek/",
+    "catch": "Röda rummet, Malmö stadsbibliotek, Kung Oscars väg 11, ca 1,5 km från Sankt Knuts torg. Nästa 3 dec (Möllevångskravallerna).",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "service": "Författarscenen – Therese Bohman",
+    "category": "Lokalt",
+    "offer": "Gratis författarsamtal tis 10 nov kl 19, Malmö stadsbibliotek",
+    "code": "",
+    "link": "https://malmo.se/Uppleva-och-gora/Biblioteken/Vara-bibliotek/Stadsbiblioteket/Forfattarscenen.html",
+    "catch": "Fri entré, drop-in, går ej att förboka. Kung Oscars väg 11, ca 1,5 km från Sankt Knuts torg. Sänds även live på Biblioteket Play.",
+    "first_seen": "2026-11-03"
   }
 ]
