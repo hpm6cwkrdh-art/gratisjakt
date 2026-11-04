@@ -531,15 +531,6 @@
     "first_seen": "2026-10-28"
   },
   {
-    "service": "Palladium – lunchkonsert",
-    "category": "Lokalt",
-    "offer": "Gratis lunchkonsert med Musikhögskolans gitarrklass tis 3 nov 12:15–13:00 (salongen öppnar 12:00)",
-    "code": "",
-    "link": "https://palladium.nu/evenemang/lunchkonsert-med-musikhogskolan-i-malmos-gitarrklass",
-    "catch": "Fri entré (0 kr-biljett via Nortic). Södra Förstadsgatan, ca 700 m från Sankt Knuts torg.",
-    "first_seen": "2026-10-28"
-  },
-  {
     "service": "Bokens dag – Öppen förscen, Malmö Live",
     "category": "Lokalt",
     "offer": "Gratis samtal med Nicolas Lunabba lör 21 nov 12:00–12:45, Kanalscenen, Dag Hammarskjölds torg 4",
@@ -627,15 +618,6 @@
     "code": "",
     "link": "https://opencode.ai/docs/zen/",
     "catch": "Kräver OpenCode-konto; inget slutdatum angivet. Vissa modeller (Big Pickle, MiMo, Exo, Flint) får använda din data för träning.",
-    "first_seen": "2026-11-01"
-  },
-  {
-    "service": "Vercel AI Gateway – Ling 3.1 Flash",
-    "category": "AI",
-    "offer": "Ling 3.1 Flash 1019 (1M kontext, kodning/agenter) gratis via AI Gateway",
-    "code": "",
-    "link": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
-    "catch": "Gratis bara t.o.m. 3 nov 2026, därefter ordinarie pris. Kräver Vercel-konto.",
     "first_seen": "2026-11-01"
   },
   {
@@ -736,5 +718,50 @@
     "link": "https://malmo.se/Uppleva-och-gora/Biblioteken/Vara-bibliotek/Stadsbiblioteket/Forfattarscenen.html",
     "catch": "Fri entré, drop-in, går ej att förboka. Kung Oscars väg 11, ca 1,5 km från Sankt Knuts torg. Sänds även live på Biblioteket Play.",
     "first_seen": "2026-11-03"
+  },
+  {
+    "service": "Kiro (AI-kodassistent)",
+    "category": "AI",
+    "offer": "Resten av första månaden på Pro gratis + 500 trial-krediter (gäller 12 mån). Uppgradera tidigt i månaden = nästan hel månad (~1 000 krediter) för 0 kr",
+    "code": "",
+    "link": "https://kiro.dev/pricing/",
+    "catch": "Bara första uppgraderingen från Free; kort krävs, sedan 20 USD/mån – säg upp före 1:a nästa månad. Extra 4 000 krediter via Kiroween-hackathon (ansök senast 1 dec, går ut 31 dec).",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "service": "InferX Free – DeepSeek V4.1 Flash",
+    "category": "AI",
+    "offer": "Gratis DeepSeek V4.1 Flash-endpoint (0 USD/1M tokens, 262K kontext), OpenAI-kompatibelt API",
+    "code": "modell: deepseek-v4.1-flash-1017-basic",
+    "link": "https://inferx.net/pricing/endpoints",
+    "catch": "Kampanjpris utan angivet slutdatum, rate limits ej publicerade. Verifierat 3 nov via that.promo.",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "service": "Voyage AI",
+    "category": "AI",
+    "offer": "200 miljoner gratis tokens per konto för embeddings (voyage-4 m.fl.) + 200M reranker-tokens + 150 miljarder pixlar multimodalt",
+    "code": "",
+    "link": "https://docs.voyageai.com/docs/pricing",
+    "catch": "Engångskvot per konto, gäller ej Batch API. Verifierat i officiella docs 4 nov.",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "service": "Waynes Vänner (app)",
+    "category": "Matkuponger",
+    "offer": "Halva priset på första drycken som ny medlem + bönor mot gratis fika/dryck",
+    "code": "",
+    "link": "https://www.waynescoffee.se/waynes-vanner/app/",
+    "catch": "Inte gratis, 50 %. Närmast: Södra Förstadsgatan 10 A och 41 (Triangeln), ca 500–800 m från Sankt Knuts torg.",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "service": "Erikshjälpen Second Hand – Gåvans väg",
+    "category": "Lokalt",
+    "offer": "Gratis rundvandring bakom kulisserna med föreläsning, fika och exklusiv shopping, lör 14 nov 15–18",
+    "code": "",
+    "link": "https://malmo.se/Miljo-och-klimat/Sa-arbetar-vi-med-miljo-och-klimat/Externfinansierade-projekt/Den-lokala-textilagendan/REJUL/Erikshjalpen.html",
+    "catch": "Föranmälan senast 13 nov, max 50 platser. Sallerupsvägen 88, ca 3 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-04"
   }
 ]
