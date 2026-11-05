@@ -20,11 +20,11 @@
   {
     "service": "BetterFeast",
     "category": "Matkassar",
-    "offer": "25 % rabatt på första Familjelådan (färdiglagat), fri frakt",
-    "code": "",
-    "link": "https://www.betterfeast.se/bestalla/",
-    "catch": "Nya kunder, 1 per hushåll. Ingen bindning men avboka minst 13 dagar före nästa leverans.",
-    "first_seen": "2026-10-23"
+    "offer": "Black November: 50 % rabatt på första Familjelådan (färdiglagat)",
+    "code": "BN50",
+    "link": "https://www.betterfeast.se/black-november/",
+    "catch": "Nya kunder. Binder dig till ytterligare 1 leverans till ordinarie pris. Verifierat på betterfeast.se 5 nov. Matlådor ≈ färdigmat, inte matkasse med råvaror; portionkost högre än hemlagat.",
+    "first_seen": "2026-11-05"
   },
   {
     "service": "Google AI Pro (Gemini)",
@@ -101,10 +101,10 @@
   {
     "service": "Malmö Konsthall Helgverkstad",
     "category": "Lokalt",
-    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30, S:t Johannesgatan 7",
+    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30 (t.ex. 7–8 nov), S:t Johannesgatan 7",
     "code": "",
-    "link": "https://malmokonsthall.se/evenemangs/helgverkstad-9/2026-10-24/",
-    "catch": "Fri entré, ingen anmälan.",
+    "link": "https://malmokonsthall.se/en/evenemangs/weekend-workshop-6/2026-11-07/",
+    "catch": "Fri entré, ingen anmälan. Återkommande helger. Ca 1 km från Sankt Knuts torg.",
     "first_seen": "2026-10-23"
   },
   {
@@ -603,15 +603,6 @@
     "first_seen": "2026-10-31"
   },
   {
-    "service": "Bokus Play",
-    "category": "Övrigt",
-    "offer": "60 dagar gratis med 30 h lyssning (ljud- och e-böcker)",
-    "code": "",
-    "link": "https://www.gratisstart.se/bocker/7288/lyssna-pa-ljudbocker-gratis-i-60-dagar-med-bokus-play/",
-    "catch": "Kampanjen gäller t.o.m. 4 nov 2026, nya kunder. Sedan från 79 kr/mån, ingen bindningstid.",
-    "first_seen": "2026-11-02"
-  },
-  {
     "service": "OpenCode Zen – gratis modeller",
     "category": "AI",
     "offer": "12 modeller gratis en begränsad tid (GLM-5.3-Flash, DeepSeek V4.1 Flash, MiMo-V2.6-Flash, Nemotron 3 Ultra m.fl.) + Beam Free",
@@ -623,7 +614,7 @@
   {
     "service": "Moderna Museet Malmö – Drink & Draw",
     "category": "Lokalt",
-    "offer": "Gratis teckningskväll tors 5 nov 16:30–18:00 i Kafé Verket (även 3 dec)",
+    "offer": "Gratis teckningskväll tors 5 nov 16:30–18:30 i Kafé Verket (även 3 dec)",
     "code": "",
     "link": "https://www.modernamuseet.se/sv/malmo/program/",
     "catch": "Ta med block och pennor, visst material att låna; dryck köps själv. Ola Billgrens plats 2, ca 1,5 km från Sankt Knuts torg.",
@@ -644,7 +635,7 @@
     "offer": "Upp till 10 miljoner gratis tokens för MiniMax M3.1 Flash (API + Playground)",
     "code": "",
     "link": "https://www.token360.ai/en-US/promotions/minimax-m3-1-flash",
-    "catch": "Endast 2 nov 18:00 – 5 nov 18:00 svensk tid. Kräver verifierad e-post. 100M tokens med sparat kort – hoppa över det.",
+    "catch": "Gäller t.o.m. 5 nov 18:00 svensk tid (idag). Kräver verifierad e-post. 100M tokens med sparat kort – hoppa över det.",
     "first_seen": "2026-11-02"
   },
   {
@@ -763,5 +754,104 @@
     "link": "https://malmo.se/Miljo-och-klimat/Sa-arbetar-vi-med-miljo-och-klimat/Externfinansierade-projekt/Den-lokala-textilagendan/REJUL/Erikshjalpen.html",
     "catch": "Föranmälan senast 13 nov, max 50 platser. Sallerupsvägen 88, ca 3 km från Sankt Knuts torg.",
     "first_seen": "2026-11-04"
+  },
+  {
+    "service": "Malmö Live Comedy",
+    "category": "Lokalt",
+    "offer": "Gratis standup ons 11 nov 19:00, Kanalscenen (Tomas Kaminski + Victor Wu + gäster)",
+    "code": "",
+    "link": "https://malmolive.se/program/malmo-live-comedy",
+    "catch": "Fri entré, ingen förbokning – först till kvarn, kom i god tid. Dag Hammarskjölds torg 4 / Fiskehamnsgatan 9, ca 1,5 km från Sankt Knuts torg. Mat/dryck i Bistro Live.",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "service": "ACAN takeover – Form/Design Center",
+    "category": "Lokalt",
+    "offer": "Gratis tvådagars program ons–tors 11–12 nov (öppet kontor, workshops, föreläsning Byggestopbevægelsen)",
+    "code": "",
+    "link": "https://www.formdesigncenter.com/en/program/takeover-imperfect-assemblies-acan",
+    "catch": "Fri entré, registrering via formulär. Lunch wrap 110 kr (valfritt). Lilla Torg 9, ca 1,2 km från Sankt Knuts torg. Engelska/skandinaviska.",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "service": "HeyGen Voice Turbo Free",
+    "category": "AI",
+    "offer": "Gratis TTS-modell (heygen-voice-1-turbo-free) utan kreditbalans t.o.m. 30 nov 2026",
+    "code": "modell: heygen-voice-1-turbo-free",
+    "link": "https://developers.heygen.com/docs/voices/heygen-voice-speech",
+    "catch": "Kräver HeyGen API-nyckel. Publik röst eller instant clone (ej professional). 30 req/min per workspace-medlem. Verifierat via perq/HeyGen docs 4–5 nov.",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "service": "Fish Audio S2.1-Pro Free",
+    "category": "AI",
+    "offer": "Gratis TTS-modell s2.1-pro-free (samma kvalitet som Pro) för utveckling/test",
+    "code": "modell: s2.1-pro-free",
+    "link": "https://docs.fish.audio/developer-guide/models-pricing/models-overview",
+    "catch": "Fair-use, ingen SLA. Gratis t.o.m. ca 30 nov 2026 enligt Fish docs/that.promo. Kräver Fish API-nyckel.",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "service": "Nebius AI Builder Program",
+    "category": "AI",
+    "offer": "Gratis medlemskap: 25 USD Token Factory-kredit + 25 USD Tavily + 100 USD LangSmith + Toloka/Tandem-krediter",
+    "code": "",
+    "link": "https://dev.nebius.com/builders",
+    "catch": "E-postverifiering krävs. Krediter för prototyp, ej produktion enligt villkor. Partnererbjudanden har egna villkor. Verifierat på officella builders-sidan 5 nov.",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "service": "Cloudflare Workers AI",
+    "category": "AI",
+    "offer": "Gratis 10 000 Neurons/dag (inferens över modellkatalogen)",
+    "code": "",
+    "link": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+    "catch": "Kräver Cloudflare-konto. Daglig kvot återställs 00:00 UTC. Permanent free tier.",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "service": "Tencent CodeBuddy / WorkBuddy",
+    "category": "AI",
+    "offer": "Gratis användning 4–15 nov 2026 (Hy4-lanseringsfönster), AI-kodassistent + work agent",
+    "code": "",
+    "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+    "catch": "Begränsad gratiskvot enligt press; region/kort ej specificerat på officella sidan. Välj Hy4 i modellistan när tillgänglig.",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "service": "Daytona",
+    "category": "AI",
+    "offer": "200 USD gratis compute (engångs) för AI-agent-sandboxes, inget kort",
+    "code": "",
+    "link": "https://www.daytona.com/pricing",
+    "catch": "Nya konton, Starter: 200 USD engångskredit, inget kort. Debitering per sekund medan sandbox kör. Verifierat på daytona.com/pricing 5 nov.",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "service": "Speechmatics",
+    "category": "AI",
+    "offer": "100 USD gratis kredit vid registrering (STT/TTS), inget kort",
+    "code": "",
+    "link": "https://www.speechmatics.com/",
+    "catch": "Nya self-serve-konton; kredit gäller 12 mån enligt that.promo (verifierat 4 nov mot officella källor). Separat från AssemblyAI.",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "service": "Brave Search API",
+    "category": "AI",
+    "offer": "5 USD gratis kredit varje månad på Search-planen (~1 000 requests)",
+    "code": "",
+    "link": "https://brave.com/search/api/",
+    "catch": "Kort krävs mot missbruk. Answers/Spellcheck/Autosuggest har också 5 USD/mån var. Verifierat via that.promo 5 nov.",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "service": "Vultr",
+    "category": "Övrigt",
+    "offer": "300 USD gratis kredit för nya kunder (select products)",
+    "code": "FLY300VULTR",
+    "link": "https://www.vultr.com/pricing/",
+    "catch": "Nya kunder; begränsningar på vilka produkter koden gäller. Verifierat via that.promo 5 nov.",
+    "first_seen": "2026-11-05"
   }
 ]
