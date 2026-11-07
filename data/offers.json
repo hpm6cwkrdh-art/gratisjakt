@@ -992,10 +992,10 @@
   {
     "service": "BookBeat",
     "category": "Övrigt",
-    "offer": "30 dagar gratis (20 h lyssning)",
+    "offer": "45 dagar gratis (upp till 30 h lyssning) via kostnader.se-länken",
     "code": "",
-    "link": "https://www.bookbeat.com/se",
-    "catch": "Kort krävs, auto-förnyas från 99 kr/mån.",
+    "link": "https://kostnader.se/streaming/bookbeat-erbjudande",
+    "catch": "Nya kunder, kort krävs, auto-förnyas från 99 kr/mån; avsluta senast dag 45. Kontrollerat av kostnader.se 6 nov (bättre än vanliga 30 dagar).",
     "first_seen": "2026-10-23"
   },
   {
@@ -1105,5 +1105,50 @@
     "link": "https://nordvpn.com/sv/risk-free-vpn/",
     "catch": "Kort eller PayPal. Auto-förnyar till betald plan — säg upp innan dag 7. Ej via App Store/Play (Android Play har separat 3d).",
     "first_seen": "2026-11-06"
+  },
+  {
+    "service": "Qoder – Qoduck (stealth-modell)",
+    "category": "AI",
+    "offer": "Daglig gratiskvot på stealth-kodmodellen Qoduck i AI-kodassistenten Qoder, även på gratiskonto (0 credits per anrop inom kvoten)",
+    "code": "",
+    "link": "https://docs.qoder.com/events/qoduck-free",
+    "catch": "Från 7 nov 2026, slutdatum ej satt. Begränsat antal anrop/dag; gäller ej Teams/Enterprise. Okänd modell, kod skickas till Qoder.",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "service": "Hetzner Inference API",
+    "category": "AI",
+    "offer": "Gratis OpenAI-kompatibelt API med Qwen3.6-35B-A3B och Qwen3.8-27B (text + bild), 4M in-/100k ut-tokens per minut",
+    "code": "",
+    "link": "https://docs.hetzner.com/general/company-and-policy/experiments/inference/",
+    "catch": "Kräver Hetzner-konto + Experiments-API-nyckel. Gratis bara under experimentfasen (mejlbesked innan det kostar), 10 anrop/min, ej för produktion.",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "service": "ABF – Samtal om barnrätt",
+    "category": "Lokalt",
+    "offer": "Gratis panelsamtal ”När barn blir straffbara” + bjudfika, sön 8 nov 15–17",
+    "code": "",
+    "link": "https://www.abf.se/malmo-sydvast/kurs/nar-barn-blir-straffbara-ett-samtal-om-barnratt-3957081/",
+    "catch": "ABF-huset, Spånehusvägen 47, ca 3 km från Sankt Knuts torg. Anmälan rekommenderas (40 platser kvar 6 nov), annars drop-in i mån av plats.",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "service": "Gratis bio – Berätta för alla (Panora)",
+    "category": "Lokalt",
+    "offer": "Gratis visning av finska filmen Berätta för alla, sön 8 nov 18:00–20:15",
+    "code": "",
+    "link": "https://www.abf.se/malmo-sydvast/kurs/beratta-for-alla-3960790/",
+    "catch": "Biograf Panora, Friisgatan 19 D (Möllan), ca 1,5 km från Sankt Knuts torg. ABF + Folkets Bio; platser begränsade.",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "service": "Snacks – Malmö Live",
+    "category": "Lokalt",
+    "offer": "Gratis samtal med Malmöprofil (Celia Boltes) sön 8 nov 13:00, Kanalscenen",
+    "code": "",
+    "link": "https://malmolive.se/barn-och-familj-programlista",
+    "catch": "Fri entré (0 kr). Dag Hammarskjölds torg 4, ca 1,5 km. Mat/dryck i Bistro Live kostar.",
+    "first_seen": "2026-11-07"
   }
 ]
