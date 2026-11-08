@@ -20,10 +20,10 @@
   {
     "service": "HelloFresh",
     "category": "Matkassar",
-    "offer": "Upp till 819 kr rabatt på 5 första kassarna, fri leverans på kasse 1 + Peugeot salt- och pepparkvarnset i kasse 3",
-    "code": "HELLOAFFB2S",
+    "offer": "T.o.m. 8 nov 21:59: upp till 819 kr på 5 första kassarna + fri leverans kasse 1 + Peugeot-kvarnset i kasse 3. Från 9 nov: upp till 1 099 kr på 5 första kassarna (329 kr på kasse 1) + gratis snacks i 2 mån",
+    "code": "HELLOAFFB2S (t.o.m. 8 nov 21:59) / GENERICFRESH (från 9 nov)",
     "link": "https://www.hellofresh.se/matkasse/rabattkoder",
-    "catch": "Kampanjen gäller t.o.m. 8 nov kl 21:59. 369 kr av rabatten på kasse 1; resten kräver 5 kassar inom 9 veckor. Från 9 nov: GENERICFRESH upp till 1 099 kr + gratis snacks i 2 mån (nya/åter efter 52 v).",
+    "catch": "Nya kunder eller avslutat för >52 v sedan, 1 per hushåll. 5 kassar inom 9 veckor annars förfaller resten. GENERICFRESH enligt partnerinfo (budgetdoktorn.com), bekräfta i kassan. Prenumeration, pausa/avsluta veckovis.",
     "first_seen": "2026-10-25"
   },
   {
@@ -392,7 +392,7 @@
     "offer": "10 USD gratis kredit i 7 dagar, inget kort",
     "code": "",
     "link": "https://perq.sh/compare/llm-api-free-tiers",
-    "catch": "Endast nya AI21-konton; krediten gäller bara 7 dagar.",
+    "catch": "Endast nya AI21-konton; krediten gäller bara 7 dagar. OBS: free-llm.com (4 nov) rapporterar att Jamba-API:t stängdes 9 aug 2026; ai21.com/pricing visar fortfarande erbjudandet 8 nov – kan vara inaktuellt.",
     "first_seen": "2026-11-02"
   },
   {
@@ -686,9 +686,9 @@
   {
     "service": "Malmö Konsthall Helgverkstad",
     "category": "Lokalt",
-    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30 (t.ex. 7–8 nov), S:t Johannesgatan 7",
+    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30 (t.ex. 8 nov, 14–15 nov), S:t Johannesgatan 7",
     "code": "",
-    "link": "https://malmokonsthall.se/en/evenemangs/weekend-workshop-6/2026-11-07/",
+    "link": "https://malmokonsthall.se/en/evenemangs/weekend-workshop-6/2026-11-14/",
     "catch": "Fri entré, ingen anmälan. Återkommande helger. Ca 1 km från Sankt Knuts torg.",
     "first_seen": "2026-10-23"
   },
@@ -888,15 +888,6 @@
     "code": "",
     "link": "https://www.malmostadsteater.se/aw-teater",
     "catch": "Innergården, Östra Rönneholmsvägen 20, ca 600 m. Ingen föranmälan; dryck/mat i caféet kostar.",
-    "first_seen": "2026-11-06"
-  },
-  {
-    "service": "Elektroniskt i Pauli – MYCELIUM",
-    "category": "Lokalt",
-    "offer": "Fri entré elektronikkonsert lör 7 nov kl 17:00, S:t Pauli kyrka (Miranda Magdalena + Loljud/Lilium)",
-    "code": "",
-    "link": "https://www.svenskakyrkan.se/malmo/nyheter/elektroniskt-i-pauli-mycelium---miranda-magdalena-och-loljud",
-    "catch": "Kungsgatan 17, ca 700 m från Sankt Knuts torg. Drop-in.",
     "first_seen": "2026-11-06"
   },
   {
@@ -1145,10 +1136,82 @@
   {
     "service": "Snacks – Malmö Live",
     "category": "Lokalt",
-    "offer": "Gratis samtal med Malmöprofil (Celia Boltes) sön 8 nov 13:00, Kanalscenen",
+    "offer": "Gratis samtal med Malmöprofil (Celia Boltes) sön 8 nov 13:00 och fre 13 nov 17:00, Kanalscenen",
     "code": "",
     "link": "https://malmolive.se/barn-och-familj-programlista",
     "catch": "Fri entré (0 kr). Dag Hammarskjölds torg 4, ca 1,5 km. Mat/dryck i Bistro Live kostar.",
     "first_seen": "2026-11-07"
+  },
+  {
+    "service": "Preem Medlem (app)",
+    "category": "Matkuponger",
+    "offer": "Gratis valfri bulle (värde 22 kr) när du köper kaffe, te eller choklad",
+    "code": "",
+    "link": "https://www.preem.se/kampanj/kop-kaffe-fa-bulle/",
+    "catch": "Kräver Preem Medlem + appen, visa QR-koden i kassan. Max 1 bulle per köptillfälle/dag, bara bemannade stationer. Inget slutdatum angivet.",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "service": "Santa Maria Premium Noodles (SMS-kupong)",
+    "category": "Matkuponger",
+    "offer": "Gratis paket Santa Maria Premium Noodles (Green Curry, Pad Thai, Paneng Curry eller Teriyaki) via mobilkupong",
+    "code": "",
+    "link": "https://gratisprinsessan.se/2026/10/gratis-santa-maria-premium-noodles/",
+    "catch": "Ange mobilnummer, kupongen löses in på ICA, Coop, Hemköp eller Willys. Först till kvarn (ute sedan 12 okt, fortfarande listad 7 nov) – kan vara slut. Nudlar innehåller sannolikt vete, ej för glutenkänsliga.",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "service": "Regolo.ai",
+    "category": "AI",
+    "offer": "30 dagar gratis trial: 1M tokens/dag på alla Core-modeller (GLM-5.2, Gemma 4 31B, Qwen3.8-27B, gpt-oss-120b m.fl.), inget kort",
+    "code": "",
+    "link": "https://regolo.ai/pricing/",
+    "catch": "En gång per konto, striktare rate limits. Italiensk EU-hosting, zero data retention. Går över till pay-as-you-go efteråt utan automatisk debitering.",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "service": "FreeInference (Harvard MadSys Lab)",
+    "category": "AI",
+    "offer": "Gratis OpenAI- och Anthropic-kompatibelt API (GLM-5.3 Flash, DeepSeek V4 Flash, MiniMax M3, Qwen3.6 35B), funkar med Claude Code",
+    "code": "",
+    "link": "https://freeinference.org/",
+    "catch": "Bara e-post, inget kort. Kvot beskrivs bara som ”generous”; för forskning/utbildning – labbet studerar agenttrafik, skicka inget privat.",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "service": "PAUS: Morgonkonsert – Bruno Bavota, Malmö Live",
+    "category": "Lokalt",
+    "offer": "Gratis morgonkonsert ons 11 nov kl 08:15 (ca 40 min), italiensk neoklassisk pianist, Konsertsalen",
+    "code": "",
+    "link": "https://malmolive.se/program/paus-morgonkonsert-bruno-bavota",
+    "catch": "Fri entré, boka biljett via sidan. Dag Hammarskjölds torg 4, ca 1,5 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "service": "Musikquiz (lite bredare) – Malmö Live",
+    "category": "Lokalt",
+    "offer": "Gratis musikquiz med liveband ons 18 nov kl 19:00 (ca 1 h 15 min), Kanalscenen",
+    "code": "",
+    "link": "https://malmolive.se/program/musikquiz-lite-bredare",
+    "catch": "Fri entré, ingen bokning – först till kvarn, kom i god tid. Fiskehamnspromenaden 9 / Dag Hammarskjölds torg 4, ca 1,5 km. Mat/dryck i Bistro Live kostar. Även 16 dec.",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "service": "Malmö Saluhall 10-årsjubileums-AW",
+    "category": "Lokalt",
+    "offer": "Fri entré jubileums-AW fre 13 nov kl 16–20 med DJ + liveband Soul Kitchen kl 19",
+    "code": "",
+    "link": "https://kulturcentralen.com/evenemang/malmsaluhall10rjubileums-aw",
+    "catch": "Entré gratis; smakbiljett (6 smaker) kostar 349 kr och dryck köps. Lördagsfesten 14 nov kräver förköpt biljett. Gibraltargatan 6, ca 1,5 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "service": "Form/Design Center – gratis program",
+    "category": "Lokalt",
+    "offer": "Gratis: guidad visning tors 12 nov 16–17; vernissage + panelsamtal GLÖD lör 14 nov 13–15; samtal ”Att organisera demokratiska rum” ons 18 nov 17–20; föreläsning Meriem Chabani tors 19 nov 17–19",
+    "code": "",
+    "link": "https://www.formdesigncenter.com/program",
+    "catch": "Alla gratis; visningen, samtalet 18/11 och föreläsningen 19/11 kräver anmälan på resp. programsida. Lilla Torg 9, ca 1,2 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-08"
   }
 ]
