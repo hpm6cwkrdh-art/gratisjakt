@@ -20,11 +20,11 @@
   {
     "service": "HelloFresh",
     "category": "Matkassar",
-    "offer": "T.o.m. 8 nov 21:59: upp till 819 kr på 5 första kassarna + fri leverans kasse 1 + Peugeot-kvarnset i kasse 3. Från 9 nov: upp till 1 099 kr på 5 första kassarna (329 kr på kasse 1) + gratis snacks i 2 mån",
-    "code": "HELLOAFFB2S (t.o.m. 8 nov 21:59) / GENERICFRESH (från 9 nov)",
+    "offer": "Upp till 1 099 kr rabatt på 5 första kassarna (329+260+170+170+170 kr) + gratis snacks i 2 månader",
+    "code": "GENERICFRESH",
     "link": "https://www.hellofresh.se/matkasse/rabattkoder",
-    "catch": "Nya kunder eller avslutat för >52 v sedan, 1 per hushåll. 5 kassar inom 9 veckor annars förfaller resten. GENERICFRESH enligt partnerinfo (budgetdoktorn.com), bekräfta i kassan. Prenumeration, pausa/avsluta veckovis.",
-    "first_seen": "2026-10-25"
+    "catch": "Ny kampanj från 9 nov 2026 (partnerkod via budgetdoktorn/webstores). Nya kunder eller avslutat >52 v, 1 per hushåll. 5 kassar inom 9 v annars förfaller rabatten. Prenumeration, ej fri leverans. Inte billigare än att laga själv.",
+    "first_seen": "2026-11-10"
   },
   {
     "service": "Factor (färdiga matlådor)",
@@ -77,7 +77,7 @@
     "offer": "Välkomstgåva: ett paket Coop-kaffe + poäng/medlemspriser",
     "code": "",
     "link": "https://kundservice.coop.se/hc/sv/articles/360013574139-Bli-medlem",
-    "catch": "100 kr insats (återbetalas om du går ur); gåvan aktiveras via mejl",
+    "catch": "Du är redan medlem: hämta gratis Coop Kaffe 450 g i butik senast 17 nov 2026 (välkomstmejlet 4 nov).",
     "first_seen": "2026-10-23"
   },
   {
@@ -387,15 +387,6 @@
     "first_seen": "2026-11-01"
   },
   {
-    "service": "AI21 Labs",
-    "category": "AI",
-    "offer": "10 USD gratis kredit i 7 dagar, inget kort",
-    "code": "",
-    "link": "https://perq.sh/compare/llm-api-free-tiers",
-    "catch": "Endast nya AI21-konton; krediten gäller bara 7 dagar. OBS: free-llm.com (4 nov) rapporterar att Jamba-API:t stängdes 9 aug 2026; ai21.com/pricing visar fortfarande erbjudandet 8 nov – kan vara inaktuellt.",
-    "first_seen": "2026-11-02"
-  },
-  {
     "service": "Jina AI",
     "category": "AI",
     "offer": "10 miljoner gratis tokens per ny API-nyckel (embeddings, reader, reranker)",
@@ -411,15 +402,6 @@
     "code": "",
     "link": "https://thesmartoken.com/campaign/free-credit",
     "catch": "Kampanjen slutar 31 dec 2026. Registrering via Google, krediten kommer efter riskkontroll. Kan inte tas ut som pengar.",
-    "first_seen": "2026-11-02"
-  },
-  {
-    "service": "Token360 – MiniMax M3.1 Flash",
-    "category": "AI",
-    "offer": "Upp till 10 miljoner gratis tokens för MiniMax M3.1 Flash (API + Playground)",
-    "code": "",
-    "link": "https://www.token360.ai/en-US/promotions/minimax-m3-1-flash",
-    "catch": "Gäller t.o.m. 5 nov 18:00 svensk tid (idag). Kräver verifierad e-post. 100M tokens med sparat kort – hoppa över det.",
     "first_seen": "2026-11-02"
   },
   {
@@ -686,7 +668,7 @@
   {
     "service": "Malmö Konsthall Helgverkstad",
     "category": "Lokalt",
-    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30 (t.ex. 8 nov, 14–15 nov), S:t Johannesgatan 7",
+    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30 (t.ex. 14–15 nov), S:t Johannesgatan 7",
     "code": "",
     "link": "https://malmokonsthall.se/en/evenemangs/weekend-workshop-6/2026-11-14/",
     "catch": "Fri entré, ingen anmälan. Återkommande helger. Ca 1 km från Sankt Knuts torg.",
@@ -927,15 +909,6 @@
     "first_seen": "2026-11-06"
   },
   {
-    "service": "Lär dig teckna manga med Elise",
-    "category": "Lokalt",
-    "offer": "Gratis mangaworkshop sön 8 nov kl 14–16 för 9–13 år, Balagan våning 2",
-    "code": "",
-    "link": "https://malmo.se/Uppleva-och-gora/Biblioteken/Vara-bibliotek/Stadsbiblioteket/Balagan-barn-9-13-ar/Program-for-barn-9-13-ar.html",
-    "catch": "Stadsbiblioteket, Kung Oscars väg 11, ca 1 km. Ingen anmälan; begränsat antal platser.",
-    "first_seen": "2026-11-06"
-  },
-  {
     "service": "Open Stage – Arena 305",
     "category": "Lokalt",
     "offer": "Gratis open stage ons 11 nov kl 18–20 för 15–25 år",
@@ -965,7 +938,7 @@
   {
     "service": "Öppen höstverkstad – Konstmuseet i Kungsparken",
     "category": "Lokalt",
-    "offer": "Gratis drop-in skapande sön 8, 15, 22 & 29 nov kl 11–15 (6–12 år), material på plats",
+    "offer": "Gratis drop-in skapande sön 15, 22 & 29 nov kl 11–15 (6–12 år), material på plats",
     "code": "",
     "link": "https://malmo.se/Kul-i-Malmo/Aktivitet.html?id=5.7e4bdcf31a182891259126c",
     "catch": "Slottsgatan 33 (Kungsparken), ca 1,2 km. Begränsat antal platser; ta gärna glasburk till ljuslykta.",
@@ -1116,27 +1089,9 @@
     "first_seen": "2026-11-07"
   },
   {
-    "service": "ABF – Samtal om barnrätt",
-    "category": "Lokalt",
-    "offer": "Gratis panelsamtal ”När barn blir straffbara” + bjudfika, sön 8 nov 15–17",
-    "code": "",
-    "link": "https://www.abf.se/malmo-sydvast/kurs/nar-barn-blir-straffbara-ett-samtal-om-barnratt-3957081/",
-    "catch": "ABF-huset, Spånehusvägen 47, ca 3 km från Sankt Knuts torg. Anmälan rekommenderas (40 platser kvar 6 nov), annars drop-in i mån av plats.",
-    "first_seen": "2026-11-07"
-  },
-  {
-    "service": "Gratis bio – Berätta för alla (Panora)",
-    "category": "Lokalt",
-    "offer": "Gratis visning av finska filmen Berätta för alla, sön 8 nov 18:00–20:15",
-    "code": "",
-    "link": "https://www.abf.se/malmo-sydvast/kurs/beratta-for-alla-3960790/",
-    "catch": "Biograf Panora, Friisgatan 19 D (Möllan), ca 1,5 km från Sankt Knuts torg. ABF + Folkets Bio; platser begränsade.",
-    "first_seen": "2026-11-07"
-  },
-  {
     "service": "Snacks – Malmö Live",
     "category": "Lokalt",
-    "offer": "Gratis samtal med Malmöprofil (Celia Boltes) sön 8 nov 13:00 och fre 13 nov 17:00, Kanalscenen",
+    "offer": "Gratis samtal med Malmöprofil fre 13 nov 17:00",
     "code": "",
     "link": "https://malmolive.se/barn-och-familj-programlista",
     "catch": "Fri entré (0 kr). Dag Hammarskjölds torg 4, ca 1,5 km. Mat/dryck i Bistro Live kostar.",
@@ -1213,5 +1168,59 @@
     "link": "https://www.formdesigncenter.com/program",
     "catch": "Alla gratis; visningen, samtalet 18/11 och föreläsningen 19/11 kräver anmälan på resp. programsida. Lilla Torg 9, ca 1,2 km från Sankt Knuts torg.",
     "first_seen": "2026-11-08"
+  },
+  {
+    "service": "LG K-EXAONE 2.5 API",
+    "category": "AI",
+    "offer": "Helt gratis API för K-EXAONE 2.5 (750B MoE, 512K kontext, tool calling), OpenAI-kompatibelt",
+    "code": "",
+    "link": "https://www.unite.ai/lg-ai-research-opens-free-api-access-to-its-k-exaone-2-5-model/",
+    "catch": "Från 9 nov 2026 via EXAONE API Platform; för utveckling/forskning. Bara koreanska + engelska, text. Kräver API-nyckel; slutdatum ej angivet.",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "service": "Inferbase",
+    "category": "AI",
+    "offer": "Gratis: 5 000 anrop/mån + 0,50 USD modellanvändning/dag (GPT-OSS 120B, DeepSeek V4 Flash, Kimi K2.7 Code m.fl.)",
+    "code": "",
+    "link": "https://free-llm.com/guides/free-llm-apis-november-2026-what-changed",
+    "catch": "Inget kort, ingen tidsgräns enligt free-llm.com (nov 2026). Bara modeller under 2 USD/1M output-tokens.",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "service": "TEKNO 2026 – Inkonst",
+    "category": "Lokalt",
+    "offer": "Gratis experimentella konserter (liveelektronik, ljudkonst) fre 13 nov från 18:45",
+    "code": "",
+    "link": "https://skanepejl.se/evenemang/6766-tekno-2026-experimentella-konserter-pa-inkonst-fri-entre",
+    "catch": "Fri entré. Inkonst, Bergsgatan 29 (Möllan), ca 1,5 km från Sankt Knuts torg. Tider kan ändras.",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "service": "Arkivens dag – Malmö stadsarkiv",
+    "category": "Lokalt",
+    "offer": "Gratis Arkivens dag + invigning av nyrenoverade lokaler lör 14 nov från 10:00",
+    "code": "",
+    "link": "https://upptacknu.se/kommun/malmo/gratis",
+    "catch": "Fri entré. Malmö stadsarkiv, ca 1,5 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "service": "Candle Concert – Arvo Pärt, S:t Johannes kyrka",
+    "category": "Lokalt",
+    "offer": "Gratis levande ljus-konsert med Arvo Pärts musik fre 13 nov kl 18:00",
+    "code": "",
+    "link": "https://upptacknu.se/kommun/malmo/gratis",
+    "catch": "Fri entré (listad som gratis). S:t Johannesgatan, ca 1 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "service": "Föreläsning: Energiomställning & säkerhetsläge – Stadsbiblioteket",
+    "category": "Lokalt",
+    "offer": "Gratis föreläsning tors 12 nov kl 18:00 med André Månberger",
+    "code": "",
+    "link": "https://upptacknu.se/kommun/malmo/gratis",
+    "catch": "Fri entré. Kung Oscars väg 11, ca 1 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-10"
   }
 ]
