@@ -326,7 +326,7 @@
   {
     "service": "NVIDIA Build (NIM)",
     "category": "AI",
-    "offer": "Gratis inferens-API utan tokenkvot: Kimi K3, DeepSeek V4.1 Flash, GLM 5.3, Nemotron (ca 40 anrop/min)",
+    "offer": "Gratis inferens-API utan tokenkvot: Kimi K3, DeepSeek V4.1 Flash, GLM 5.3, Nemotron (ca 40 anrop/min) | Nu även Kimi K3.1 Pro (2,8T, 1M kontext) gratis, 40 anrop/min, 10 000/dag (verifierat 6 nov)",
     "code": "",
     "link": "https://build.nvidia.com/",
     "catch": "Kräver NVIDIA Developer-konto + SMS-verifiering. Endast prototyp/test, ej produktion.",
@@ -767,7 +767,7 @@
   {
     "service": "Stads up! – gratis stand-up",
     "category": "Lokalt",
-    "offer": "Gratis stand-up måndagar 9, 16, 23 & 30 nov, insläpp 19:00, scen 19:30, Malmö Stadsteaters innergård",
+    "offer": "Gratis stand-up måndagar 16, 23 & 30 nov, insläpp 19:00, scen 19:30, Malmö Stadsteaters innergård",
     "code": "",
     "link": "https://www.malmostadsteater.se/stads",
     "catch": "Kostnadsfritt; dryck/snacks kostar. Östra Rönneholmsvägen 20, ca 600 m från Sankt Knuts torg.",
@@ -808,15 +808,6 @@
     "link": "https://hansamalmo.se/mat-dryck/nespresso/",
     "catch": "Stora Nygatan (östra huset, nedre plan), ca 500 m. Öppet mån–fre 10–19, lör 10–18, sön 11–17. Permanent pavilion, inte bara öppningsdag.",
     "first_seen": "2026-11-02"
-  },
-  {
-    "service": "Författarscenen – Therese Bohman",
-    "category": "Lokalt",
-    "offer": "Gratis författarsamtal tis 10 nov kl 19, Malmö stadsbibliotek",
-    "code": "",
-    "link": "https://malmo.se/Uppleva-och-gora/Biblioteken/Vara-bibliotek/Stadsbiblioteket/Forfattarscenen.html",
-    "catch": "Fri entré, drop-in, går ej att förboka. Kung Oscars väg 11, ca 1,5 km från Sankt Knuts torg. Sänds även live på Biblioteket Play.",
-    "first_seen": "2026-11-03"
   },
   {
     "service": "Historieverkstad – Stadsbiblioteket",
@@ -873,15 +864,6 @@
     "first_seen": "2026-11-06"
   },
   {
-    "service": "Filosoficafé – Stadsbiblioteket",
-    "category": "Lokalt",
-    "offer": "Gratis filosoficafé tis 10 nov kl 17:30–19, tema ”Att hjälpa – vad är det?” (Tulsa Jansson)",
-    "code": "",
-    "link": "https://ssfp.se/kalendarium/filosofikafe-malmo-att-hjalpa-vad-ar-det/",
-    "catch": "Kung Oscars väg 11, ca 1 km. Anmälan krävs (begränsat antal).",
-    "first_seen": "2026-11-06"
-  },
-  {
     "service": "Fitness24Seven Spångatan – fri prov",
     "category": "Lokalt",
     "offer": "Gratis 30 min provtillfälle (07–22), max 1 gång/person, ingen förbokning",
@@ -891,18 +873,9 @@
     "first_seen": "2026-11-06"
   },
   {
-    "service": "Föredrag Kustfåglar – Axel Thorenfeldt",
-    "category": "Lokalt",
-    "offer": "Gratis föredrag tis 10 nov kl 18–19:30 om boken Kustfåglar (målning, fältarbete)",
-    "code": "",
-    "link": "https://malmo.se/Uppleva-och-gora/Biblioteken/Vara-bibliotek/Masten-2/Besok-Masten-2/Program-och-aktiviteter.html",
-    "catch": "Masten 2, Mastgränd 4, Västra Hamnen, ca 2 km.",
-    "first_seen": "2026-11-06"
-  },
-  {
     "service": "Gemensam läsning – Shared reading",
     "category": "Lokalt",
-    "offer": "Gratis litteraturcirkel ons 11 nov kl 10:30–12 (även 25 nov & 9 dec), fika bjuds",
+    "offer": "Gratis litteraturcirkel ons 25 nov & 9 dec kl 10:30–12, Stadsbiblioteket, fika bjuds",
     "code": "",
     "link": "https://somo.social/e/gemensam-lasning-shared-reading-11-november-2026",
     "catch": "Stadsbiblioteket, Kung Oscars väg 11, ca 1 km. Anmälan krävs; max 8 pers/tillfälle.",
@@ -1134,15 +1107,6 @@
     "first_seen": "2026-11-08"
   },
   {
-    "service": "PAUS: Morgonkonsert – Bruno Bavota, Malmö Live",
-    "category": "Lokalt",
-    "offer": "Gratis morgonkonsert ons 11 nov kl 08:15 (ca 40 min), italiensk neoklassisk pianist, Konsertsalen",
-    "code": "",
-    "link": "https://malmolive.se/program/paus-morgonkonsert-bruno-bavota",
-    "catch": "Fri entré, boka biljett via sidan. Dag Hammarskjölds torg 4, ca 1,5 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-08"
-  },
-  {
     "service": "Musikquiz (lite bredare) – Malmö Live",
     "category": "Lokalt",
     "offer": "Gratis musikquiz med liveband ons 18 nov kl 19:00 (ca 1 h 15 min), Kanalscenen",
@@ -1222,5 +1186,95 @@
     "link": "https://upptacknu.se/kommun/malmo/gratis",
     "catch": "Fri entré. Kung Oscars väg 11, ca 1 km från Sankt Knuts torg.",
     "first_seen": "2026-11-10"
+  },
+  {
+    "service": "Ling-3.2-flash (Ant Ling)",
+    "category": "AI",
+    "offer": "Gratis API i två veckor efter lansering 5 nov (till ca 19 nov): 560B multimodal MoE, 1M kontext, OpenAI-/Anthropic-kompatibelt",
+    "code": "",
+    "link": "https://developer.ant-ling.com/en/docs/getting-started/changelog",
+    "catch": "Skapa API-token i Ant Ling-konsolen, modell-id Ling-3.2-flash. Inget publicerat pris efter kampanjen.",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "service": "MiniMax H3 Image (MiniMax Code)",
+    "category": "AI",
+    "offer": "10 gratis bildgenereringar/redigeringar i valfri upplösning upp till 4K, t.o.m. 17 nov",
+    "code": "",
+    "link": "https://www.minimax.io/blog/minimax-h3-image",
+    "catch": "Kräver MiniMax-konto (webb/desktop/mobil); därefter kostar det krediter (4K till halva priset).",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "service": "Rosebud AI",
+    "category": "AI",
+    "offer": "Gratisplanen startar nu med 10 000 krediter (upp från 8 000), påfylls varje vecka – AI-spelskapande",
+    "code": "",
+    "link": "https://rosebud.ai",
+    "catch": "Veckopåfyllning bara i 'eligible regions'; Indie Dev kostar 15 USD/mån.",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "service": "KraftKöket (färdiga träningsmatlådor)",
+    "category": "Matkassar",
+    "offer": "30 % rabatt för nya kunder t.o.m. 31 dec 2026; levererar till Malmö med omnejd",
+    "code": "se kod på kupongsajter (kupongtanten/rabattkungen)",
+    "link": "https://kraftkoket.se/levererar-vi-till-dig/",
+    "catch": "Utkörning 100 kr. Ord. från ca 124 kr/portion (744 kr för 6) → ca 87 kr/portion med rabatt, fortfarande dyrare än att laga själv (30–55 kr). Prenumeration – avsluta efter första.",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "service": "Iniminis julverkstad för barn",
+    "category": "Lokalt",
+    "offer": "Gratis julpyssel-workshop för barn lör 14 & sön 15 nov från 11:00 (i samband med RE:Jul-loppis för barnkläder)",
+    "code": "",
+    "link": "https://upptacknu.se/kommun/malmo/gratis",
+    "catch": "Inimini, ca 200 m från centrum – passar familjen.",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "service": "Lunchsamtal: The Uncanny Invitation – Malmö Konstmuseum",
+    "category": "Lokalt",
+    "offer": "Gratis lunchsamtal tors 12 nov kl 12:00 (Poste Restante & Majula Drammeh)",
+    "code": "",
+    "link": "https://upptacknu.se/kommun/malmo/gratis",
+    "catch": "Malmö Konstmuseum, Malmöhusvägen, ca 800 m från centrum.",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "service": "RE:Design – Purple Rinse & Ateljé Laga",
+    "category": "Lokalt",
+    "offer": "Gratis workshop: gör om gamla T-shirts/skjortor, fre 13–mån 16 nov kl 12:00",
+    "code": "",
+    "link": "https://upptacknu.se/kommun/malmo/gratis",
+    "catch": "Ca 700 m från centrum. Ta med plagg.",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "service": "Julprepp på Brogatan – Sysav",
+    "category": "Lokalt",
+    "offer": "Gratis julprepp (återbruk i stället för köp) lör 14 nov kl 11:00",
+    "code": "",
+    "link": "https://upptacknu.se/kommun/malmo/gratis",
+    "catch": "Sysav, Brogatan, ca 900 m från centrum.",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "service": "Bomull – Malmö i den koloniala väven",
+    "category": "Lokalt",
+    "offer": "Gratis föreläsning mån 16 nov kl 16:00, Malmö universitet",
+    "code": "",
+    "link": "https://upptacknu.se/kommun/malmo/gratis",
+    "catch": "Ca 900 m från centrum.",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "service": "Blåsorkesterkonsert – Malmö Kulturskola",
+    "category": "Lokalt",
+    "offer": "Gratis höstkonsert tis 17 nov kl 18:30 i S:t Pauli kyrka (filmmusik, marscher)",
+    "code": "",
+    "link": "https://upptacknu.se/kommun/malmo/gratis",
+    "catch": "S:t Pauli kyrka, nära Möllan – mycket nära Sankt Knuts torg.",
+    "first_seen": "2026-11-11"
   }
 ]
