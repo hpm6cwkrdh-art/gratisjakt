@@ -371,10 +371,10 @@
   {
     "service": "Mango Inference",
     "category": "AI",
-    "offer": "10 USD gratis API-kredit + 30 % rabatt på alla modeller (GLM 5.3, Kimi K3, DeepSeek V4, MiniMax M3)",
+    "offer": "10 USD gratis API-kredit för nya konton (GLM 5.3, Kimi K3, DeepSeek V4, MiniMax M3)",
     "code": "",
     "link": "https://www.mangoboost.io/platform/mango-inference",
-    "catch": "30 %-rabatten gäller t.o.m. 11 nov 2026; krediten har begränsad giltighetstid, en per konto",
+    "catch": "30 %-rabatten gick ut 11 nov 2026; krediten har begränsad giltighetstid, en per konto.",
     "first_seen": "2026-10-31"
   },
   {
@@ -711,15 +711,6 @@
     "first_seen": "2026-10-23"
   },
   {
-    "service": "Malmö Saluhall bokrelease",
-    "category": "Lokalt",
-    "offer": "Gratis bokrelease med smakprover ons 11 nov 17–20, Malmö Saluhall, Gibraltargatan 6",
-    "code": "",
-    "link": "https://kulturcentralen.com/evenemang/bokreleasetdigigenomboken",
-    "catch": "Fri entré, ingen biljett krävs. Smakprover på plan 2, rätter på handlarnas menyer kostar. Ca 1,5 km från Sankt Knuts torg.",
-    "first_seen": "2026-10-24"
-  },
-  {
     "service": "Malmö Tehus teprovning",
     "category": "Lokalt",
     "offer": "Gratis teprovning söndagar (förmiddag, butiken öppen 10–15), Mariedalsvägen 29",
@@ -846,15 +837,6 @@
     "first_seen": "2026-11-05"
   },
   {
-    "service": "Malmö Live Comedy",
-    "category": "Lokalt",
-    "offer": "Gratis standup ons 11 nov 19:00, Kanalscenen (Tomas Kaminski + Victor Wu + gäster)",
-    "code": "",
-    "link": "https://malmolive.se/program/malmo-live-comedy",
-    "catch": "Fri entré, ingen förbokning – först till kvarn, kom i god tid. Dag Hammarskjölds torg 4 / Fiskehamnsgatan 9, ca 1,5 km från Sankt Knuts torg. Mat/dryck i Bistro Live.",
-    "first_seen": "2026-11-05"
-  },
-  {
     "service": "AW-teater – Malmö Stadsteater",
     "category": "Lokalt",
     "offer": "Gratis AW-teater torsdagar: Musikaliskt quiz 12 nov 17:30; Samtal Petra Brylander 19 nov 17:30; Högläsning klassiker 26 nov 17:30",
@@ -879,15 +861,6 @@
     "code": "",
     "link": "https://somo.social/e/gemensam-lasning-shared-reading-11-november-2026",
     "catch": "Stadsbiblioteket, Kung Oscars väg 11, ca 1 km. Anmälan krävs; max 8 pers/tillfälle.",
-    "first_seen": "2026-11-06"
-  },
-  {
-    "service": "Open Stage – Arena 305",
-    "category": "Lokalt",
-    "offer": "Gratis open stage ons 11 nov kl 18–20 för 15–25 år",
-    "code": "",
-    "link": "https://malmo.se/arena305/",
-    "catch": "Lönngatan 30 (Sofielund/Möllan), ca 2,5 km. Åldersgräns 15–25.",
     "first_seen": "2026-11-06"
   },
   {
@@ -1042,15 +1015,6 @@
     "link": "https://nordvpn.com/sv/risk-free-vpn/",
     "catch": "Kort eller PayPal. Auto-förnyar till betald plan — säg upp innan dag 7. Ej via App Store/Play (Android Play har separat 3d).",
     "first_seen": "2026-11-06"
-  },
-  {
-    "service": "Qoder – Qoduck (stealth-modell)",
-    "category": "AI",
-    "offer": "Daglig gratiskvot på stealth-kodmodellen Qoduck i AI-kodassistenten Qoder, även på gratiskonto (0 credits per anrop inom kvoten)",
-    "code": "",
-    "link": "https://docs.qoder.com/events/qoduck-free",
-    "catch": "Från 7 nov 2026, slutdatum ej satt. Begränsat antal anrop/dag; gäller ej Teams/Enterprise. Okänd modell, kod skickas till Qoder.",
-    "first_seen": "2026-11-07"
   },
   {
     "service": "Hetzner Inference API",
@@ -1276,5 +1240,41 @@
     "link": "https://upptacknu.se/kommun/malmo/gratis",
     "catch": "S:t Pauli kyrka, nära Möllan – mycket nära Sankt Knuts torg.",
     "first_seen": "2026-11-11"
+  },
+  {
+    "service": "ERNIE 5.5 Flash Preview (OpenRouter, gratis)",
+    "category": "AI",
+    "offer": "Gratis API-endpoint baidu/ernie-5.5-flash-preview:free: 280B MoE, 1M kontext, tool calling, 0 kr per token",
+    "code": "baidu/ernie-5.5-flash-preview:free",
+    "link": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
+    "catch": "Kräver OpenRouter-konto; gratisnivåns rate limits gäller. Körs av Baidu Qianfan (Kina), ej via EU in-region routing – skicka inget känsligt. Verifierat på OpenRouter 12 nov.",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "service": "Respan – Gemini 4 Carbon gratis",
+    "category": "AI",
+    "offer": "Gratis anrop till Googles nya Gemini 4 Carbon (1M kontext) via modellnamnet gemini-4-carbon:free, inget kort",
+    "code": "gemini-4-carbon:free",
+    "link": "https://www.aipromonow.com/en/promos/respan-gemini-4-carbon-free-api",
+    "catch": "Går ut idag 12 nov ca kl 23:00 svensk tid (14:00 Pacific). Tim- och dygnstak. Därefter 2/10 USD per 1M tokens.",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "service": "Kobo Plus",
+    "category": "Övrigt",
+    "offer": "30 dagar gratis Kobo Plus (e-böcker och/eller ljudböcker)",
+    "code": "",
+    "link": "https://www.kobo.com/se/sv/plus",
+    "catch": "Nya kunder, kort krävs. Därefter 129 kr/mån (Read eller Listen) eller 159 kr/mån (Read & Listen) om du inte avslutar.",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "service": "Vinter i Folkets Park – invigning + gratis skridskor",
+    "category": "Lokalt",
+    "offer": "Gratis invigning sön 29 nov kl 16 vid stora isbanan (uppvisningar, livemusik). Från 27 nov: gratis lån av skridskor + hjälm 1 h, ca 70 gratis aktiviteter (sagoläsning, pyssel, ponnyridning) t.o.m. 31 jan",
+    "code": "",
+    "link": "https://malmo.se/Aktuellt/Artiklar-Malmo-stad/2026-11-11-Vinter-i-Folkets-Park-vaxer-fram-tillsammans-med-besokarna.html",
+    "catch": "Folkets Park, Möllevången, ca 1,8 km från Sankt Knuts torg. Allt gratis, ingen anmälan. Skridskolån mån–tors & lör–sön 10–17, fre 10–19.",
+    "first_seen": "2026-11-12"
   }
 ]
