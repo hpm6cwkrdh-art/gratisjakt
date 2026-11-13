@@ -693,15 +693,6 @@
     "first_seen": "2026-10-23"
   },
   {
-    "service": "Omarchy Malmö Meetup 001",
-    "category": "Lokalt",
-    "offer": "Gratis Linux-meetup + pizza tors 12 nov 18–20:30, Skeppsbron 2 (Coact, plan 3)",
-    "code": "",
-    "link": "https://luma.com/774wosun",
-    "catch": "Registrering på Luma.",
-    "first_seen": "2026-10-23"
-  },
-  {
     "service": "STC",
     "category": "Lokalt",
     "offer": "Gratis provträning 1 vecka, gym + gruppträning",
@@ -747,21 +738,12 @@
     "first_seen": "2026-10-26"
   },
   {
-    "service": "Moderna Museet Malmö – broderikväll",
-    "category": "Lokalt",
-    "offer": "Gratis broderiworkshop tors 12 nov 16:30–18:30, material finns",
-    "code": "",
-    "link": "https://www.modernamuseet.se/sv/malmo/program/broderi-i-vart-kafe/",
-    "catch": "Fri entré, ingen anmälan. Ola Billgrens plats 2–4, ca 1 km från Sankt Knuts torg.",
-    "first_seen": "2026-10-27"
-  },
-  {
     "service": "Stads up! – gratis stand-up",
     "category": "Lokalt",
     "offer": "Gratis stand-up måndagar 16, 23 & 30 nov, insläpp 19:00, scen 19:30, Malmö Stadsteaters innergård",
     "code": "",
     "link": "https://www.malmostadsteater.se/stads",
-    "catch": "Kostnadsfritt; dryck/snacks kostar. Östra Rönneholmsvägen 20, ca 600 m från Sankt Knuts torg.",
+    "catch": "Kostnadsfritt; dryck/snacks kostar. Innergården, Kalendegatan 12 (Malmö Stadsteater), ca 600 m från Sankt Knuts torg.",
     "first_seen": "2026-10-27"
   },
   {
@@ -828,18 +810,9 @@
     "first_seen": "2026-11-04"
   },
   {
-    "service": "ACAN takeover – Form/Design Center",
-    "category": "Lokalt",
-    "offer": "Gratis tvådagars program ons–tors 11–12 nov (öppet kontor, workshops, föreläsning Byggestopbevægelsen)",
-    "code": "",
-    "link": "https://www.formdesigncenter.com/en/program/takeover-imperfect-assemblies-acan",
-    "catch": "Fri entré, registrering via formulär. Lunch wrap 110 kr (valfritt). Lilla Torg 9, ca 1,2 km från Sankt Knuts torg. Engelska/skandinaviska.",
-    "first_seen": "2026-11-05"
-  },
-  {
     "service": "AW-teater – Malmö Stadsteater",
     "category": "Lokalt",
-    "offer": "Gratis AW-teater torsdagar: Musikaliskt quiz 12 nov 17:30; Samtal Petra Brylander 19 nov 17:30; Högläsning klassiker 26 nov 17:30",
+    "offer": "Gratis AW-teater torsdagar: Samtal Petra Brylander 19 nov 17:30; Högläsning klassiker 26 nov 17:30",
     "code": "",
     "link": "https://www.malmostadsteater.se/aw-teater",
     "catch": "Innergården, Östra Rönneholmsvägen 20, ca 600 m. Ingen föranmälan; dryck/mat i caféet kostar.",
@@ -866,7 +839,7 @@
   {
     "service": "Queer-ish med Momo",
     "category": "Lokalt",
-    "offer": "Gratis kreativt häng + fika + material tors 12 & 26 nov kl 16–18 för 16–25 år",
+    "offer": "Gratis kreativt häng + fika + material tors 26 nov kl 16–18 för 16–25 år",
     "code": "",
     "link": "https://malmo.se/Kul-i-Malmo/Aktivitet.html?id=5.7e4bdcf31a1828912591c65",
     "catch": "Krut, våning 3, Stadsbiblioteket, Kung Oscars väg 11, ca 1 km. Drop-in.",
@@ -1091,7 +1064,7 @@
   {
     "service": "Form/Design Center – gratis program",
     "category": "Lokalt",
-    "offer": "Gratis: guidad visning tors 12 nov 16–17; vernissage + panelsamtal GLÖD lör 14 nov 13–15; samtal ”Att organisera demokratiska rum” ons 18 nov 17–20; föreläsning Meriem Chabani tors 19 nov 17–19",
+    "offer": "Gratis: vernissage + panelsamtal GLÖD lör 14 nov 13–15; samtal ”Att organisera demokratiska rum” ons 18 nov 17–20; föreläsning Meriem Chabani tors 19 nov 17–19",
     "code": "",
     "link": "https://www.formdesigncenter.com/program",
     "catch": "Alla gratis; visningen, samtalet 18/11 och föreläsningen 19/11 kräver anmälan på resp. programsida. Lilla Torg 9, ca 1,2 km från Sankt Knuts torg.",
@@ -1143,15 +1116,6 @@
     "first_seen": "2026-11-10"
   },
   {
-    "service": "Föreläsning: Energiomställning & säkerhetsläge – Stadsbiblioteket",
-    "category": "Lokalt",
-    "offer": "Gratis föreläsning tors 12 nov kl 18:00 med André Månberger",
-    "code": "",
-    "link": "https://upptacknu.se/kommun/malmo/gratis",
-    "catch": "Fri entré. Kung Oscars väg 11, ca 1 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-10"
-  },
-  {
     "service": "Ling-3.2-flash (Ant Ling)",
     "category": "AI",
     "offer": "Gratis API i två veckor efter lansering 5 nov (till ca 19 nov): 560B multimodal MoE, 1M kontext, OpenAI-/Anthropic-kompatibelt",
@@ -1194,15 +1158,6 @@
     "code": "",
     "link": "https://upptacknu.se/kommun/malmo/gratis",
     "catch": "Inimini, ca 200 m från centrum – passar familjen.",
-    "first_seen": "2026-11-11"
-  },
-  {
-    "service": "Lunchsamtal: The Uncanny Invitation – Malmö Konstmuseum",
-    "category": "Lokalt",
-    "offer": "Gratis lunchsamtal tors 12 nov kl 12:00 (Poste Restante & Majula Drammeh)",
-    "code": "",
-    "link": "https://upptacknu.se/kommun/malmo/gratis",
-    "catch": "Malmö Konstmuseum, Malmöhusvägen, ca 800 m från centrum.",
     "first_seen": "2026-11-11"
   },
   {
@@ -1276,5 +1231,41 @@
     "link": "https://malmo.se/Aktuellt/Artiklar-Malmo-stad/2026-11-11-Vinter-i-Folkets-Park-vaxer-fram-tillsammans-med-besokarna.html",
     "catch": "Folkets Park, Möllevången, ca 1,8 km från Sankt Knuts torg. Allt gratis, ingen anmälan. Skridskolån mån–tors & lör–sön 10–17, fre 10–19.",
     "first_seen": "2026-11-12"
+  },
+  {
+    "service": "Tencent Cloud TokenHub",
+    "category": "AI",
+    "offer": "Upp till 1 miljon gratis tokens per modell för nya huvudkonton (DeepSeek-V4-Pro/Flash, GLM-5, MiniMax-M3 m.fl.) t.o.m. 31 dec 2026",
+    "code": "",
+    "link": "https://www.tencentcloud.com/techpedia/144120?lang=en",
+    "catch": "Kvoten aktiveras automatiskt vid första API-anropet. Slå inte på efterbetalning, då stoppas tjänsten i stället för att debitera när kvoten är slut. Kräver Tencent Cloud-konto (internationell).",
+    "first_seen": "2026-11-13"
+  },
+  {
+    "service": "Reducto",
+    "category": "AI",
+    "offer": "150 USD gratis användning på Standard pay-as-you-go (dokumentparsning för RAG/agenter)",
+    "code": "",
+    "link": "https://reducto.ai/pricing",
+    "catch": "Ordinarie priser efter krediten. Verifierat via Perq 12 nov 2026.",
+    "first_seen": "2026-11-13"
+  },
+  {
+    "service": "Oumi",
+    "category": "AI",
+    "offer": "25 USD kredit i 3 mån med privat e-post (50 USD med företagsmejl) för att bygga egna modeller (finjustering, eval, datasyntes)",
+    "code": "",
+    "link": "https://oumi.ai/",
+    "catch": "Krediten gäller 3 månader. Verifierat via Perq 12 nov 2026.",
+    "first_seen": "2026-11-13"
+  },
+  {
+    "service": "Tre kvinnor, tre sekel – Torups slott",
+    "category": "Lokalt",
+    "offer": "Gratis blomsterutställning med torkade växter i slottet, fre–sön 12–16 under november (t.ex. 13–15, 20–22, 27–29 nov)",
+    "code": "",
+    "link": "https://somo.social/e/tre-kvinnor-tre-sekel-blomsterutstallning-pa-torups-2026-11-15-2",
+    "catch": "Fri entré, ingen förbokning. Torups slott ligger ca 13 km sydost om Sankt Knuts torg (bil/buss).",
+    "first_seen": "2026-11-13"
   }
 ]
