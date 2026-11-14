@@ -281,10 +281,10 @@
   {
     "service": "AMD Developer Cloud",
     "category": "AI",
-    "offer": "100 USD i AMD Developer Cloud-krediter (GPU) via gratis AMD AI Developer Program",
+    "offer": "100 USD i AMD Developer Cloud-krediter (GPU) + nu även gratis Token Lab-API (DeepSeek V4, Qwen3.8, Gemma 4) via gratis AMD AI Developer Program",
     "code": "",
     "link": "https://www.amd.com/en/developer/ai-dev-program.html",
-    "catch": "Kräver AMD-konto och anmälan till programmet. Källa: perq.sh 27 okt.",
+    "catch": "Kräver AMD-konto och anmälan till programmet. Token Lab körs på gratispoäng vars mängd, rate limits och slutdatum AMD inte publicerar (aifree.dev 13 nov). Base URL https://api.tokenlab.amd.com/v1.",
     "first_seen": "2026-10-28"
   },
   {
@@ -668,9 +668,9 @@
   {
     "service": "Malmö Konsthall Helgverkstad",
     "category": "Lokalt",
-    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30 (t.ex. 14–15 nov), S:t Johannesgatan 7",
+    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30 varje helg (nästa 14–15 och 21–22 nov), S:t Johannesgatan 7",
     "code": "",
-    "link": "https://malmokonsthall.se/en/evenemangs/weekend-workshop-6/2026-11-14/",
+    "link": "https://malmokonsthall.se/en/evenemangs/weekend-workshop-6/2026-11-21/",
     "catch": "Fri entré, ingen anmälan. Återkommande helger. Ca 1 km från Sankt Knuts torg.",
     "first_seen": "2026-10-23"
   },
@@ -799,15 +799,6 @@
     "link": "https://www.abf.se/malmo-sydvast/kurs/poetry-slam-grand-malmo-hosten-2026-3948373/",
     "catch": "Fri entré, kom i god tid; mat/dryck kostar. Ca 500 m från Sankt Knuts torg. Även 16 dec.",
     "first_seen": "2026-11-03"
-  },
-  {
-    "service": "Erikshjälpen Second Hand – Gåvans väg",
-    "category": "Lokalt",
-    "offer": "Gratis rundvandring bakom kulisserna med föreläsning, fika och exklusiv shopping, lör 14 nov 15–18",
-    "code": "",
-    "link": "https://malmo.se/Miljo-och-klimat/Sa-arbetar-vi-med-miljo-och-klimat/Externfinansierade-projekt/Den-lokala-textilagendan/REJUL/Erikshjalpen.html",
-    "catch": "Föranmälan senast 13 nov, max 50 platser. Sallerupsvägen 88, ca 3 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-04"
   },
   {
     "service": "AW-teater – Malmö Stadsteater",
@@ -999,15 +990,6 @@
     "first_seen": "2026-11-07"
   },
   {
-    "service": "Snacks – Malmö Live",
-    "category": "Lokalt",
-    "offer": "Gratis samtal med Malmöprofil fre 13 nov 17:00",
-    "code": "",
-    "link": "https://malmolive.se/barn-och-familj-programlista",
-    "catch": "Fri entré (0 kr). Dag Hammarskjölds torg 4, ca 1,5 km. Mat/dryck i Bistro Live kostar.",
-    "first_seen": "2026-11-07"
-  },
-  {
     "service": "Preem Medlem (app)",
     "category": "Matkuponger",
     "offer": "Gratis valfri bulle (värde 22 kr) när du köper kaffe, te eller choklad",
@@ -1053,15 +1035,6 @@
     "first_seen": "2026-11-08"
   },
   {
-    "service": "Malmö Saluhall 10-årsjubileums-AW",
-    "category": "Lokalt",
-    "offer": "Fri entré jubileums-AW fre 13 nov kl 16–20 med DJ + liveband Soul Kitchen kl 19",
-    "code": "",
-    "link": "https://kulturcentralen.com/evenemang/malmsaluhall10rjubileums-aw",
-    "catch": "Entré gratis; smakbiljett (6 smaker) kostar 349 kr och dryck köps. Lördagsfesten 14 nov kräver förköpt biljett. Gibraltargatan 6, ca 1,5 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-08"
-  },
-  {
     "service": "Form/Design Center – gratis program",
     "category": "Lokalt",
     "offer": "Gratis: vernissage + panelsamtal GLÖD lör 14 nov 13–15; samtal ”Att organisera demokratiska rum” ons 18 nov 17–20; föreläsning Meriem Chabani tors 19 nov 17–19",
@@ -1089,30 +1062,12 @@
     "first_seen": "2026-11-10"
   },
   {
-    "service": "TEKNO 2026 – Inkonst",
-    "category": "Lokalt",
-    "offer": "Gratis experimentella konserter (liveelektronik, ljudkonst) fre 13 nov från 18:45",
-    "code": "",
-    "link": "https://skanepejl.se/evenemang/6766-tekno-2026-experimentella-konserter-pa-inkonst-fri-entre",
-    "catch": "Fri entré. Inkonst, Bergsgatan 29 (Möllan), ca 1,5 km från Sankt Knuts torg. Tider kan ändras.",
-    "first_seen": "2026-11-10"
-  },
-  {
     "service": "Arkivens dag – Malmö stadsarkiv",
     "category": "Lokalt",
     "offer": "Gratis Arkivens dag + invigning av nyrenoverade lokaler lör 14 nov från 10:00",
     "code": "",
     "link": "https://upptacknu.se/kommun/malmo/gratis",
     "catch": "Fri entré. Malmö stadsarkiv, ca 1,5 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-10"
-  },
-  {
-    "service": "Candle Concert – Arvo Pärt, S:t Johannes kyrka",
-    "category": "Lokalt",
-    "offer": "Gratis levande ljus-konsert med Arvo Pärts musik fre 13 nov kl 18:00",
-    "code": "",
-    "link": "https://upptacknu.se/kommun/malmo/gratis",
-    "catch": "Fri entré (listad som gratis). S:t Johannesgatan, ca 1 km från Sankt Knuts torg.",
     "first_seen": "2026-11-10"
   },
   {
@@ -1206,15 +1161,6 @@
     "first_seen": "2026-11-12"
   },
   {
-    "service": "Respan – Gemini 4 Carbon gratis",
-    "category": "AI",
-    "offer": "Gratis anrop till Googles nya Gemini 4 Carbon (1M kontext) via modellnamnet gemini-4-carbon:free, inget kort",
-    "code": "gemini-4-carbon:free",
-    "link": "https://www.aipromonow.com/en/promos/respan-gemini-4-carbon-free-api",
-    "catch": "Går ut idag 12 nov ca kl 23:00 svensk tid (14:00 Pacific). Tim- och dygnstak. Därefter 2/10 USD per 1M tokens.",
-    "first_seen": "2026-11-12"
-  },
-  {
     "service": "Kobo Plus",
     "category": "Övrigt",
     "offer": "30 dagar gratis Kobo Plus (e-böcker och/eller ljudböcker)",
@@ -1267,5 +1213,104 @@
     "link": "https://somo.social/e/tre-kvinnor-tre-sekel-blomsterutstallning-pa-torups-2026-11-15-2",
     "catch": "Fri entré, ingen förbokning. Torups slott ligger ca 13 km sydost om Sankt Knuts torg (bil/buss).",
     "first_seen": "2026-11-13"
+  },
+  {
+    "service": "Vercel AI Gateway – Parallel Decisions Fast",
+    "category": "AI",
+    "offer": "Gratis webbsökande beslut-API (ja/nej-sannolikhet, val, poäng med källor) via modellnamnet parallel/parallel-decisions-fast",
+    "code": "",
+    "link": "https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free",
+    "catch": "Gratis t.o.m. 23 nov 2026. Kräver Vercel-konto + AI Gateway-nyckel, inget separat Parallel-konto. Officiell Vercel-changelog 13 nov.",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "service": "Blaxel",
+    "category": "AI",
+    "offer": "Upp till 200 USD gratis krediter för agent-sandboxes, batch-jobb och MCP-hosting",
+    "code": "",
+    "link": "https://perq.sh/changes",
+    "catch": "Nya konton; \"upp till\" – exakt belopp kan bero på plan. Publicerad på Perq 13 nov 2026.",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "service": "Z.ai (Zhipu) – gratis Flash-modeller",
+    "category": "AI",
+    "offer": "Gratis in- och utdatatokens för GLM-4.7-Flash, GLM-4.5-Flash och GLM-4.6V-Flash (vision) på Z.ai API",
+    "code": "",
+    "link": "https://perq.sh/changes",
+    "catch": "Kräver Z.ai-konto + API-nyckel; rate limits gäller. Kinesisk leverantör – skicka inget känsligt. Perq 13 nov 2026.",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "service": "fal – MiniMax H3 Max gratis video",
+    "category": "AI",
+    "offer": "5 gratis AI-videor per dag (5 s, 768p med ljud), text-till-video och bild-till-video i fal:s webbsandlåda",
+    "code": "",
+    "link": "https://fal.ai/",
+    "catch": "Kräver inloggat fal-konto; kvoten nollställs var 24:e timme. API-anrop kostar. Kontrollerad 13 nov (freetokens.custats.info).",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "service": "Alibaba Cloud Model Studio",
+    "category": "AI",
+    "offer": "Gratis tokenkvot för många modeller (Qwen m.fl.) när du aktiverar Model Studio första gången, giltig 90 dagar",
+    "code": "",
+    "link": "https://www.alibabacloud.com/en/product/modelstudio",
+    "catch": "Kvoten varierar per modell; Alibaba Cloud-konto krävs och kan kräva kort/ID-verifiering. Perq 12 nov 2026.",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "service": "Serier och censur – Fängslade författares dag",
+    "category": "Lokalt",
+    "offer": "Gratis föredrag + samtal (Fredrik Strömberg & serietecknaren Layal Safieddine) sön 15 nov 15:00–16:30, C-salen Malmö Konsthall",
+    "code": "",
+    "link": "https://nupagang.se/sv/event/99948/",
+    "catch": "Fri entré, ingen anmälan. Svenska/engelska. S:t Johannesgatan 7, ca 1 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "service": "Tegelvandring i Gamla Väster – ABF",
+    "category": "Lokalt",
+    "offer": "Gratis guidad vandring om Malmös tegelhistoria sön 22 nov 15:00–16:00, samling Engelbrektsgatan 8",
+    "code": "",
+    "link": "https://www.abf.se/malmo-sydvast/kurs/vandringsgrupp-tegelvandring-3945243/",
+    "catch": "Gratis, anmälan på ABF-sidan (23 platser kvar 14 nov). Ca 1,3 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "service": "Höstkonsert – Pop/Rock Musikhögskolan i Malmö",
+    "category": "Lokalt",
+    "offer": "Gratis studentkonserter tis 17 + ons 18 nov 19:00–21:00 (pop, soul, Michael Jackson-tribute), fika i pauserna",
+    "code": "",
+    "link": "https://www.konstnarliga.lu.se/evenemang/hostkonsert-2-poprock-studenterna-vid-musikhogskolan-i-malmo",
+    "catch": "Gratis inträde. Lilla Salen, Musikhögskolan i Malmö (Ystadvägen 25), ca 3 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "service": "Fri entré-konsert på Medley",
+    "category": "Lokalt",
+    "offer": "Gratis konsert Kattskrället + Modet + The Dots ons 18 nov 20:00–22:00",
+    "code": "",
+    "link": "https://www.edgemalmo.se/event/9344f0bf-8b92-4ce0-a7bf-b54485d4c0e4",
+    "catch": "Fri entré. Medley, Södra Promenaden 51, ca 1,5 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "service": "EMOM Scania – Inkonst",
+    "category": "Lokalt",
+    "offer": "Gratis Electronic Music Open Mic ons 18 nov 19:00–23:00",
+    "code": "",
+    "link": "https://www.edgemalmo.se/event/5422ed47-f299-4bee-87aa-e3864f453843",
+    "catch": "Gratis. Inkonst, Bergsgatan 29 (Möllan), ca 1,5 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "service": "Malmö Big Band – Grand Malmö",
+    "category": "Lokalt",
+    "offer": "Storbandsjazz (Basie, Thad Jones, Coltrane) fre 20 nov från 21:30, fritt inträde före 23:00",
+    "code": "",
+    "link": "https://somo.social/e/malmo-big-band-2026-11-20",
+    "catch": "Gratis bara före kl 23; mat/dryck kostar. Grand Malmö, Monbijougatan, ca 500 m från Sankt Knuts torg.",
+    "first_seen": "2026-11-14"
   }
 ]
