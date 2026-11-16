@@ -95,7 +95,7 @@
     "offer": "2 500 välkomstpoäng = 1 bonuscheck direkt som ny medlem",
     "code": "",
     "link": "https://www.hemkop.se/registrera/privat/identifiera",
-    "catch": "Gratis medlemskap; närmaste Hemköp i Malmö krävs för att lösa in",
+    "catch": "Har redan Hemköp-konto – välkomstcheck troligen redan förbrukad. Gratis medlemskap; närmaste Hemköp i Malmö krävs för att lösa in",
     "first_seen": "2026-10-23"
   },
   {
@@ -104,7 +104,7 @@
     "offer": "300 Lidl Poäng välkomstbonus + nytt poängsystem (1 kr = 1 poäng, >400 belöningar, giltighet 24 mån)",
     "code": "",
     "link": "https://www.lidl.se/",
-    "catch": "Lanserades 2 nov 2026. Kräver Lidl Plus-app + skanning i kassa. 300 poäng ≠ 300 kr. Dubbla poäng Favorina/Deluxe från 23 nov.",
+    "catch": "Har redan Lidl Plus-konto – välkomstpoängen är troligen redan använda; nya poängsystemet gäller dig ändå. Lanserades 2 nov 2026. Kräver Lidl Plus-app + skanning i kassa. 300 poäng ≠ 300 kr. Dubbla poäng Favorina/Deluxe från 23 nov.",
     "first_seen": "2026-10-23"
   },
   {
@@ -113,7 +113,7 @@
     "offer": "Fri leverans i 98 dagar för nya kunder (levererar i Malmö)",
     "code": "",
     "link": "https://www.mathem.se/se/about/gratis-leverans/",
-    "catch": "Kräver order ≥800 kr minst var 14:e dag; gäller ej samma-dag-leverans",
+    "catch": "Har redan konto – nykundsrabatten gäller troligen inte dig. Kräver order ≥800 kr minst var 14:e dag; gäller ej samma-dag-leverans",
     "first_seen": "2026-10-23"
   },
   {
@@ -122,16 +122,16 @@
     "offer": "350 gratis poäng vid första köpet i appen (250 p räcker för en belöning)",
     "code": "",
     "link": "https://www.mcdonalds.com/se/sv-se/mer-pa-mcds/appen/mymcdonalds-rewards.html",
-    "catch": "Måste beställa/skanna i appen; poäng gäller 12 mån",
+    "catch": "Har redan konto – bonusen gäller bara om första appköpet inte är gjort. Måste beställa/skanna i appen; poäng gäller 12 mån",
     "first_seen": "2026-10-23"
   },
   {
     "service": "Pressbyrån Kompis (app)",
     "category": "Matkuponger",
-    "offer": "Värva en kompis: båda får en gratis varm dryck. Plus 50% på fika tisdagar 15–16",
-    "code": "",
-    "link": "https://www.pressbyran.se/handla-hos-oss/pressbyransapp/",
-    "catch": "Värvningskod krävs för den gratis drycken; minst 16 år",
+    "offer": "Ny medlem: gratis liten kaffe/varm dryck med värvningskod 48JSYB. Just nu även gratis Innocent shot vid köp av Innocent juice/smoothie (1 gång/dag t.o.m. 29 nov). Plus 50% på fika tisdagar 15–16",
+    "code": "48JSYB",
+    "link": "https://gratisprinsessan.se/2026/11/innocent-shot-pa-kopet-hos-pressbyran/",
+    "catch": "Koden 48JSYB är Gratisprinsessans värvningskod (gäller bara nya medlemmar). Innocent-shoten kräver att du köper en Innocent juice/smoothie. Minst 16 år. Källa: Gratisprinsessan 9 nov 2026.",
     "first_seen": "2026-10-23"
   },
   {
@@ -158,7 +158,7 @@
     "offer": "Gratis cheeseburgare på första köpet i appen",
     "code": "",
     "link": "https://www.max.se/om-max/max-rewards/",
-    "catch": "Nya medlemmar eller befintliga som inte gjort ett registrerat köp; kupongen visas överst vid beställning. Källa: Fru Kupong/Pepperdeals sep 2026, inget slutdatum angivet.",
+    "catch": "Har redan MAX-konto – gäller bara om du aldrig gjort ett registrerat köp i appen. Nya medlemmar eller befintliga som inte gjort ett registrerat köp; kupongen visas överst vid beställning. Källa: Fru Kupong/Pepperdeals sep 2026, inget slutdatum angivet.",
     "first_seen": "2026-10-24"
   },
   {
@@ -167,7 +167,7 @@
     "offer": "15 % rabatt på första köpet över 499 kr",
     "code": "Gratisprinsessan_15",
     "link": "https://www.matsmart.se/",
-    "catch": "Nya kunder, partnerkod via Gratisprinsessan (17 okt 2026). Brukar ej gälla Dagens Deal/specialdeals. Levererar till Malmö.",
+    "catch": "Har redan konto – nykundsrabatten gäller troligen inte dig. Nya kunder, partnerkod via Gratisprinsessan (17 okt 2026). Brukar ej gälla Dagens Deal/specialdeals. Levererar till Malmö.",
     "first_seen": "2026-10-24"
   },
   {
@@ -176,7 +176,7 @@
     "offer": "Nya kunder: 2 × 100 kr eller 2 × 20 % rabatt på de två första beställningarna",
     "code": "",
     "link": "https://rabatt.se/butiker/uber-eats",
-    "catch": "Bara nya kunder; kod läggs in under Kampanjer i appen före beställning; minsta ordervärde kan gälla. Kolla appen för Malmö.",
+    "catch": "Har redan konto – nykundsrabatten gäller troligen inte dig. Bara nya kunder; kod läggs in under Kampanjer i appen före beställning; minsta ordervärde kan gälla. Kolla appen för Malmö.",
     "first_seen": "2026-10-26"
   },
   {
@@ -504,15 +504,6 @@
     "first_seen": "2026-11-05"
   },
   {
-    "service": "Tencent CodeBuddy / WorkBuddy",
-    "category": "AI",
-    "offer": "Gratis användning 4–15 nov 2026 (Hy4-lanseringsfönster), AI-kodassistent + work agent",
-    "code": "",
-    "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-    "catch": "Sista dagen idag 15 nov (Tencent bekräftar 4–15 nov). Begränsad gratiskvot enligt press; region/kort ej specificerat på officella sidan. Välj Hy4 i modellistan när tillgänglig.",
-    "first_seen": "2026-11-05"
-  },
-  {
     "service": "Berget AI",
     "category": "AI",
     "offer": "Trial: €5 startkrediter, €0/mån (svensk EU-hostad inferens)",
@@ -653,7 +644,7 @@
     "offer": "70 % rabatt + fri leverans på första beställningen (dras automatiskt)",
     "code": "",
     "link": "https://www.foodora.se/",
-    "catch": "Bara nya kunder; RO 1 okt 2026: nykundsrabatter visas inte för alla, kolla appen.",
+    "catch": "Har redan konto – nykundsrabatten gäller troligen inte dig. Bara nya kunder; RO 1 okt 2026: nykundsrabatter visas inte för alla, kolla appen.",
     "first_seen": "2026-10-23"
   },
   {
@@ -668,7 +659,7 @@
   {
     "service": "Malmö Konsthall Helgverkstad",
     "category": "Lokalt",
-    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30 varje helg (nästa 15 och 21–22 nov), S:t Johannesgatan 7",
+    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30 varje helg (nästa 21–22 nov), S:t Johannesgatan 7",
     "code": "",
     "link": "https://malmokonsthall.se/en/evenemangs/weekend-workshop-6/2026-11-21/",
     "catch": "Fri entré, ingen anmälan. Återkommande helger. Ca 1 km från Sankt Knuts torg.",
@@ -797,7 +788,7 @@
     "offer": "Gratis 30 min provtillfälle (07–22), max 1 gång/person, ingen förbokning",
     "code": "",
     "link": "https://se.fitness24seven.com/vara-gym/se-vara-gym/malmo-spangatan/",
-    "catch": "Spångatan 7, ca 800 m (Davidshall). Skanna QR utanför gymmet. Separat veckoprov 99 kr – ej gratis.",
+    "catch": "Har redan Fitness24Seven-konto – provtillfället är max 1 gång/person. Spångatan 7, ca 800 m (Davidshall). Skanna QR utanför gymmet. Separat veckoprov 99 kr – ej gratis.",
     "first_seen": "2026-11-06"
   },
   {
@@ -830,7 +821,7 @@
   {
     "service": "Öppen höstverkstad – Konstmuseet i Kungsparken",
     "category": "Lokalt",
-    "offer": "Gratis drop-in skapande sön 15, 22 & 29 nov kl 11–15 (6–12 år), material på plats",
+    "offer": "Gratis drop-in skapande sön 22 & 29 nov kl 11–15 (6–12 år), material på plats",
     "code": "",
     "link": "https://malmo.se/Kul-i-Malmo/Aktivitet.html?id=5.7e4bdcf31a182891259126c",
     "catch": "Slottsgatan 33 (Kungsparken), ca 1,2 km. Begränsat antal platser; ta gärna glasburk till ljuslykta.",
@@ -849,9 +840,9 @@
     "service": "BookBeat",
     "category": "Övrigt",
     "offer": "45 dagar gratis (upp till 30 h lyssning) via kostnader.se-länken",
-    "code": "",
+    "code": "ADT45D",
     "link": "https://kostnader.se/streaming/bookbeat-erbjudande",
-    "catch": "Nya kunder, kort krävs, auto-förnyas från 99 kr/mån; avsluta senast dag 45. Kontrollerat av kostnader.se 6 nov (bättre än vanliga 30 dagar).",
+    "catch": "Nya kunder, kort krävs, auto-förnyas från 99 kr/mån; avsluta senast dag 45. Kod ADT45D ger 45 dagar/30 h (abonnemangvalet.se 6 nov, \"gäller tills vidare\"); utan kod 30 dagar/20 h.",
     "first_seen": "2026-10-23"
   },
   {
@@ -869,7 +860,7 @@
     "offer": "30 dagar gratis provperiod på betalplaner",
     "code": "",
     "link": "https://www.dropbox.com/plans",
-    "catch": "Kort krävs, auto-förnyas.",
+    "catch": "Har redan konto – nykundsrabatten gäller troligen inte dig. Kort krävs, auto-förnyas.",
     "first_seen": "2026-10-23"
   },
   {
@@ -887,7 +878,7 @@
     "offer": "1 månad för 0 kr",
     "code": "",
     "link": "https://www.spotify.com/se/premium/",
-    "catch": "Bara om du aldrig haft Premium-provperiod. Sedan 149 kr/mån.",
+    "catch": "Har redan konto – nykundsrabatten gäller troligen inte dig. Bara om du aldrig haft Premium-provperiod. Sedan 149 kr/mån.",
     "first_seen": "2026-10-23"
   },
   {
@@ -896,7 +887,7 @@
     "offer": "60 dagar gratis Premium (max 10 h), sedan 84,50 kr/30 dgr i 3 mån",
     "code": "",
     "link": "https://www.storytel.com/se",
-    "catch": "Nya kunder eller ej kund senaste 6 mån, kort krävs, avsluta innan debitering",
+    "catch": "Har redan konto – nykundsrabatten gäller troligen inte dig. Nya kunder eller ej kund senaste 6 mån, kort krävs, avsluta innan debitering",
     "first_seen": "2026-10-23"
   },
   {
@@ -905,7 +896,7 @@
     "offer": "1 månad gratis",
     "code": "",
     "link": "https://www.youtube.com/premium",
-    "catch": "Bara nya medlemmar, kort krävs.",
+    "catch": "Har redan konto – nykundsrabatten gäller troligen inte dig. Bara nya medlemmar, kort krävs.",
     "first_seen": "2026-10-23"
   },
   {
@@ -914,7 +905,7 @@
     "offer": "30 dagar gratis Prime (fri frakt, Prime Video)",
     "code": "",
     "link": "https://www.amazon.se/prime",
-    "catch": "Kort krävs, ej om du haft Prime nyligen. Kan sägas upp direkt och gäller ändå 30 dagar.",
+    "catch": "Har redan konto – nykundsrabatten gäller troligen inte dig. Kort krävs, ej om du haft Prime nyligen. Kan sägas upp direkt och gäller ändå 30 dagar.",
     "first_seen": "2026-10-24"
   },
   {
@@ -923,7 +914,7 @@
     "offer": "30 dagar gratis Standard (79 kr/mån) eller Premium (109 kr/mån, 1 kredit att behålla)",
     "code": "",
     "link": "https://www.audible.de/sv_SE/",
-    "catch": "Nya medlemmar, auto-förnyas. Prime-medlemmar kan få längre provperiod. Kreditköpt bok behåller du.",
+    "catch": "Har redan konto – nykundsrabatten gäller troligen inte dig. Nya medlemmar, auto-förnyas. Prime-medlemmar kan få längre provperiod. Kreditköpt bok behåller du.",
     "first_seen": "2026-10-24"
   },
   {
@@ -1080,15 +1071,6 @@
     "first_seen": "2026-11-11"
   },
   {
-    "service": "Iniminis julverkstad för barn",
-    "category": "Lokalt",
-    "offer": "Gratis julpyssel-workshop för barn 3–10 år sön 15 nov kl 11–13: gör en egen jultröja (i samband med RE:Jul-loppis för barnkläder)",
-    "code": "",
-    "link": "https://upptacknu.se/kommun/malmo/gratis",
-    "catch": "Inimini, ca 200 m från centrum – passar familjen.",
-    "first_seen": "2026-11-11"
-  },
-  {
     "service": "RE:Design – Purple Rinse & Ateljé Laga",
     "category": "Lokalt",
     "offer": "Gratis workshop: gör om gamla T-shirts/skjortor, fre 13–mån 16 nov kl 12:00",
@@ -1224,15 +1206,6 @@
     "first_seen": "2026-11-14"
   },
   {
-    "service": "Serier och censur – Fängslade författares dag",
-    "category": "Lokalt",
-    "offer": "Gratis föredrag + samtal (Fredrik Strömberg & serietecknaren Layal Safieddine) sön 15 nov 15:00–16:30, C-salen Malmö Konsthall",
-    "code": "",
-    "link": "https://nupagang.se/sv/event/99948/",
-    "catch": "Fri entré, ingen anmälan. Svenska/engelska. S:t Johannesgatan 7, ca 1 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-14"
-  },
-  {
     "service": "Tegelvandring i Gamla Väster – ABF",
     "category": "Lokalt",
     "offer": "Gratis guidad vandring om Malmös tegelhistoria sön 22 nov 15:00–16:00, samling Engelbrektsgatan 8",
@@ -1361,7 +1334,7 @@
   {
     "service": "RE:JUL textilworkshops (vecka 47)",
     "category": "Lokalt",
-    "offer": "Gratis lagnings-/textilworkshops: spilltextil-accessoarer mån 16 nov 18:00 (Pill & Punch); stoppa strumpor ons 18 & tors 19 nov 16:00; sashiko tors 19 nov 16:00 & lör 21 nov 13:30 (Repair Café); Textillek tis 17 & lör 21 nov på Stadsbiblioteket",
+    "offer": "Gratis lagnings-/textilworkshops: spilltextil-accessoarer mån 16 nov 18:00 (Pill & Punch); Textillek tis 17 nov 16:00 & lör 21 nov 10:30 (Stadsbiblioteket); stoppa strumpor ons 18 & tors 19 nov 16:00; sashiko tors 19 nov 16:00; laga stickat fre 20 nov 14–17 (Stadsbiblioteket)",
     "code": "",
     "link": "https://upptacknu.se/kommun/malmo/gratis",
     "catch": "Allt i RE:JUL är gratis (Malmö stad, 13 nov–13 dec). Centrala lokaler ca 700 m–1 km från Sankt Knuts torg. Vissa kan ha begränsat antal platser.",
@@ -1384,5 +1357,149 @@
     "link": "https://upptacknu.se/kommun/malmo/gratis",
     "catch": "Fri entré. Stadsbiblioteket, Kung Oscars väg 11, ca 1 km från Sankt Knuts torg.",
     "first_seen": "2026-11-15"
+  },
+  {
+    "service": "IKEA Family – gratis kaffe/te",
+    "category": "Matkuponger",
+    "offer": "Gratis kopp kaffe eller te i IKEA-restaurangen varje måndag–fredag för IKEA Family-medlemmar",
+    "code": "",
+    "link": "https://www.ikea.com/se/sv/ikea-family/benefits/",
+    "catch": "Du är redan IKEA Family-medlem, så den gäller dig direkt (visa medlemskort/nummer). Ej IKEA City Sthlm/Mall of Scandinavia. IKEA Malmö (Svågertorp) ligger ca 5 km från Sankt Knuts torg. Verifierat på ikea.com 16 nov.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "El Taco Truck Protein Tortillas (Kavli, SMS-lotteri)",
+    "category": "Matkuponger",
+    "offer": "Chans till gratis paket El Taco Truck Protein Tortillas: 100 fullvärdeskuponger lottas ut per dag via SMS, 9–22 nov",
+    "code": "",
+    "link": "https://kavli.qualifioapp.com/eltacotruck",
+    "catch": "Lotteri, inte garanterat; besked direkt. 1 kupong per person/mobilnummer, 18+, kupongen gäller 14 dagar. Tortillas innehåller vete – ej för glutenkänsliga. Källa: Gratisprinsessan/Pepperdeals 9 nov.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "GØL Salami Snacks – gratis biobiljett",
+    "category": "Matkuponger",
+    "offer": "Köp 5 GØL Salami Snacks på samma kvitto → biobiljett (värde 149 kr) till Filmstaden/Svenska Bio; 10 st = 2 biljetter",
+    "code": "",
+    "link": "https://www.danishcrown.com/sv-se/vaara-varumaerken/goel/kampanj/",
+    "catch": "Kräver köp av 5 snacks (inte gratis). Köp 9 nov 2026–10 jan 2027, ladda upp kvitto senast 17 jan. Max 2 biljetter/hushåll, 18+, ej IMAX/VIP, begränsat antal. Lönar sig bara om du ändå vill ha snacksen.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Burger King app (MyBurgerKing)",
+    "category": "Matkuponger",
+    "offer": "Välkomsterbjudande för nya medlemmar i appen: gratis cheeseburgare (tidigare 600 välkomstpoäng = cheeseburgare, 4 chili cheese bites eller liten kaffe)",
+    "code": "",
+    "link": "https://apps.apple.com/se/app/burger-king-sverige/id1574960479",
+    "catch": "Ej bekräftat på BK:s egen sida – senast kontrollerat av Gratisplock 18 sep 2026; kontrollera att det syns i appen innan du går. Bara nya medlemmar. Närmaste BK finns i centrala Malmö.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Together AI – Ternary Bonsai 27B gratis",
+    "category": "AI",
+    "offer": "Gratis Ternary Bonsai 27B (PrismML:s 1,7-bitars Qwen3.6 27B, 262K kontext) på Together serverless: 0 kr per in-/ut-token",
+    "code": "prism-ml/ternary-bonsai-27b",
+    "link": "https://www.together.ai/models/prism-ml-ternary-bonsai-27b",
+    "catch": "Kräver Together AI-konto + API-nyckel; inget slutdatum angivet. Verifierat på together.ai 16 nov (Perq 14 nov).",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Maritaca AI – S5-free",
+    "category": "AI",
+    "offer": "Modellen S5-free är gratis en begränsad tid: tokens debiteras inte (text)",
+    "code": "S5-free",
+    "link": "https://docs.maritaca.ai/en/precos",
+    "catch": "Brasiliansk leverantör, bäst på portugisiska. Ej Batch/Flex/verktyg; rate limits gäller; kan avslutas när som helst. Verifierat i Maritacas docs 16 nov.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Anyscale",
+    "category": "AI",
+    "offer": "100 USD startkredit för nya konton (Ray/GPU-compute, pay-as-you-go)",
+    "code": "",
+    "link": "https://www.anyscale.com/pricing",
+    "catch": "Nya konton; ordinarie GPU-priser efter krediten. Verifierat på anyscale.com/pricing 16 nov.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Runloop",
+    "category": "AI",
+    "offer": "Gratis Pro-trial med 50 USD användningskredit för AI-agent-devboxes (sandboxes), inget kort",
+    "code": "",
+    "link": "https://runloop.ai/pricing",
+    "catch": "Trial-gränser: 3 devboxar, 5 blueprints. När krediten är slut väljer du Basic (gratis abonnemang, betala per användning) eller betald plan – ingen automatisk debitering. Verifierat 16 nov.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Zed (kodeditor) – Pro-trial",
+    "category": "AI",
+    "offer": "Gratis Pro-provperiod (14 dagar enligt Perq) med 5 USD hostad modellanvändning + obegränsade edit predictions",
+    "code": "",
+    "link": "https://zed.dev/pricing",
+    "catch": "Inget kort enligt Perq; Pro kostar sedan 10 USD/mån. Trial-längden står inte på prissidan (verifierat 16 nov), bara \"Pro Free Trial\".",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "NeevCloud – gratis sandbox-minuter",
+    "category": "AI",
+    "offer": "1 500 gratis sandbox-minuter varje månad för AI-agenter (Claude Code, Codex CLI, opencode förkonfigurerade), inget kort",
+    "code": "",
+    "link": "https://docs.ai.neevcloud.com/release-notes/nov-2026-release",
+    "catch": "Gäller alla verifierade konton, förnyas månadsvis; minuter viktas efter resursstorlek. Indisk leverantör. Verifierat i release notes nov 2026.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Microsoft Azure",
+    "category": "AI",
+    "offer": "200 USD kredit att använda inom 30 dagar + 65+ alltid-gratis-tjänster (bl.a. Azure AI-tjänster)",
+    "code": "",
+    "link": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
+    "catch": "Nya Azure-kunder; kort + telefon krävs för verifiering (ingen debitering om du inte uppgraderar). Krediten förfaller efter 30 dagar. Perq-verifierad 15 nov.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Paul's Playhouse – Rex Rhythm Kings på Medley",
+    "category": "Lokalt",
+    "offer": "Gratis New Orleans-jazz + jamsession tis 17 nov 20:00–22:00",
+    "code": "",
+    "link": "https://somo.social/e/fri-entre-pauls-playhouse-med-rex-rhythm-kings-2026-11-17",
+    "catch": "Fri entré (swisha gärna artisterna). Medley, Södra Promenaden 51, ca 1,5 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Art Meet Up – STPLN",
+    "category": "Lokalt",
+    "offer": "Gratis konstnärsträff med lätta snacks och dryck tis 17 nov 17:00–19:00",
+    "code": "",
+    "link": "https://www.stpln.se/our-calendar/art-meet-up-nov",
+    "catch": "Gratis men anmälan krävs på STPLN:s sida. Malmöhusvägen 5, ca 2 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Amplified – Little Known + Nordic Cactus på Grand",
+    "category": "Lokalt",
+    "offer": "Gratis konsert fre 20 nov: Nordic Cactus 22:00, Little Known 22:45; därefter DJ Table Turnah (hiphop/soul/funk) till 03, fri entré",
+    "code": "",
+    "link": "https://somo.social/e/amplified-pres-little-known-nordic-cactus-2026-11-20",
+    "catch": "Fri entré. Grand Malmö, Monbijougatan 17, ca 500 m från Sankt Knuts torg. Samma kväll som Malmö Big Band (21:30) på Grand.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Lunchkonsert – Musikhögskolans pianoklass, Palladium",
+    "category": "Lokalt",
+    "offer": "Lunchkonsert med Musikhögskolan i Malmös pianoklass idag mån 16 nov 11:30–13:00",
+    "code": "",
+    "link": "https://somo.social/e/lunchkonsert-med-musikhogskolan-i-malmos-pianoklass-2026-11-16",
+    "catch": "Biljett 0 kr via Nortic (kan behöva hämtas ut). Palladium, Södra Förstadsgatan, ca 1 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Dödscafé – Stadsbiblioteket",
+    "category": "Lokalt",
+    "offer": "Gratis öppna samtal om livet och döden över en fika ons 18 nov 17:30",
+    "code": "",
+    "link": "https://upptacknu.se/kommun/malmo/gratis",
+    "catch": "Fri entré. Stadsbiblioteket, Kung Oscars väg 11, ca 1 km från Sankt Knuts torg. Kolla ev. anmälan på bibliotekets sida.",
+    "first_seen": "2026-11-16"
   }
 ]
