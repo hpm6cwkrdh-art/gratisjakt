@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "generated": "2026-11-16T08:24:41+01:00",
+ "generated": "2026-11-16T08:25:03+01:00",
  "location": "Sankt Knuts torg, Malmö (214 21)",
  "method": "Ordinarie pris, billigaste jämförbara variant (egna märken ok). '(jmf)' = normaliserat via jämförpris till angiven mängd. Kampanjpriser ej medräknade i totalsumman.",
  "basket": [
@@ -95,7 +95,7 @@
    "source": "willys.se /search (Axfood JSON) med butik aktiverad",
    "fees": {
     "home_delivery": 158,
-    "home_delivery_note": "plock 59 + leverans 99 (bekräftat i butiks-API 10 nov)",
+    "home_delivery_note": "plock 59 + leverans 99 (bekräftat i butiks-API 16 nov)",
     "pickup": 59,
     "pickup_note": "plockavgift",
     "free_delivery_threshold": null,
@@ -112,7 +112,7 @@
    "source": "hemkop.se /search (Axfood JSON) med butik aktiverad",
    "fees": {
     "home_delivery": 138,
-    "home_delivery_note": "plock 59 + leverans 79 (bekräftat i butiks-API 10 nov)",
+    "home_delivery_note": "plock 59 + leverans 79 (bekräftat i butiks-API 16 nov)",
     "pickup": 59,
     "pickup_note": "plockavgift",
     "free_delivery_threshold": 2000,
@@ -131,7 +131,7 @@
     "home_delivery": null,
     "home_delivery_note": "visas först vid tidsbokning (annan ICA visar 'från 139 kr', ej verifierat här)",
     "pickup": 59,
-    "pickup_note": "plockavgift 59 kr enligt butikens text 10 nov",
+    "pickup_note": "plockavgift 59 kr enligt butikens text 16 nov",
     "free_delivery_threshold": null,
     "min_order": 100
    },
@@ -148,7 +148,7 @@
     "home_delivery": null,
     "home_delivery_note": "visas först vid tidsbokning",
     "pickup": null,
-    "pickup_note": "ej synlig utan tidsbokning (10 nov)",
+    "pickup_note": "ej synlig utan tidsbokning (kontrollerat 16 nov, minsta order 1 kr)",
     "free_delivery_threshold": null,
     "min_order": 1
    },
@@ -163,7 +163,7 @@
    "source": "coop.se publika sök-API (personalization/search/products, store=105860), b2c-pris utan inloggning",
    "fees": {
     "home_delivery": 49,
-    "home_delivery_note": "från 49 kr, varierar med tidsfönster (ej omkontrollerat i kassa 10 nov)",
+    "home_delivery_note": "från 49 kr, varierar med tidsfönster (ej omkontrollerat i kassa; senast 10 nov)",
     "pickup": null,
     "pickup_note": "ej kontrollerat",
     "free_delivery_threshold": 2000,
@@ -181,7 +181,7 @@
    "source": "mathem.se/se/search/products (SSR-HTML), utan postnummer = standardsortiment",
    "fees": {
     "home_delivery": null,
-    "home_delivery_note": "0 kr i 98 dagar för nya kunder vid order ≥800 kr minst var 14:e dag; ordinarie avgift ej kontrollerad 10 nov",
+    "home_delivery_note": "0 kr i 98 dagar för nya kunder vid order ≥800 kr minst var 14:e dag; ordinarie avgift ej kontrollerad",
     "pickup": null,
     "pickup_note": null,
     "free_delivery_threshold": 800,
@@ -674,7 +674,7 @@
   "goods": "ica_maxi",
   "with_pickup": "willys"
  },
- "campaign_note": "Vecka 46 (10 nov): Hemköp Bregott klubbpris 39,95 och Garant kaffe 2 för 110; Willys äpplen Gala/Granny kampanj 19,90/kg (Jonagold redan 19,90); Mathem mjölk 2 för 29, gurka 2 för 28, flera yoghurt-extrapris. Kampanjpriser ingår inte i totalen.",
+ "campaign_note": "Vecka 47 (16 nov): Willys äpplen Jonagold kampanj 14,90/kg (ord. 19,90) och Garant krossade tomater 3-pack 24,90; Hemköp Garant kaffe 2 för 125; Mathem mjölk 2 för 29, gurka 2 för 20 och svenska äpplen extrapris 20,00; ICA/Coop utan kampanjer i sökresultaten. Kampanjpriser ingår inte i totalen.",
  "meal_kits": [
   {
    "id": "hellofresh",
@@ -685,8 +685,8 @@
    "per_portion_ordinary": 100.83,
    "per_portion_first_box": null,
    "per_portion_intro_avg": null,
-   "intro_note": "officiellt 10 nov: upp till 1 039 kr rabatt + fri frakt på 5 första kassarna; fördelning per kasse okänd. Ordinarie 556+49 senast avläst 18 okt på matkassedirekt.se",
-   "source": "hellofresh.se 2026-11-10; ordinarie pris matkassedirekt.se 2026-10-18"
+   "intro_note": "officiellt 16 nov (oförändrat mot 10 nov): upp till 1 039 kr rabatt + fri frakt på 5 första kassarna; fördelning per kasse okänd. Ordinarie 556+49 senast avläst 18 okt på matkassedirekt.se",
+   "source": "hellofresh.se 2026-11-16; ordinarie pris matkassedirekt.se 2026-10-18"
   },
   {
    "id": "linas",
@@ -697,8 +697,8 @@
    "per_portion_ordinary": 119.33,
    "per_portion_first_box": 85.83,
    "per_portion_intro_avg": 97.0,
-   "intro_note": "30/20/10 % på 3 första bekräftat på linasmatkasse.se 10 nov; ordinarie 670+46 senast avläst 18 okt",
-   "source": "linasmatkasse.se/rabatt 2026-11-10, matkassedirekt.se 2026-10-18"
+   "intro_note": "30/20/10 % på 3 första bekräftat på linasmatkasse.se 16 nov; ordinarie 670+46 senast avläst 18 okt",
+   "source": "linasmatkasse.se/rabatt 2026-11-16, matkassedirekt.se 2026-10-18"
   },
   {
    "id": "betterfeast",
@@ -709,8 +709,8 @@
    "per_portion_ordinary": 109.83,
    "per_portion_first_box": 82.38,
    "per_portion_intro_avg": 104.34,
-   "intro_note": "25 % på första leveransen bekräftat på betterfeast.se 10 nov ('från 57 kr/portion'); exakt 2×3-pris 659 kr ej omkontrollerat i kassa idag",
-   "source": "betterfeast.se 2026-11-10; 2×3-pris bästamatkasse.se 2026-10-13"
+   "intro_note": "25 % på första leveransen bekräftat på betterfeast.se 16 nov ('från 57 kr/portion'); exakt 2×3-pris 659 kr ej omkontrollerat i kassa",
+   "source": "betterfeast.se 2026-11-16; 2×3-pris bästamatkasse.se 2026-10-13"
   },
   {
    "id": "ica_matkasse",
@@ -721,7 +721,7 @@
    "per_portion_ordinary": null,
    "per_portion_first_box": null,
    "per_portion_intro_avg": null,
-   "intro_note": "Numera recept + ingredienser i ICA e-handel (= butikspris + ICA-avgifter). Ej ny priskontroll 10 nov.",
+   "intro_note": "Numera recept + ingredienser i ICA e-handel (= butikspris + ICA-avgifter). Ej ny priskontroll 16 nov.",
    "source": "ica.se/icas-matkasse"
   },
   {
@@ -767,14 +767,15 @@
    ]
   }
  ],
- "cook_yourself_basis": "Kyckling+ris+sallad ca 19 kr, köttfärssås+pasta ca 23 kr, falukorv+potatis ca 10 kr per portion (Willys-priser 10 nov) + 8–10 kr basvaror.",
+ "cook_yourself_basis": "Kyckling+ris+sallad ca 19 kr, köttfärssås+pasta ca 23 kr, falukorv+potatis ca 10 kr per portion (Willys-priser 16 nov) + 8–10 kr basvaror.",
  "verdict": "Laga själv vinner: ca 25–54 kr/portion mot 86–97 kr i intro (första Linas-kasse 86 kr, Linas tresnitts 97 kr) och 101–119 kr ordinarie för matkassar. HelloFreshs nya intro (upp till 1 039 kr på fem kassar) har okänd fördelning per kasse. En kasse med 70 % rabatt (~36 kr) når bara butiksnivå första veckan.",
  "notes": [
   "Coop: publika b2c-priser från sök-API (store 105860). Jakob är medlem, men rena medlemspriser kräver inloggning med medlems-ID och syntes inte utan konto. Möllevångstorget finns inte i Coops butiksregister; närmast är Coop Norra Parkgatan som saknar webbsortiment.",
-  "ICA: frakt och Maxi-avgift för Hämta syns först vid tidsbokning; Mobilia plockavgift 59 kr och minsta order 100 kr bekräftade 10 nov. ICA Supermarket Möllevången har ingen e-handel.",
+  "ICA: frakt och Maxi-avgift för Hämta syns först vid tidsbokning; Mobilia plockavgift 59 kr och minsta order 100 kr bekräftade 16 nov; Maxi minsta order 1 kr. ICA Supermarket Möllevången har ingen e-handel.",
   "Mathem: priser utan postnummer (standardsortiment); kan skilja för Malmö. Fri leverans 98 dagar kräver order ≥800 kr – korgen ligger under. Ordinarie leveransavgift ej visad.",
-  "Bryggkaffe har stigit tydligt hos Willys/Hemköp/Mathem (Garant ca 65 kr mot 54 kr 26 okt). Billigast är fortfarande Coop Xtra.",
+  "Bryggkaffe: Garant ca 65–67 kr hos Willys/Hemköp/Mathem, i stort sett oförändrat mot 10 nov. Billigast är fortfarande Coop Xtra 500 g (37,95 kr ≈ 34,16 kr/450 g).",
+  "Falukorv Willys: Prime Patrol (29,90 kr 10 nov) hittades inte 16 nov; jämför nu Garant 800 g 34,90 kr, därav +5 kr i Willys-summan. Ägg: Willys/Hemköp Garant 24-p, ICA Maxi Stjärnägg 20-p (30-p fanns inte), Mobilia bara 10-p Malmborgs.",
   "Kyckling och ris är jmf-normaliserade, därför räknas även 2 kg-påsar in (billigare kilopris än 900 g / 1 kg).",
-  "Matkassarnas ordinarie veckopris är oförändrade mot kontrollen 18 okt 2026; introerbjudanden kontrollerade 10 nov. HelloFresh uppger nu upp till 1 039 kr på fem kassar (tidigare 819 kr t.o.m. 8 nov)."
+  "Matkassarnas ordinarie veckopris är oförändrade mot kontrollen 18 okt 2026; introerbjudanden kontrollerade 16 nov. HelloFresh uppger nu upp till 1 039 kr på fem kassar (tidigare 819 kr t.o.m. 8 nov; oförändrat 16 nov)."
  ]
 }
