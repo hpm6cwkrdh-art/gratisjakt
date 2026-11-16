@@ -1,6 +1,6 @@
 {
- "date": "2026-11-10",
- "generated": "2026-11-10T17:25:45+01:00",
+ "date": "2026-11-16",
+ "generated": "2026-11-16T08:24:41+01:00",
  "location": "Sankt Knuts torg, Malmö (214 21)",
  "method": "Ordinarie pris, billigaste jämförbara variant (egna märken ok). '(jmf)' = normaliserat via jämförpris till angiven mängd. Kampanjpriser ej medräknade i totalsumman.",
  "basket": [
@@ -219,7 +219,7 @@
    },
    "hemkop": {
     "price": 51.05,
-    "note": "Bregott (klubbpris 39,95 räknas inte)"
+    "note": "Bregott"
    },
    "ica_mobilia": {
     "price": 52.19
@@ -248,7 +248,7 @@
     "price": 36.0
    },
    "ica_maxi": {
-    "price": 30.24
+    "price": 32.28
    },
    "coop": {
     "price": 35.16
@@ -299,7 +299,7 @@
     "price": 15.97
    },
    "mathem": {
-    "price": 14.63,
+    "price": 15.0,
     "product": "Garant 1,5 kg"
    }
   },
@@ -436,14 +436,14 @@
   },
   "falukorv": {
    "willys": {
-    "price": 29.9,
-    "note": "Prime Patrol"
+    "price": 34.9,
+    "note": "Garant 800 g (Prime Patrol från 10 nov hittades inte)"
    },
    "hemkop": {
     "price": 33.95
    },
    "ica_mobilia": {
-    "price": 30.0
+    "price": 33.98
    },
    "ica_maxi": {
     "price": 32.5
@@ -464,7 +464,7 @@
     "price": 31.9
    },
    "ica_mobilia": {
-    "price": 27.9
+    "price": 25.9
    },
    "ica_maxi": {
     "price": 24.5
@@ -489,7 +489,7 @@
     "price": 9.95
    },
    "ica_maxi": {
-    "price": 8.0
+    "price": 9.9
    },
    "coop": {
     "price": 23.95
@@ -526,7 +526,7 @@
   "apple": {
    "willys": {
     "price": 19.9,
-    "note": "Jonagold (kampanj Gala/Granny 19,90 räknas inte)"
+    "note": "Jonagold (kampanj 14,90 räknas inte)"
    },
    "hemkop": {
     "price": 21.22
@@ -565,8 +565,8 @@
    },
    "mathem": {
     "price": 14.95,
-    "product": "import (kampanj 2 för 28 räknas inte)",
-    "note": "import (kampanj 2 för 28 räknas inte)"
+    "product": "import (kampanj 2 för 20 räknas inte)",
+    "note": "import (kampanj 2 för 20 räknas inte)"
    }
   },
   "tomat": {
@@ -587,8 +587,8 @@
     "note": "kvist 44,95/kg"
    },
    "mathem": {
-    "price": 29.95,
-    "product": "plommon 500 g"
+    "price": 30.95,
+    "product": "plommon svenska 500 g"
    }
   },
   "kaffe": {
@@ -611,8 +611,8 @@
    },
    "mathem": {
     "price": 64.95,
-    "product": "Garant mörkrost 450 g (mellanrost slut hos leverantör)",
-    "note": "Garant mörkrost 450 g (mellanrost slut hos leverantör)"
+    "product": "Garant mörkrost/mellanrost 450 g",
+    "note": "Garant mörkrost/mellanrost 450 g"
    }
   },
   "toapapper": {
@@ -640,9 +640,9 @@
  },
  "totals": {
   "willys": {
-   "goods": 629.71,
-   "with_pickup": 688.71,
-   "with_delivery": 787.71
+   "goods": 634.71,
+   "with_pickup": 693.71,
+   "with_delivery": 792.71
   },
   "hemkop": {
    "goods": 681.91,
@@ -650,12 +650,12 @@
    "with_delivery": 819.91
   },
   "ica_mobilia": {
-   "goods": 665.56,
-   "with_pickup": 724.56,
+   "goods": 667.54,
+   "with_pickup": 726.54,
    "with_delivery": null
   },
   "ica_maxi": {
-   "goods": 609.15,
+   "goods": 613.09,
    "with_pickup": null,
    "with_delivery": null
   },
@@ -665,7 +665,7 @@
    "with_delivery": 734.82
   },
   "mathem": {
-   "goods": 685.1,
+   "goods": 686.47,
    "with_pickup": null,
    "with_delivery": null
   }
