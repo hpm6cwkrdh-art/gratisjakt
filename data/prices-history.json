@@ -79,5 +79,32 @@
    "coop": 734.82,
    "mathem": null
   }
+ },
+ {
+  "date": "2026-11-16",
+  "totals": {
+   "willys": 634.71,
+   "hemkop": 681.91,
+   "ica_mobilia": 667.54,
+   "ica_maxi": 613.09,
+   "coop": 685.82,
+   "mathem": 686.47
+  },
+  "with_pickup": {
+   "willys": 693.71,
+   "hemkop": 740.91,
+   "ica_mobilia": 726.54,
+   "ica_maxi": null,
+   "coop": null,
+   "mathem": null
+  },
+  "with_delivery": {
+   "willys": 792.71,
+   "hemkop": 819.91,
+   "ica_mobilia": null,
+   "ica_maxi": null,
+   "coop": 734.82,
+   "mathem": null
+  }
  }
 ]
