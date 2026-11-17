@@ -77,7 +77,7 @@
     "offer": "Välkomstgåva: ett paket Coop-kaffe + poäng/medlemspriser",
     "code": "",
     "link": "https://kundservice.coop.se/hc/sv/articles/360013574139-Bli-medlem",
-    "catch": "Du är redan medlem: hämta gratis Coop Kaffe 450 g i butik senast 17 nov 2026 (välkomstmejlet 4 nov).",
+    "catch": "Du är redan medlem: hämta gratis Coop Kaffe 450 g i butik senast IDAG tis 17 nov 2026 (välkomstmejlet 4 nov) – sista dagen.",
     "first_seen": "2026-10-23"
   },
   {
@@ -713,7 +713,7 @@
   {
     "service": "Stads up! – gratis stand-up",
     "category": "Lokalt",
-    "offer": "Gratis stand-up måndagar 16, 23 & 30 nov, insläpp 19:00, scen 19:30, Malmö Stadsteaters innergård",
+    "offer": "Gratis stand-up måndagar 23 & 30 nov, insläpp 19:00, scen 19:30, Malmö Stadsteaters innergård",
     "code": "",
     "link": "https://www.malmostadsteater.se/stads",
     "catch": "Kostnadsfritt; dryck/snacks kostar. Innergården, Kalendegatan 12 (Malmö Stadsteater), ca 600 m från Sankt Knuts torg.",
@@ -1071,24 +1071,6 @@
     "first_seen": "2026-11-11"
   },
   {
-    "service": "RE:Design – Purple Rinse & Ateljé Laga",
-    "category": "Lokalt",
-    "offer": "Gratis workshop: gör om gamla T-shirts/skjortor, fre 13–mån 16 nov kl 12:00",
-    "code": "",
-    "link": "https://upptacknu.se/kommun/malmo/gratis",
-    "catch": "Ca 700 m från centrum. Ta med plagg.",
-    "first_seen": "2026-11-11"
-  },
-  {
-    "service": "Bomull – Malmö i den koloniala väven",
-    "category": "Lokalt",
-    "offer": "Gratis föreläsning mån 16 nov kl 16:00, Malmö universitet",
-    "code": "",
-    "link": "https://upptacknu.se/kommun/malmo/gratis",
-    "catch": "Ca 900 m från centrum.",
-    "first_seen": "2026-11-11"
-  },
-  {
     "service": "Blåsorkesterkonsert – Malmö Kulturskola",
     "category": "Lokalt",
     "offer": "Gratis höstkonsert tis 17 nov kl 18:30 i S:t Pauli kyrka (filmmusik, marscher)",
@@ -1323,18 +1305,9 @@
     "first_seen": "2026-11-15"
   },
   {
-    "service": "Malmö, Italia – Malmö stadsarkiv",
-    "category": "Lokalt",
-    "offer": "Gratis föredrag om italienska migranters liv i Malmö (Kockums m.m.) mån 16 nov kl 14:00",
-    "code": "",
-    "link": "https://upptacknu.se/kommun/malmo/gratis",
-    "catch": "Fri entré. Malmö stadsarkiv, ca 1,5 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-15"
-  },
-  {
     "service": "RE:JUL textilworkshops (vecka 47)",
     "category": "Lokalt",
-    "offer": "Gratis lagnings-/textilworkshops: spilltextil-accessoarer mån 16 nov 18:00 (Pill & Punch); Textillek tis 17 nov 16:00 & lör 21 nov 10:30 (Stadsbiblioteket); stoppa strumpor ons 18 & tors 19 nov 16:00; sashiko tors 19 nov 16:00; laga stickat fre 20 nov 14–17 (Stadsbiblioteket)",
+    "offer": "Gratis lagnings-/textilworkshops: Textillek tis 17 nov 16:00 & lör 21 nov 10:30 (Stadsbiblioteket); stoppa strumpor ons 18 & tors 19 nov 16:00; sashiko tors 19 nov 16:00; laga stickat fre 20 nov 14–17 (Stadsbiblioteket)",
     "code": "",
     "link": "https://upptacknu.se/kommun/malmo/gratis",
     "catch": "Allt i RE:JUL är gratis (Malmö stad, 13 nov–13 dec). Centrala lokaler ca 700 m–1 km från Sankt Knuts torg. Vissa kan ha begränsat antal platser.",
@@ -1485,15 +1458,6 @@
     "first_seen": "2026-11-16"
   },
   {
-    "service": "Lunchkonsert – Musikhögskolans pianoklass, Palladium",
-    "category": "Lokalt",
-    "offer": "Lunchkonsert med Musikhögskolan i Malmös pianoklass idag mån 16 nov 11:30–13:00",
-    "code": "",
-    "link": "https://somo.social/e/lunchkonsert-med-musikhogskolan-i-malmos-pianoklass-2026-11-16",
-    "catch": "Biljett 0 kr via Nortic (kan behöva hämtas ut). Palladium, Södra Förstadsgatan, ca 1 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-16"
-  },
-  {
     "service": "Dödscafé – Stadsbiblioteket",
     "category": "Lokalt",
     "offer": "Gratis öppna samtal om livet och döden över en fika ons 18 nov 17:30",
@@ -1501,5 +1465,131 @@
     "link": "https://upptacknu.se/kommun/malmo/gratis",
     "catch": "Fri entré. Stadsbiblioteket, Kung Oscars väg 11, ca 1 km från Sankt Knuts torg. Kolla ev. anmälan på bibliotekets sida.",
     "first_seen": "2026-11-16"
+  },
+  {
+    "service": "Readly",
+    "category": "Övrigt",
+    "offer": "2 månader gratis Readly (5 000+ magasin och dagstidningar, familjedelning)",
+    "code": "",
+    "link": "https://se.readly.com/primetime",
+    "catch": "Tidsbegränsat erbjudande för nya kunder, betaluppgifter krävs; därefter 149 kr/mån om du inte avslutar. Ingen bindningstid. Verifierat på readly.com 17 nov.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Podme Premium",
+    "category": "Övrigt",
+    "offer": "14 dagars gratis Premium-lyssning (reklamfria premiumpoddar)",
+    "code": "",
+    "link": "https://podme.com/se/abonnemang/",
+    "catch": "Nya kunder; betalmetod krävs, blir 99 kr/mån (Premium) eller 189 kr/mån (Total) om du inte avslutar senast sista provdagen. Ingår även i Trippel-erbjudandet. Verifierat 17 nov.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Braintrust – Starter-plan",
+    "category": "AI",
+    "offer": "Gratis Starter-plan med 10 USD i inbyggda modellkrediter varje månad + 1 GB data och 10k scores (evals/tracing)",
+    "code": "",
+    "link": "https://www.braintrust.dev/pricing",
+    "catch": "Inget kort krävs. Krediterna rullar inte över; när de är slut pausas inbyggd modellanvändning om du inte lägger in kort. Verifierat på braintrust.dev 17 nov.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "GonkaRouter",
+    "category": "AI",
+    "offer": "1 miljon gratis tokens för nya användare (GLM-5.3-Flash, DeepSeek-V4-Flash, MiniMax-M2.7), OpenAI-/Anthropic-kompatibelt",
+    "code": "",
+    "link": "https://gonkarouter.io/pricing",
+    "catch": "Engångsgrant, inget kort (logga in med e-post/Google). Gateway på decentraliserat Gonka-nätverk – skicka inget privat. Verifierat på gonkarouter.io 17 nov.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Vectoree",
+    "category": "AI",
+    "offer": "5 USD välkomstkredit på AI-agent-moln/modellgateway (36+ modeller, inkl. auth/databas/lagring)",
+    "code": "",
+    "link": "https://vectoree.ai/",
+    "catch": "Krediten aktiveras först efter CLI-inloggning + projektlänk; inget kort. Engångskredit, sedan PAYG-plånbok. Relay-gateway – skicka inget privat. Verifierat 17 nov.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Liquid AI API",
+    "category": "AI",
+    "offer": "2 USD gratis kredit för varje ny organisation på Liquid AI:s hostade API (LFM-modeller)",
+    "code": "",
+    "link": "https://www.liquid.ai/pricing",
+    "catch": "Tidsbegränsat enligt freellmapi (16 nov); liten summa. Modellerna är billiga så det räcker långt för test. Verifierat på liquid.ai 17 nov.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "IBM watsonx.ai – Free plan",
+    "category": "AI",
+    "offer": "Gratis plan: upp till 300 000 foundation-model-tokens/mån + 20 CUH ML-beräkning + textextraktion",
+    "code": "",
+    "link": "https://www.ibm.com/products/watsonx-ai/pricing",
+    "catch": "Kräver IBM Cloud-konto (kan kräva kort för verifiering). Ingen enkel OpenAI-kompatibel URL publicerad. Verifierat på ibm.com 17 nov.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Novita AI – Apodex 1.1 Mini gratis",
+    "category": "AI",
+    "offer": "Apodex 1.1 Mini gratis (0 USD per in-/ut-token) via Novitas OpenAI-kompatibla API, modell-ID apodex/apodex-1.1-mini",
+    "code": "",
+    "link": "https://novita.ai/models-console/model-detail/apodex-apodex-1.1-mini",
+    "catch": "Kräver Novita-konto + API-nyckel, inget kort enligt Perq. Rate limits/kvot ej publicerade, kan ändras när som helst. Perq/awesome-free-ai-coding 16 nov.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Baichuan AI API",
+    "category": "AI",
+    "offer": "Engångskredit ¥80 (ca 10 M Baichuan2-Turbo-tokens) för nya konton, giltig 3 mån",
+    "code": "",
+    "link": "https://platform.baichuan-ai.com/",
+    "catch": "Kinesisk plattform och konsol på kinesiska, sannolikt kinesiskt mobilnummer krävs. Inget kort. Källa freellmapi/dev.to 17 nov, ej verifierat på officiell sida (laddade inte).",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Från klimatoro till handling – Stadsbiblioteket",
+    "category": "Lokalt",
+    "offer": "Gratis föreläsning med psykologen Frida Hylander (Klimatpsykologerna) ons 18 nov 18:30–19:30",
+    "code": "",
+    "link": "https://somo.social/e/fran-klimatoro-till-handling-2026-11-18",
+    "catch": "Fri entré. Stadsbiblioteket, Kung Oscars väg 11, ca 1 km från Sankt Knuts torg. Kolla ev. anmälan på malmo.se.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Lunchkonsert – blockflöjt & cembalo, S:t Andreas kyrka",
+    "category": "Lokalt",
+    "offer": "Gratis lunchkonsert med Musikhögskolans blockflöjt- och cembaloklass (musik 1300–1600-tal) tors 19 nov 12:30",
+    "code": "",
+    "link": "https://www.konstnarliga.lu.se/evenemang/lunchkonsert-blockflojt-och-cembaloklassen",
+    "catch": "Gratis inträde. S:t Andreas kyrka, Fridhemstorget 25, ca 2 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Climate Conviviality AW – Purgatorio",
+    "category": "Lokalt",
+    "offer": "Gratis afterwork (Researchers' Desk Skåne kickoff) tors 19 nov 16:30–19:00",
+    "code": "",
+    "link": "https://natverkskollen.se/malmo/evenemang/afterwork-climate-conviviality-researchers-desk-skane-kickoff-2026-11-19-malmo",
+    "catch": "Gratis, anmälan via Luma. Purgatorio Mat & Ölhall, Möllan-området, ca 1,5 km från Sankt Knuts torg. Mat/dryck kostar sannolikt.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Crazy Arms Bluesband – Medley",
+    "category": "Lokalt",
+    "offer": "Gratis bluesrock-konsert Crazy Arms Bluesband (+ Paranoia) fre 20 nov 20:00–23:00",
+    "code": "",
+    "link": "https://medleymalmo.se/event/crazy-arms-bluesband-paranoia/",
+    "catch": "Fri entré, 18 år (13+ med vuxen). Medley, Södra Promenaden 51, ca 1,5 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Livekarusellen – Studiefrämjandet Malmö",
+    "category": "Lokalt",
+    "offer": "Gratis livekonserter med lokala band lör 21 nov 13:00–19:00",
+    "code": "",
+    "link": "https://www.studieframjandet.se/skane-lan/gustav-arrangemang/kalenderhandelser/2026/november/livekarusellen---konsert-i-malmo/",
+    "catch": "Fri entré, streamas även. Ystadsgatan 53 D (buss 12, hpl Ystadsgatan), ca 2 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-17"
   }
 ]
