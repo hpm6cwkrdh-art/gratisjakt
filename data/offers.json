@@ -72,15 +72,6 @@
     "first_seen": "2026-10-23"
   },
   {
-    "service": "Coop medlemskap",
-    "category": "Matkuponger",
-    "offer": "Välkomstgåva: ett paket Coop-kaffe + poäng/medlemspriser",
-    "code": "",
-    "link": "https://kundservice.coop.se/hc/sv/articles/360013574139-Bli-medlem",
-    "catch": "Du är redan medlem: hämta gratis Coop Kaffe 450 g i butik senast IDAG tis 17 nov 2026 (välkomstmejlet 4 nov) – sista dagen.",
-    "first_seen": "2026-10-23"
-  },
-  {
     "service": "Espresso House Fika Club",
     "category": "Matkuponger",
     "offer": "Gratis dryck på födelsedagen + poäng mot gratis dryck",
@@ -977,7 +968,7 @@
     "offer": "Gratis paket Santa Maria Premium Noodles (Green Curry, Pad Thai, Paneng Curry eller Teriyaki) via mobilkupong",
     "code": "",
     "link": "https://gratisprinsessan.se/2026/10/gratis-santa-maria-premium-noodles/",
-    "catch": "Tillbaka igen sedan 12 nov (Gratisprinsessan), kampanjen uppges gälla t.o.m. 12 dec 2026, kupongen giltig 30 dagar, 18+. Ange mobilnummer, löses in på ICA, Coop, Hemköp eller Willys. Först till kvarn; har du fått kupong tidigare får du ingen ny. Nudlar innehåller sannolikt vete, ej för glutenkänsliga.",
+    "catch": "Kostaringet listar kampanjen som avslutad sedan 14 nov (dagskvoten kan vara slut) trots att villkoren säger t.o.m. 12 dec – prova, men räkna inte med det. Tillbaka igen sedan 12 nov (Gratisprinsessan), kampanjen uppges gälla t.o.m. 12 dec 2026, kupongen giltig 30 dagar, 18+. Ange mobilnummer, löses in på ICA, Coop, Hemköp eller Willys. Först till kvarn; har du fått kupong tidigare får du ingen ny. Nudlar innehåller sannolikt vete, ej för glutenkänsliga.",
     "first_seen": "2026-11-08"
   },
   {
@@ -1044,15 +1035,6 @@
     "first_seen": "2026-11-11"
   },
   {
-    "service": "MiniMax H3 Image (MiniMax Code)",
-    "category": "AI",
-    "offer": "10 gratis bildgenereringar/redigeringar i valfri upplösning upp till 4K, t.o.m. 17 nov",
-    "code": "",
-    "link": "https://www.minimax.io/blog/minimax-h3-image",
-    "catch": "Kräver MiniMax-konto (webb/desktop/mobil); därefter kostar det krediter (4K till halva priset).",
-    "first_seen": "2026-11-11"
-  },
-  {
     "service": "Rosebud AI",
     "category": "AI",
     "offer": "Gratisplanen startar nu med 10 000 krediter (upp från 8 000), påfylls varje vecka – AI-spelskapande",
@@ -1068,15 +1050,6 @@
     "code": "se kod på kupongsajter (kupongtanten/rabattkungen)",
     "link": "https://kraftkoket.se/levererar-vi-till-dig/",
     "catch": "Utkörning 100 kr. Ord. från ca 124 kr/portion (744 kr för 6) → ca 87 kr/portion med rabatt, fortfarande dyrare än att laga själv (30–55 kr). Prenumeration – avsluta efter första.",
-    "first_seen": "2026-11-11"
-  },
-  {
-    "service": "Blåsorkesterkonsert – Malmö Kulturskola",
-    "category": "Lokalt",
-    "offer": "Gratis höstkonsert tis 17 nov kl 18:30 i S:t Pauli kyrka (filmmusik, marscher)",
-    "code": "",
-    "link": "https://upptacknu.se/kommun/malmo/gratis",
-    "catch": "S:t Pauli kyrka, nära Möllan – mycket nära Sankt Knuts torg.",
     "first_seen": "2026-11-11"
   },
   {
@@ -1199,7 +1172,7 @@
   {
     "service": "Höstkonsert – Pop/Rock Musikhögskolan i Malmö",
     "category": "Lokalt",
-    "offer": "Gratis studentkonserter tis 17 + ons 18 nov 19:00–21:00 (pop, soul, Michael Jackson-tribute), fika i pauserna",
+    "offer": "Gratis studentkonserter ons 18 nov (sista kvällen) 19:00–21:00 (pop, soul, Michael Jackson-tribute), fika i pauserna",
     "code": "",
     "link": "https://www.konstnarliga.lu.se/evenemang/hostkonsert-2-poprock-studenterna-vid-musikhogskolan-i-malmo",
     "catch": "Gratis inträde. Lilla Salen, Musikhögskolan i Malmö (Ystadvägen 25), ca 3 km från Sankt Knuts torg.",
@@ -1307,7 +1280,7 @@
   {
     "service": "RE:JUL textilworkshops (vecka 47)",
     "category": "Lokalt",
-    "offer": "Gratis lagnings-/textilworkshops: Textillek tis 17 nov 16:00 & lör 21 nov 10:30 (Stadsbiblioteket); stoppa strumpor ons 18 & tors 19 nov 16:00; sashiko tors 19 nov 16:00; laga stickat fre 20 nov 14–17 (Stadsbiblioteket)",
+    "offer": "Gratis lagnings-/textilworkshops: Textillek lör 21 nov 10:30 (Stadsbiblioteket); stoppa strumpor ons 18 & tors 19 nov 16:00; sashiko tors 19 nov 16:00; laga stickat fre 20 nov 14–17 (Stadsbiblioteket)",
     "code": "",
     "link": "https://upptacknu.se/kommun/malmo/gratis",
     "catch": "Allt i RE:JUL är gratis (Malmö stad, 13 nov–13 dec). Centrala lokaler ca 700 m–1 km från Sankt Knuts torg. Vissa kan ha begränsat antal platser.",
@@ -1428,24 +1401,6 @@
     "code": "",
     "link": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
     "catch": "Nya Azure-kunder; kort + telefon krävs för verifiering (ingen debitering om du inte uppgraderar). Krediten förfaller efter 30 dagar. Perq-verifierad 15 nov.",
-    "first_seen": "2026-11-16"
-  },
-  {
-    "service": "Paul's Playhouse – Rex Rhythm Kings på Medley",
-    "category": "Lokalt",
-    "offer": "Gratis New Orleans-jazz + jamsession tis 17 nov 20:00–22:00",
-    "code": "",
-    "link": "https://somo.social/e/fri-entre-pauls-playhouse-med-rex-rhythm-kings-2026-11-17",
-    "catch": "Fri entré (swisha gärna artisterna). Medley, Södra Promenaden 51, ca 1,5 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-16"
-  },
-  {
-    "service": "Art Meet Up – STPLN",
-    "category": "Lokalt",
-    "offer": "Gratis konstnärsträff med lätta snacks och dryck tis 17 nov 17:00–19:00",
-    "code": "",
-    "link": "https://www.stpln.se/our-calendar/art-meet-up-nov",
-    "catch": "Gratis men anmälan krävs på STPLN:s sida. Malmöhusvägen 5, ca 2 km från Sankt Knuts torg.",
     "first_seen": "2026-11-16"
   },
   {
@@ -1591,5 +1546,95 @@
     "link": "https://www.studieframjandet.se/skane-lan/gustav-arrangemang/kalenderhandelser/2026/november/livekarusellen---konsert-i-malmo/",
     "catch": "Fri entré, streamas även. Ystadsgatan 53 D (buss 12, hpl Ystadsgatan), ca 2 km från Sankt Knuts torg.",
     "first_seen": "2026-11-17"
+  },
+  {
+    "service": "Always Ultra dagbindor (SMS-kupong)",
+    "category": "Övrigt",
+    "offer": "Gratis paket Always Ultra dagbindor (Normal/Long/Long Plus, även större pack) via digital sms-kupong",
+    "code": "",
+    "link": "https://kostaringet.se/gratis/always-gratis-paket-dagbindor/",
+    "catch": "Kampanjen t.o.m. 30 nov 2026, begränsat antal kuponger per dag. 18+, svenskt mobilnummer, 1 kupong/person, gäller 15 dagar. Löses in på ICA, Coop, Hemköp, Willys, City Gross. Kryssa inte i nyhetsbrev från P&G om du vill slippa reklam.",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "service": "Bokus Play",
+    "category": "Övrigt",
+    "offer": "30 dagar gratis ljudböcker/e-böcker (valfritt paket, t.ex. Premium 100 h/mån)",
+    "code": "",
+    "link": "https://kostnader.se/streaming/bokus-play-erbjudande",
+    "catch": "Nya kunder, kort/betalmetod krävs, auto-förnyas: Bas 79 kr/mån, Premium 149 kr/mån, Premium Plus 249 kr/mån – avsluta senast dag 30. Du har konto på Bokus (bokhandeln) – Bokus Play-prova-på gäller troligen ändå om du aldrig haft Play, men kolla. Registrering via classic.bokus.com.",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "service": "Krea (AI-bild/video)",
+    "category": "AI",
+    "offer": "Gratis plan: 100 units per dag med full tillgång till realtidsmodeller, inget kort. Just nu Black Friday: upp till 70 % rabatt på årsplaner",
+    "code": "",
+    "link": "https://www.krea.ai/pricing",
+    "catch": "Gratisplanen har begränsad uppskalning; 100 units räcker till några bilder/dag. Rabatten gäller betalplaner (årsbetalning) med nedräkning på sidan – inte gratis. Verifierat på krea.ai 18 nov.",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "service": "OVHcloud Public Cloud",
+    "category": "AI",
+    "offer": "200 USD gratis kredit för ditt första Public Cloud-projekt (en månads provperiod), gäller även AI Endpoints/GPU-instanser",
+    "code": "",
+    "link": "https://www.ovhcloud.com/en/public-cloud/free-trial/",
+    "catch": "Nya Public Cloud-kunder, 1 voucher per första projekt, betalmetod krävs – användning efter krediten debiteras. Europeisk (fransk) molnleverantör. Verifierat på ovhcloud.com 18 nov.",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "service": "OpenRouter – Inkling 2 Small gratis",
+    "category": "AI",
+    "offer": "Gratis Thinking Machines Inkling 2 Small (594B MoE, 1M kontext, bild+text, tool calling): 0 kr per token via thinkingmachines/inkling-2-small:free",
+    "code": "",
+    "link": "https://openrouter.ai/thinkingmachines/inkling-2-small:free",
+    "catch": "Kräver OpenRouter-konto + API-nyckel; gratis-routen får bara användas i agent-verktyg och omfattas av TML Free Research API-villkor, rate limits gäller. Verifierat i OpenRouters modell-API 18 nov (pris 0).",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "service": "ElevenLabs Black Friday",
+    "category": "AI",
+    "offer": "55 % rabatt första året: Creator årsplan 99 USD (ord. 220) eller Pro årsplan 445,50 USD (ord. 990)",
+    "code": "",
+    "link": "https://join.elevenlabs.io/bfcm/terms",
+    "catch": "Inte gratis. Gäller 16 nov–1 dec 2026 för nya och uppgraderande prenumeranter (även gratisanvändare – du har konto, så den gäller troligen dig). Bara köp direkt på elevenlabs.io. Förnyas automatiskt till ordinarie årspris – säg upp innan om du inte vill fortsätta.",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "service": "Hugging Face ZeroGPU",
+    "category": "AI",
+    "offer": "Gratis ZeroGPU (NVIDIA RTX Pro 6000 Blackwell) i Spaces med daglig kvot; gratiskonton kan även hosta 2 egna ZeroGPU-Spaces",
+    "code": "",
+    "link": "https://huggingface.co/docs/hub/en/spaces-zerogpu",
+    "catch": "Du har redan HF-konto – gäller dig direkt. Hosting kräver verifierad e-post och konto äldre än 30 dagar; bara Gradio-Spaces. PRO får 8x kvot. Perq 17 nov.",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "service": "Lunchkören – Malmö Live",
+    "category": "Lokalt",
+    "offer": "Gratis drop-in-allsång med Lunchkören (firar 10 år) idag ons 18 nov kl 12:15, ca 30 min, scen Kuben",
+    "code": "",
+    "link": "https://malmolive.se/barn-och-familj-programlista",
+    "catch": "Fri entré, ingen körvana krävs. Malmö Live, Dag Hammarskjölds torg 4, ca 1,5 km från Sankt Knuts torg.",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "service": "Holiday by Mistake – Far i Hatten",
+    "category": "Lokalt",
+    "offer": "Gratis DJ-kväll med Random Tall Guy (blandad musik) fre 20 nov från 22:00",
+    "code": "",
+    "link": "https://somo.social/events/malmo/gratis-denna-vecka",
+    "catch": "Fri entré; dryck kostar. Far i Hatten, Folkets Park (Möllevången), ca 1,8 km från Sankt Knuts torg. Källa Somo-listning, ej bekräftad på Far i Hattens sida.",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "service": "Jul på slottet – Malmö museum",
+    "category": "Lokalt",
+    "offer": "Gratis julmarknad sön 29 nov kl 10–17: hantverk, Malmö stads Lucia, brassband, kör, husarer till häst, nisseverkstad med tomten i Kommendanthuset",
+    "code": "",
+    "link": "https://malmo.se/Aktuellt/Artiklar-Malmo-stad/2026-11-17-Jul-pa-Slottet-2026.html",
+    "catch": "Fri entré till Borggården, Borgstugan, Kommendanthuset och utomhusaktiviteter; själva museet kostar vanlig entré, mat/hantverk säljs. Malmöhusvägen 6, ca 2 km från Sankt Knuts torg. Bra för småbarn (tomten, pyssel).",
+    "first_seen": "2026-11-18"
   }
 ]
