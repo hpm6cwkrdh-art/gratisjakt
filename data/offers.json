@@ -756,15 +756,6 @@
     "first_seen": "2026-11-03"
   },
   {
-    "service": "Poetry Slam Grand Malmö",
-    "category": "Lokalt",
-    "offer": "Gratis poetry slam + öppen scen ons 18 nov 19–22, Grand öl & mat, Monbijougatan 17",
-    "code": "",
-    "link": "https://www.abf.se/malmo-sydvast/kurs/poetry-slam-grand-malmo-hosten-2026-3948373/",
-    "catch": "Fri entré, kom i god tid; mat/dryck kostar. Ca 500 m från Sankt Knuts torg. Även 16 dec.",
-    "first_seen": "2026-11-03"
-  },
-  {
     "service": "AW-teater – Malmö Stadsteater",
     "category": "Lokalt",
     "offer": "Gratis AW-teater torsdagar: Samtal Petra Brylander 19 nov 17:30; Högläsning klassiker 26 nov 17:30",
@@ -963,15 +954,6 @@
     "first_seen": "2026-11-08"
   },
   {
-    "service": "Santa Maria Premium Noodles (SMS-kupong)",
-    "category": "Matkuponger",
-    "offer": "Gratis paket Santa Maria Premium Noodles (Green Curry, Pad Thai, Paneng Curry eller Teriyaki) via mobilkupong",
-    "code": "",
-    "link": "https://gratisprinsessan.se/2026/10/gratis-santa-maria-premium-noodles/",
-    "catch": "Kostaringet listar kampanjen som avslutad sedan 14 nov (dagskvoten kan vara slut) trots att villkoren säger t.o.m. 12 dec – prova, men räkna inte med det. Tillbaka igen sedan 12 nov (Gratisprinsessan), kampanjen uppges gälla t.o.m. 12 dec 2026, kupongen giltig 30 dagar, 18+. Ange mobilnummer, löses in på ICA, Coop, Hemköp eller Willys. Först till kvarn; har du fått kupong tidigare får du ingen ny. Nudlar innehåller sannolikt vete, ej för glutenkänsliga.",
-    "first_seen": "2026-11-08"
-  },
-  {
     "service": "Regolo.ai",
     "category": "AI",
     "offer": "30 dagar gratis trial: 1M tokens/dag på alla Core-modeller (GLM-5.2, Gemma 4 31B, Qwen3.8-27B, gpt-oss-120b m.fl.), inget kort",
@@ -992,19 +974,19 @@
   {
     "service": "Musikquiz (lite bredare) – Malmö Live",
     "category": "Lokalt",
-    "offer": "Gratis musikquiz med liveband ons 18 nov kl 19:00 (ca 1 h 15 min), Kanalscenen",
+    "offer": "Gratis musikquiz med liveband ons 16 dec kl 19:00 (ca 1 h 15 min), Kanalscenen",
     "code": "",
     "link": "https://malmolive.se/program/musikquiz-lite-bredare",
-    "catch": "Fri entré, ingen bokning – först till kvarn, kom i god tid. Fiskehamnspromenaden 9 / Dag Hammarskjölds torg 4, ca 1,5 km. Mat/dryck i Bistro Live kostar. Även 16 dec.",
+    "catch": "Fri entré, ingen bokning – först till kvarn, kom i god tid. Fiskehamnspromenaden 9 / Dag Hammarskjölds torg 4, ca 1,5 km. Mat/dryck i Bistro Live kostar. 18 nov har passerat; 16 dec är sista tillfället i höst (malmolive.se 19 nov).",
     "first_seen": "2026-11-08"
   },
   {
     "service": "Form/Design Center – gratis program",
     "category": "Lokalt",
-    "offer": "Gratis: samtal ”Att organisera demokratiska rum” ons 18 nov 17–20; föreläsning Meriem Chabani tors 19 nov 17–19",
+    "offer": "Gratis föreläsning med Meriem Chabani tors 19 nov kl 17–19",
     "code": "",
     "link": "https://www.formdesigncenter.com/program",
-    "catch": "Båda gratis men kräver anmälan på resp. programsida. Lilla Torg 9, ca 1,2 km från Sankt Knuts torg.",
+    "catch": "Gratis men kräver anmälan på programsidan. Lilla Torg 9, ca 1,2 km från Sankt Knuts torg. (Samtalet 18 nov har passerat.)",
     "first_seen": "2026-11-08"
   },
   {
@@ -1167,33 +1149,6 @@
     "code": "",
     "link": "https://www.abf.se/malmo-sydvast/kurs/vandringsgrupp-tegelvandring-3945243/",
     "catch": "Gratis, anmälan på ABF-sidan (23 platser kvar 14 nov). Ca 1,3 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-14"
-  },
-  {
-    "service": "Höstkonsert – Pop/Rock Musikhögskolan i Malmö",
-    "category": "Lokalt",
-    "offer": "Gratis studentkonserter ons 18 nov (sista kvällen) 19:00–21:00 (pop, soul, Michael Jackson-tribute), fika i pauserna",
-    "code": "",
-    "link": "https://www.konstnarliga.lu.se/evenemang/hostkonsert-2-poprock-studenterna-vid-musikhogskolan-i-malmo",
-    "catch": "Gratis inträde. Lilla Salen, Musikhögskolan i Malmö (Ystadvägen 25), ca 3 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-14"
-  },
-  {
-    "service": "Fri entré-konsert på Medley",
-    "category": "Lokalt",
-    "offer": "Gratis konsert Kattskrället + Modet + The Dots ons 18 nov 20:00–22:00",
-    "code": "",
-    "link": "https://www.edgemalmo.se/event/9344f0bf-8b92-4ce0-a7bf-b54485d4c0e4",
-    "catch": "Fri entré. Medley, Södra Promenaden 51, ca 1,5 km från Sankt Knuts torg.",
-    "first_seen": "2026-11-14"
-  },
-  {
-    "service": "EMOM Scania – Inkonst",
-    "category": "Lokalt",
-    "offer": "Gratis Electronic Music Open Mic ons 18 nov 19:00–23:00",
-    "code": "",
-    "link": "https://www.edgemalmo.se/event/5422ed47-f299-4bee-87aa-e3864f453843",
-    "catch": "Gratis. Inkonst, Bergsgatan 29 (Möllan), ca 1,5 km från Sankt Knuts torg.",
     "first_seen": "2026-11-14"
   },
   {
@@ -1413,15 +1368,6 @@
     "first_seen": "2026-11-16"
   },
   {
-    "service": "Dödscafé – Stadsbiblioteket",
-    "category": "Lokalt",
-    "offer": "Gratis öppna samtal om livet och döden över en fika ons 18 nov 17:30",
-    "code": "",
-    "link": "https://upptacknu.se/kommun/malmo/gratis",
-    "catch": "Fri entré. Stadsbiblioteket, Kung Oscars väg 11, ca 1 km från Sankt Knuts torg. Kolla ev. anmälan på bibliotekets sida.",
-    "first_seen": "2026-11-16"
-  },
-  {
     "service": "Readly",
     "category": "Övrigt",
     "offer": "2 månader gratis Readly (5 000+ magasin och dagstidningar, familjedelning)",
@@ -1500,15 +1446,6 @@
     "code": "",
     "link": "https://platform.baichuan-ai.com/",
     "catch": "Kinesisk plattform och konsol på kinesiska, sannolikt kinesiskt mobilnummer krävs. Inget kort. Källa freellmapi/dev.to 17 nov, ej verifierat på officiell sida (laddade inte).",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "service": "Från klimatoro till handling – Stadsbiblioteket",
-    "category": "Lokalt",
-    "offer": "Gratis föreläsning med psykologen Frida Hylander (Klimatpsykologerna) ons 18 nov 18:30–19:30",
-    "code": "",
-    "link": "https://somo.social/e/fran-klimatoro-till-handling-2026-11-18",
-    "catch": "Fri entré. Stadsbiblioteket, Kung Oscars väg 11, ca 1 km från Sankt Knuts torg. Kolla ev. anmälan på malmo.se.",
     "first_seen": "2026-11-17"
   },
   {
@@ -1613,10 +1550,10 @@
   {
     "service": "Lunchkören – Malmö Live",
     "category": "Lokalt",
-    "offer": "Gratis drop-in-allsång med Lunchkören (firar 10 år) idag ons 18 nov kl 12:15, ca 30 min, scen Kuben",
+    "offer": "Gratis drop-in-allsång med Lunchkören (firar 10 år) ons 25 nov, 9 dec och 16 dec kl 12:15–12:45, scen Kuben",
     "code": "",
-    "link": "https://malmolive.se/barn-och-familj-programlista",
-    "catch": "Fri entré, ingen körvana krävs. Malmö Live, Dag Hammarskjölds torg 4, ca 1,5 km från Sankt Knuts torg.",
+    "link": "https://malmolive.se/program/lunchkoren-firar-10-ar-koren-for-alla-som-vill-sjunga-tillsammans",
+    "catch": "Fri entré, ingen körvana krävs, max 500 personer – kom i god tid. Malmö Live, Dag Hammarskjölds torg 4, ca 1,5 km från Sankt Knuts torg. Datumen verifierade på malmolive.se 19 nov.",
     "first_seen": "2026-11-18"
   },
   {
@@ -1636,5 +1573,86 @@
     "link": "https://malmo.se/Aktuellt/Artiklar-Malmo-stad/2026-11-17-Jul-pa-Slottet-2026.html",
     "catch": "Fri entré till Borggården, Borgstugan, Kommendanthuset och utomhusaktiviteter; själva museet kostar vanlig entré, mat/hantverk säljs. Malmöhusvägen 6, ca 2 km från Sankt Knuts torg. Bra för småbarn (tomten, pyssel).",
     "first_seen": "2026-11-18"
+  },
+  {
+    "service": "Pressbyrån – gratis julmust på Julmustens dag",
+    "category": "Matkuponger",
+    "offer": "Gratis Apotekarnes julmust via kupong i Pressbyråns app Kompis tis 24 nov (10 000 flaskor i hela Sverige)",
+    "code": "",
+    "link": "https://gratisprinsessan.se/2026/11/gratis-julmust-pressbyran/",
+    "catch": "Först till kvarn, bara 24 nov så länge kupongerna räcker – öppna appen tidigt. Kräver Pressbyråns app (gratis). Flera Pressbyrån i centrala Malmö (t.ex. Triangeln, Centralen). Värde ca 20–30 kr. Källa: Gratisprinsessan 19 nov 2026; samma kampanj gjordes 2025.",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "service": "OKQ8 – födelsedagsfika",
+    "category": "Matkuponger",
+    "offer": "Gratis kaffe + fikabröd på födelsedagen för OK-medlemmar (kupong i OKQ8-appen)",
+    "code": "",
+    "link": "https://kostaringet.se/gratis/okq8-gratis-fika-fodelsedag/",
+    "catch": "Du har OKQ8-konto – kolla att du är OK-medlem och har rätt födelsedatum i appen. Medlemskap i OK kräver en insats (ägarkapital som du får tillbaka), ingen avgift. Löses in på OKQ8-station. Inget slutdatum. Kontrollerat av Kostaringet hos OKQ8 16 nov 2026.",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "service": "Circle K EXTRA – belöning var 5:e besök",
+    "category": "Matkuponger",
+    "offer": "Välj en gratis belöning i Circle K-appen efter var 5:e besök (kall/varm dryck, mat eller snacks) + medlemspriser t.ex. kanelbulle 15 kr, 2 för 49 kr (fralla/liten kaffe/juice/toast)",
+    "code": "",
+    "link": "https://www.circlek.se/extra",
+    "catch": "Du har redan Circle K EXTRA – gäller dig direkt. Besök räknas när du handlar/tankar/tvättar, alltså 5 köp krävs per belöning (inte gratis i sig); besök räknas på senaste 90 dagarna. Värde per belöning ca 20–40 kr. Verifierat på circlek.se 19 nov.",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "service": "Julmarknad + julbelysningens tändning – Gustav Adolfs torg",
+    "category": "Lokalt",
+    "offer": "Gratis: julmarknad tors–sön 11–18 från 26 nov till 20 dec. Lör 28 nov: Tomtemor & Tomtefar 13:30, musik 14–16, William Hedendahl tänder julbelysningen 16:15, Lucia kröns 16:20–17. Sön 29 nov: cirkusshow 11 & 13, magishow 15 & 16:30",
+    "code": "",
+    "link": "https://malmocity.se/jul-i-city/",
+    "catch": "Fri entré, mat/glögg kostar. Gustav Adolfs torg, ca 1–1,2 km från Sankt Knuts torg. Barnvänligt; mobil lekplats flyttar hit 3–20 dec. Program från Malmö City 19 nov.",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "service": "Citys mobila lekplats – Drottningtorget",
+    "category": "Lokalt",
+    "offer": "Gratis mobil lekplats (klätter, rutschkana) på Drottningtorget t.o.m. 30 nov, sedan Gustav Adolfs torg 3–20 dec",
+    "code": "",
+    "link": "https://malmocity.se/jul-i-city/",
+    "catch": "Gratis, ingen bokning. Drottningtorget ca 1,3–1,5 km från Sankt Knuts torg. Öppettider anges inte – kolla på plats. Bra stopp med en 1,5-åring.",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "service": "Julmarknad på Mitt Möllan",
+    "category": "Lokalt",
+    "offer": "Julmarknad med lokala designers, hantverkare och konstnärer lör–sön 28–29 nov kl 12–17 + foodcourt",
+    "code": "",
+    "link": "https://somo.social/e/julmarknad-pa-mitt-mollan-2026-11-28",
+    "catch": "Ingen entréavgift anges, köp och mat kostar. Claesgatan 8 (Möllan), ca 1 km från Sankt Knuts torg. Arrangörens sida mittmollan.se/marknad blockerade vår kontroll; uppgifter via Somo och Goa Malmö 19 nov.",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "service": "Sjung med ditt barn – Stadsbiblioteket",
+    "category": "Lokalt",
+    "offer": "Gratis sångstund med sånger, ramsor och små instrument för barn 10–24 månader + vuxen, fre 20 nov kl 10:00–10:30 (Kanini, våning 1)",
+    "code": "",
+    "link": "https://malmo.se/Uppleva-och-gora/Biblioteken/Vara-bibliotek/Stadsbiblioteket/Kanini-barn-0-8-ar/Program-for-barn-0-8-ar/Program-Kanini.html?id=5.308d947e1a1a75d58d14aa&title=Sjung-med-ditt-barn-%7C-10%E2%80%9324-m%C3%A5nader",
+    "catch": "Passar din son (19 mån). Anmälan krävs via Ungapped (1 barn + 1 vuxen), öppnade två veckor innan och kan vara fullt. Bibliotekets program, ingen avgift anges. Stadsbiblioteket, Kung Oscars väg 11, ca 1,5 km.",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "service": "Epic Games – Mark of the Deep",
+    "category": "Övrigt",
+    "offer": "Gratis PC-spel Mark of the Deep (ord. 169 kr), behåll för alltid",
+    "code": "",
+    "link": "https://store.epicgames.com/sv/p/mark-of-the-deep-f7dc08",
+    "catch": "Hämta 19 nov 17:00 – 26 nov 17:00 (svensk tid). Kräver Epic-konto, inget kort. Verifierat via Epics freeGamesPromotions-API 19 nov.",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "service": "HPC-AI Model APIs",
+    "category": "AI",
+    "offer": "2 USD gratis API-kredit för alla nya användare (OpenAI-kompatibelt API: Kimi K3/K3.1 Pro, GLM 5.3, DeepSeek V4 Pro m.fl.)",
+    "code": "",
+    "link": "https://www.hpc-ai.com/blog/Introducing-Model-API",
+    "catch": "Registrera konto och hämta vouchern i Models Console. Räcker enligt HPC-AI till ca 4,3M input + 1M output tokens på billiga modeller, mycket mindre på Kimi K3.1 Pro (2/10 USD per M). Inget slutdatum. Singapore-bolag. Verifierat 19 nov.",
+    "first_seen": "2026-11-19"
   }
 ]
