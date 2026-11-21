@@ -23,7 +23,7 @@
     "offer": "Upp till 1 099 kr rabatt på 5 första kassarna (329+260+170+170+170 kr) + gratis snacks i 2 månader",
     "code": "GENERICFRESH",
     "link": "https://www.hellofresh.se/matkasse/rabattkoder",
-    "catch": "Ny kampanj från 9 nov 2026 (partnerkod via budgetdoktorn/webstores). Nya kunder eller avslutat >52 v, 1 per hushåll. 5 kassar inom 9 v annars förfaller rabatten. Prenumeration, ej fri leverans. Inte billigare än att laga själv.",
+    "catch": "Ny kampanj från 9 nov 2026 (partnerkod via budgetdoktorn/webstores). Nya kunder eller avslutat >52 v, 1 per hushåll. 5 kassar inom 9 v annars förfaller rabatten. Prenumeration, ej fri leverans. Inte billigare än att laga själv. OBS: hellofresh.se visade 19 nov officiellt upp till 1 039 kr + fri frakt på de 5 första kassarna (bästamatkasse.se) – kolla vilken som ger mest i kassan.",
     "first_seen": "2026-11-10"
   },
   {
@@ -650,10 +650,10 @@
   {
     "service": "Malmö Konsthall Helgverkstad",
     "category": "Lokalt",
-    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30 varje helg (nästa 21–22 nov), S:t Johannesgatan 7",
+    "offer": "Gratis workshop + familjevisning lör–sön 13–16:30 varje helg (21–22 & 28–29 nov), S:t Johannesgatan 7",
     "code": "",
     "link": "https://malmokonsthall.se/en/evenemangs/weekend-workshop-6/2026-11-21/",
-    "catch": "Fri entré, ingen anmälan. Återkommande helger. Ca 1 km från Sankt Knuts torg.",
+    "catch": "Fri entré, ingen anmälan. Återkommande helger. Ca 1 km från Sankt Knuts torg. Familjevisning kl 13 (tema Otobong Nkanga). Verifierat på malmokonsthall.se 21 nov.",
     "first_seen": "2026-10-23"
   },
   {
@@ -839,11 +839,11 @@
   {
     "service": "Nextory",
     "category": "Övrigt",
-    "offer": "14 dagar gratis (30 h)",
+    "offer": "60 dagar gratis (upp till 20 h lyssning/läsning) via partnerlänk – även för tidigare kunder",
     "code": "",
-    "link": "https://nextory.com/se",
-    "catch": "Betaluppgifter krävs, avsluta dagen före. Coop-medlemmar kan få 60 d via Extrabonus.",
-    "first_seen": "2026-10-23"
+    "link": "https://kostnader.se/streaming/nextory-erbjudande",
+    "catch": "Nya kunder eller om det gått 6 mån sedan senaste Nextory-kampanj; inget aktivt abonnemang. Betalmetod krävs, blir från 89 kr/mån (Mini) – säg upp senast dag 60 (tillgången slutar direkt vid uppsägning, så gör det sista dagen). Nextorys egen sida ger bara 30 d. Gratisprinsessan anger 65 d (21 nov). Värde ca 2 × 129 kr. Verifierat kostnader.se (kontrollerat hos Nextory 20 nov) 21 nov.",
+    "first_seen": "2026-11-21"
   },
   {
     "service": "Spotify Premium",
@@ -1040,7 +1040,7 @@
     "offer": "Gratis invigning sön 29 nov kl 16 vid stora isbanan (uppvisningar, livemusik). Från 27 nov: gratis lån av skridskor + hjälm 1 h, ca 70 gratis aktiviteter (sagoläsning, pyssel, ponnyridning) t.o.m. 31 jan",
     "code": "",
     "link": "https://malmo.se/Aktuellt/Artiklar-Malmo-stad/2026-11-11-Vinter-i-Folkets-Park-vaxer-fram-tillsammans-med-besokarna.html",
-    "catch": "Folkets Park, Möllevången, ca 1,8 km från Sankt Knuts torg. Allt gratis, ingen anmälan. Skridskolån mån–tors & lör–sön 10–17, fre 10–19.",
+    "catch": "Folkets Park, Möllevången, ca 1,8 km från Sankt Knuts torg. Allt gratis, ingen anmälan. Skridskolån mån–tors & lör–sön 10–17, fre 10–19. Även gratis prova-på-konståkning (Malmö Ice Flyers) lör 10–12 och Vinterverkstad i Ridhuset lör 11–17 från 28 nov.",
     "first_seen": "2026-11-12"
   },
   {
@@ -1134,15 +1134,6 @@
     "first_seen": "2026-11-14"
   },
   {
-    "service": "Malmö Big Band – Grand Malmö",
-    "category": "Lokalt",
-    "offer": "Storbandsjazz (Basie, Thad Jones, Coltrane) fre 20 nov från 21:30, fritt inträde före 23:00",
-    "code": "",
-    "link": "https://somo.social/e/malmo-big-band-2026-11-20",
-    "catch": "Gratis bara före kl 23; mat/dryck kostar. Grand Malmö, Monbijougatan, ca 500 m från Sankt Knuts torg.",
-    "first_seen": "2026-11-14"
-  },
-  {
     "service": "SambaNova (SambaCloud Free Tier)",
     "category": "AI",
     "offer": "Gratis API-nivå med dagliga tokengränser per modell så länge inget betalsätt är kopplat",
@@ -1217,7 +1208,7 @@
   {
     "service": "RE:JUL textilworkshops (vecka 47)",
     "category": "Lokalt",
-    "offer": "Gratis lagnings-/textilworkshops: laga stickat fre 20 nov 14–17 och Textillek lör 21 nov 10:30–13 (båda Stadsbiblioteket); fler RE:JUL-workshops t.o.m. 13 dec",
+    "offer": "Gratis lagnings-/textilworkshops, t.ex. Textillek lör 21 nov 10:30–13 och Sashiko/dekorativ lagning 13:30–15:30 (Stadsbiblioteket); fler RE:JUL-workshops t.o.m. 13 dec",
     "code": "",
     "link": "https://upptacknu.se/kommun/malmo/gratis",
     "catch": "Allt i RE:JUL är gratis (Malmö stad, 13 nov–13 dec). Centrala lokaler ca 700 m–1 km från Sankt Knuts torg. Vissa kan ha begränsat antal platser.",
@@ -1332,15 +1323,6 @@
     "first_seen": "2026-11-16"
   },
   {
-    "service": "Amplified – Little Known + Nordic Cactus på Grand",
-    "category": "Lokalt",
-    "offer": "Gratis konsert fre 20 nov: Nordic Cactus 22:00, Little Known 22:45; därefter DJ Table Turnah (hiphop/soul/funk) till 03, fri entré",
-    "code": "",
-    "link": "https://somo.social/e/amplified-pres-little-known-nordic-cactus-2026-11-20",
-    "catch": "Fri entré. Grand Malmö, Monbijougatan 17, ca 500 m från Sankt Knuts torg. Samma kväll som Malmö Big Band (21:30) på Grand.",
-    "first_seen": "2026-11-16"
-  },
-  {
     "service": "Readly",
     "category": "Övrigt",
     "offer": "2 månader gratis Readly (5 000+ magasin och dagstidningar, familjedelning)",
@@ -1419,15 +1401,6 @@
     "code": "",
     "link": "https://platform.baichuan-ai.com/",
     "catch": "Kinesisk plattform och konsol på kinesiska, sannolikt kinesiskt mobilnummer krävs. Inget kort. Källa freellmapi/dev.to 17 nov, ej verifierat på officiell sida (laddade inte).",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "service": "Crazy Arms Bluesband – Medley",
-    "category": "Lokalt",
-    "offer": "Gratis bluesrock-konsert Crazy Arms Bluesband (+ Paranoia) fre 20 nov 20:00–23:00",
-    "code": "",
-    "link": "https://medleymalmo.se/event/crazy-arms-bluesband-paranoia/",
-    "catch": "Fri entré, 18 år (13+ med vuxen). Medley, Södra Promenaden 51, ca 1,5 km från Sankt Knuts torg.",
     "first_seen": "2026-11-17"
   },
   {
@@ -1512,15 +1485,6 @@
     "first_seen": "2026-11-18"
   },
   {
-    "service": "Holiday by Mistake – Far i Hatten",
-    "category": "Lokalt",
-    "offer": "Gratis DJ-kväll med Random Tall Guy (blandad musik) fre 20 nov från 22:00",
-    "code": "",
-    "link": "https://somo.social/events/malmo/gratis-denna-vecka",
-    "catch": "Fri entré; dryck kostar. Far i Hatten, Folkets Park (Möllevången), ca 1,8 km från Sankt Knuts torg. Källa Somo-listning, ej bekräftad på Far i Hattens sida.",
-    "first_seen": "2026-11-18"
-  },
-  {
     "service": "Jul på slottet – Malmö museum",
     "category": "Lokalt",
     "offer": "Gratis julmarknad sön 29 nov kl 10–17: hantverk, Malmö stads Lucia, brassband, kör, husarer till häst, nisseverkstad med tomten i Kommendanthuset",
@@ -1581,15 +1545,6 @@
     "code": "",
     "link": "https://somo.social/e/julmarknad-pa-mitt-mollan-2026-11-28",
     "catch": "Ingen entréavgift anges, köp och mat kostar. Claesgatan 8 (Möllan), ca 1 km från Sankt Knuts torg. Arrangörens sida mittmollan.se/marknad blockerade vår kontroll; uppgifter via Somo och Goa Malmö 19 nov.",
-    "first_seen": "2026-11-19"
-  },
-  {
-    "service": "Sjung med ditt barn – Stadsbiblioteket",
-    "category": "Lokalt",
-    "offer": "Gratis sångstund med sånger, ramsor och små instrument för barn 10–24 månader + vuxen, fre 20 nov kl 10:00–10:30 (Kanini, våning 1)",
-    "code": "",
-    "link": "https://malmo.se/Uppleva-och-gora/Biblioteken/Vara-bibliotek/Stadsbiblioteket/Kanini-barn-0-8-ar/Program-for-barn-0-8-ar/Program-Kanini.html?id=5.308d947e1a1a75d58d14aa&title=Sjung-med-ditt-barn-%7C-10%E2%80%9324-m%C3%A5nader",
-    "catch": "Passar din son (19 mån). Anmälan krävs via Ungapped (1 barn + 1 vuxen), öppnade två veckor innan och kan vara fullt. Bibliotekets program, ingen avgift anges. Stadsbiblioteket, Kung Oscars väg 11, ca 1,5 km.",
     "first_seen": "2026-11-19"
   },
   {
@@ -1665,15 +1620,6 @@
     "first_seen": "2026-11-20"
   },
   {
-    "service": "Santa Maria Premium Noodles (SMS-kupong)",
-    "category": "Matkuponger",
-    "offer": "Gratis paket Santa Maria Premium Noodles (Green Curry, Pad Thai, Paneng Curry eller Teriyaki) via sms-kupong – ny omgång",
-    "code": "",
-    "link": "https://gratisprinsessan.se/2026/11/gratis-santa-maria-premium-noodles-igen/",
-    "catch": "1 kupong per mobilnummer – fick du en i oktober går det inte igen. Först till kvarn, 18+, kupongen gäller 30 dagar, kampanjen längst t.o.m. 12 dec. Löses in på Coop, ICA, Hemköp, Willys. Värde ca 35–45 kr (ej verifierat). Kampanjsidan (Clearon) gick inte att ladda – källa Gratisprinsessan 12 nov/Pepperdeals. Verifierat 20 nov.",
-    "first_seen": "2026-11-20"
-  },
-  {
     "service": "Hösten med Göran – gratis förhandsvisning",
     "category": "Lokalt",
     "offer": "2 gratis biobiljetter till förhandsvisning av Hösten med Göran tis 8 dec i Malmö (premiär juldagen)",
@@ -1699,5 +1645,95 @@
     "link": "https://www.svenskalag.se/malmosportfiskeklubb/aktivitet/20573701/abborrfiske-i-kanalen-malmo",
     "catch": "Gratis att delta men anmälan via klubbens sida senast dagen innan (lör 21 nov). Eget spö, mätdon och gärna ficklampa; ej levande bete, ej fiske från broar. Kolla om fiskekort krävs i kanalen. Samling parkeringen vid Malmö museum, ca 1,5 km från Sankt Knuts torg. Verifierat på svenskalag.se 20 nov.",
     "first_seen": "2026-11-20"
+  },
+  {
+    "service": "Epic Games – Bread and Fred",
+    "category": "Övrigt",
+    "offer": "Gratis PC-spel Bread and Fred (ord. 127 kr), co-op-plattformsspel – behåll för alltid",
+    "code": "",
+    "link": "https://store.epicgames.com/sv/p/bread-and-fred-1db362",
+    "catch": "Hämta tors 26 nov 17:00 – tors 3 dec 17:00 (svensk tid), inte tidigare. Du har Epic-konto, inget kort krävs. Värde ca 127 kr. Verifierat via Epics freeGamesPromotions-API 21 nov.",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "service": "Malmös juliga fordonsparad",
+    "category": "Lokalt",
+    "offer": "Gratis parad med glitter- och ljuspyntade arbetsfordon sön 29 nov (första advent): start 16:15 från S:t Knuts väg 19, sedan ca 18 fordon att provsitta på Stortorget till 18:30 + gratis pepparkakor",
+    "code": "",
+    "link": "https://malmo.se/Uppleva-och-gora/Evenemang/Evenemang-i-Malmo/Evenemangssida.html?id=5.308d947e1a1a75d58d1155c&title=Malm%C3%B6s-juliga-fordonsparad",
+    "catch": "Helt gratis, ingen anmälan. Starten är bokstavligen runt hörnet (S:t Knuts väg, ca 100–200 m från Sankt Knuts torg) och kortegen kör via Amiralsgatan–Triangeln; framme vid Stortorget (ca 1,8 km) ca 16:45–17. Perfekt för en 1,5-åring som gillar sopbilar/traktorer. Samma dag som Jul på slottet och Folkets Park-invigningen. Verifierat på malmo.se 21 nov.",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "service": "Julmarknad på Möllevångstorget (temamarknad)",
+    "category": "Lokalt",
+    "offer": "Gratis temamarknad med jul-/novembertema lör 28 nov: ordinarie torghandel + gästande lokala aktörer med nya varor",
+    "code": "",
+    "link": "https://malmo.se/Aktuellt/Artiklar-Malmo-stad/2026-08-25-Temamarknader-pa-Mollevangstorget.html",
+    "catch": "Fri entré, varor kostar – gratis att strosa, inte gratis prylar. Malmö stad kallar temat 'Novemberglöd'; tid ca 9–15 enligt Gröna torget, ej angiven på malmo.se. Möllevångstorget, ca 700 m från Sankt Knuts torg. Samma helg som Mitt Möllans julmarknad (Claesgatan). Verifierat malmo.se 21 nov.",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "service": "Musikhögskolan i Malmö – brassklassens kvällskonsert",
+    "category": "Lokalt",
+    "offer": "Gratis klassisk brasskonsert mån 23 nov kl 18–19 (Tjajkovskij, nyskriven musik av kompositionsstudenter, fanfarer), Rosenbergsalen",
+    "code": "",
+    "link": "https://www.lu.se/evenemang/konsert-musikhogskolan-i-malmos-brassklass",
+    "catch": "Gratis inträde, ingen bokning angiven. Rosenbergsalen, Musikhögskolan i Malmö (Ystadvägen 25), ca 2,5 km från Sankt Knuts torg (buss). Går att kombinera med gratis Stads up! samma kväll 19:30. Verifierat på lu.se 21 nov.",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "service": "CeraVe – gratis varuprover",
+    "category": "Övrigt",
+    "offer": "3 gratis varuprover från CeraVe (hudvård) hemskickade fraktfritt när du registrerar dig för nyhetsbrevet",
+    "code": "",
+    "link": "https://gratisprinsessan.se/2026/11/gratis-varuprover-fran-cerave-2/",
+    "catch": "Bara via CeraVes annons på Instagram/Facebook – ingen direktlänk, håll utkik i flödet. Kräver nyhetsbrev (L'Oréal-reklam). Små provförpackningar, värde ca 30–60 kr (ej verifierat). Källa Gratisprinsessan 18 nov, ej bekräftad på CeraVes sida. Verifierat 21 nov.",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "service": "Devin (Cognition) – SWE-2 Flash gratis",
+    "category": "AI",
+    "offer": "Kodagentmodellen SWE-2 Flash gratis att använda i Devin Desktop och Devin CLI t.o.m. 30 nov",
+    "code": "",
+    "link": "https://cognition.com/blog/swe-2-flash",
+    "catch": "Tidsbegränsad modellkampanj, slutar 30 nov 2026. Kräver Devin-konto och Desktop-appen eller CLI:t; eventuella rate limits anges inte. Vikterna är inte öppna. Verifierat på cognition.com 21 nov (Perq 18 nov).",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "service": "KRAFTON Raon-1 mini API",
+    "category": "AI",
+    "offer": "Gratis API för Raon-1 mini (30B A4B MoE, agentisk, öppna vikter Apache 2.0) under lanseringsperioden + webbchatt utan inloggning",
+    "code": "",
+    "link": "https://raon-mini.krafton.ai/en",
+    "catch": "Gratis 'för en begränsad tid', inget slutdatum; per-användargränser för tokens/anrop kan gälla och framtida priser annonseras separat. API-nyckel via Raon-konsolen (social inloggning), åtkomst kan ske via e-postinbjudan. Bäst på koreanska/engelska. Verifierat på raon-mini.krafton.ai 21 nov.",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "service": "Articul8 Bivia",
+    "category": "AI",
+    "offer": "1 miljard gratis tokens för de första 10 000 användarna av Bivia (multimodal beslutsmodell för agenter, ja/nej/val med kalibrerad sannolikhet)",
+    "code": "",
+    "link": "https://articul8.ai/bivia/",
+    "catch": "Lanseringserbjudande, begränsat till 10 000 early adopters – först till kvarn. Ingen prenumeration. Nischat: returnerar typade beslut, inte fri text. SDK för Python/Node/Go/Rust. Verifierat på articul8.ai 21 nov (Perq 19 nov).",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "service": "Cognee (AI-minne för agenter)",
+    "category": "AI",
+    "offer": "Gratis Standard-plan: 1 workspace + 100 miljoner tokens ingår (upp från 1M), därefter 0,10 USD per 1M tokens, integrationer för Claude Code/Codex/MCP",
+    "code": "",
+    "link": "https://www.cognee.ai/pricing",
+    "catch": "Inget kort krävs. Fler workspaces 5 USD/st/mån. Cognee är också open source – går att köra själv gratis i Docker på monster-ubuntu. Verifierat på cognee.ai/pricing 21 nov.",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "service": "Smallest.ai (röst-AI)",
+    "category": "AI",
+    "offer": "10 USD gratis kredit på pay-as-you-go: hela API-sviten (TTS, STT Pulse, röstagenter)",
+    "code": "",
+    "link": "https://smallest.ai/pricing",
+    "catch": "Nya konton; engångskredit. Telefonnummer för agenter kostar 10 USD/mån extra. Konkurrent till ElevenLabs/Cartesia. Verifierat på smallest.ai/pricing 21 nov (Perq 20 nov).",
+    "first_seen": "2026-11-21"
   }
 ]
